@@ -1,0 +1,10 @@
+# Local Claude Code settings
+.claude/settings.local.json
+
+# Full-length renders: each is over GitHub's 100 MB per-file limit, so they stay local.
+# Rebuild them from clips_graded/ with the scripts in the same folder.
+1.1 dudh ma pani/video/edit/base.mp4
+1.1 dudh ma pani/video/edit/stage1_trimmed.mp4
+1.1 dudh ma pani/video/edit/stage2_music.mp4
+1.1 dudh ma pani/video/edit/final_before_bookends.mp4
+1.1 dudh ma pani/video/edit/final.mp4

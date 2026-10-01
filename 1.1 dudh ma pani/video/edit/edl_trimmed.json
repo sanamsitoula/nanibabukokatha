@@ -1,0 +1,416 @@
+{
+  "version": 1,
+  "sources": {
+    "S1S1_202607231152": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S1S1_202607231152.mp4",
+    "S1S2_202607231158": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S1S2_202607231158.mp4",
+    "S1S3_202607231159": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S1S3_202607231159.mp4",
+    "S1S4_202607231159": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S1S4_202607231159.mp4",
+    "S2S1_202607231159": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S2S1_202607231159.mp4",
+    "S2S2_202607231200": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S2S2_202607231200.mp4",
+    "S2S3_202607231201": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S2S3_202607231201.mp4",
+    "S3S1_202607231409": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S3S1_202607231409.mp4",
+    "S3S2_202607241201": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S3S2_202607241201.mp4",
+    "S3S3_202607231416": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S3S3_202607231416.mp4",
+    "S3S4_202607231416": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S3S4_202607231416.mp4",
+    "S4S1_202607231417": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S4S1_202607231417.mp4",
+    "S4S2_202607262042": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S4S2_202607262042.mp4",
+    "S4S3_202607262043": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S4S3_202607262043.mp4",
+    "S5S1_202607262050": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S5S1_202607262050.mp4",
+    "S5S2_202607262022": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S5S2_202607262022.mp4",
+    "S5S3_202607262020": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S5S3_202607262020.mp4",
+    "S5S4_202607262107": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S5S4_202607262107.mp4",
+    "S6S1_202607262108": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S6S1_202607262108.mp4",
+    "S6S2_202607262108": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S6S2_202607262108.mp4",
+    "S6S3_202607241203": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S6S3_202607241203.mp4",
+    "S6S4_202607241202": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S6S4_202607241202.mp4",
+    "S7S1_202607262016": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S7S1_202607262016.mp4",
+    "S7S2_202607241202": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S7S2_202607241202.mp4",
+    "S7S3---_202607241202": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S7S3---_202607241202.mp4",
+    "S7S4_202607241202": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S7S4_202607241202.mp4",
+    "S8S1_202607241200": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S8S1_202607241200.mp4",
+    "S8S2_202607241201": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S8S2_202607241201.mp4",
+    "S8S3_202607241201": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S8S3_202607241201.mp4",
+    "S8S4_202607262119": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S8S4_202607262119.mp4",
+    "S9S1_202607241202": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S9S1_202607241202.mp4",
+    "S9S2_202607241201": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S9S2_202607241201.mp4",
+    "S9S3_202607262123": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S9S3_202607262123.mp4",
+    "S9S4_202607262128": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S9S4_202607262128.mp4",
+    "S10S1_202607262132": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S10S1_202607262132.mp4",
+    "S10S2_202607262136": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S10S2_202607262136.mp4",
+    "S10S3_202607262139": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S10S3_202607262139.mp4",
+    "S10S4_202607262149": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S10S4_202607262149.mp4",
+    "S10S5_202607262015": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S10S5_202607262015.mp4",
+    "S11S1_202607262014": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S11S1_202607262014.mp4",
+    "S11S2_202607262014": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S11S2_202607262014.mp4",
+    "S11S3_202607262014": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S11S3_202607262014.mp4",
+    "S11S4_202607262153": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S11S4_202607262153.mp4",
+    "S12S1_202607262035": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S12S1_202607262035.mp4",
+    "S12S2_202607262035": "D:/claude_project/nanibabukokatha/1.1 dudh ma pani/video/S12S2_202607262035.mp4"
+  },
+  "ranges": [
+    {
+      "source": "S1S1_202607231152",
+      "start": 0.87,
+      "end": 9.07,
+      "beat": "S1S1_202607231152",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S1S2_202607231158",
+      "start": 0.0,
+      "end": 9.25,
+      "beat": "S1S2_202607231158",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S1S3_202607231159",
+      "start": 4.47,
+      "end": 7.79,
+      "beat": "S1S3_202607231159",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S1S4_202607231159",
+      "start": 1.91,
+      "end": 9.45,
+      "beat": "S1S4_202607231159",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S2S1_202607231159",
+      "start": 0.91,
+      "end": 7.81,
+      "beat": "S2S1_202607231159",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S2S2_202607231200",
+      "start": 0.0,
+      "end": 8.57,
+      "beat": "S2S2_202607231200",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S2S3_202607231201",
+      "start": 4.81,
+      "end": 8.87,
+      "beat": "S2S3_202607231201",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S3S1_202607231409",
+      "start": 0.0,
+      "end": 9.27,
+      "beat": "S3S1_202607231409",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S3S2_202607241201",
+      "start": 0.0,
+      "end": 10.005,
+      "beat": "S3S2_202607241201",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S3S3_202607231416",
+      "start": 2.49,
+      "end": 9.19,
+      "beat": "S3S3_202607231416",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S3S4_202607231416",
+      "start": 2.13,
+      "end": 9.91,
+      "beat": "S3S4_202607231416",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S4S1_202607231417",
+      "start": 1.21,
+      "end": 6.19,
+      "beat": "S4S1_202607231417",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S4S2_202607262042",
+      "start": 0.0,
+      "end": 8.61,
+      "beat": "S4S2_202607262042",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S4S3_202607262043",
+      "start": 0.0,
+      "end": 10.005,
+      "beat": "S4S3_202607262043",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S5S1_202607262050",
+      "start": 0.0,
+      "end": 7.13,
+      "beat": "S5S1_202607262050",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S5S2_202607262022",
+      "start": 3.35,
+      "end": 9.61,
+      "beat": "S5S2_202607262022",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S5S3_202607262020",
+      "start": 0.0,
+      "end": 9.97,
+      "beat": "S5S3_202607262020",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S5S4_202607262107",
+      "start": 0.75,
+      "end": 9.01,
+      "beat": "S5S4_202607262107",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S6S1_202607262108",
+      "start": 0.79,
+      "end": 9.79,
+      "beat": "S6S1_202607262108",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S6S2_202607262108",
+      "start": 0.91,
+      "end": 7.53,
+      "beat": "S6S2_202607262108",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S6S3_202607241203",
+      "start": 0.0,
+      "end": 9.15,
+      "beat": "S6S3_202607241203",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S6S4_202607241202",
+      "start": 0.0,
+      "end": 9.99,
+      "beat": "S6S4_202607241202",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S7S1_202607262016",
+      "start": 2.11,
+      "end": 9.71,
+      "beat": "S7S1_202607262016",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S7S2_202607241202",
+      "start": 0.0,
+      "end": 9.81,
+      "beat": "S7S2_202607241202",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S7S3---_202607241202",
+      "start": 0.0,
+      "end": 9.79,
+      "beat": "S7S3---_202607241202",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S7S4_202607241202",
+      "start": 0.0,
+      "end": 8.49,
+      "beat": "S7S4_202607241202",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S8S1_202607241200",
+      "start": 0.0,
+      "end": 9.45,
+      "beat": "S8S1_202607241200",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S8S2_202607241201",
+      "start": 0.83,
+      "end": 9.63,
+      "beat": "S8S2_202607241201",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S8S3_202607241201",
+      "start": 0.97,
+      "end": 9.15,
+      "beat": "S8S3_202607241201",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S8S4_202607262119",
+      "start": 0.0,
+      "end": 10.005,
+      "beat": "S8S4_202607262119",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S9S1_202607241202",
+      "start": 0.0,
+      "end": 8.59,
+      "beat": "S9S1_202607241202",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S9S2_202607241201",
+      "start": 0.0,
+      "end": 8.61,
+      "beat": "S9S2_202607241201",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S9S3_202607262123",
+      "start": 0.0,
+      "end": 8.17,
+      "beat": "S9S3_202607262123",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S9S4_202607262128",
+      "start": 0.0,
+      "end": 9.87,
+      "beat": "S9S4_202607262128",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S10S1_202607262132",
+      "start": 0.0,
+      "end": 8.85,
+      "beat": "S10S1_202607262132",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S10S2_202607262136",
+      "start": 1.07,
+      "end": 10.005,
+      "beat": "S10S2_202607262136",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S10S3_202607262139",
+      "start": 1.35,
+      "end": 10.005,
+      "beat": "S10S3_202607262139",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S10S4_202607262149",
+      "start": 0.0,
+      "end": 8.17,
+      "beat": "S10S4_202607262149",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S10S5_202607262015",
+      "start": 0.0,
+      "end": 9.89,
+      "beat": "S10S5_202607262015",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S11S1_202607262014",
+      "start": 0.0,
+      "end": 9.97,
+      "beat": "S11S1_202607262014",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S11S2_202607262014",
+      "start": 0.0,
+      "end": 7.73,
+      "beat": "S11S2_202607262014",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S11S3_202607262014",
+      "start": 0.0,
+      "end": 7.15,
+      "beat": "S11S3_202607262014",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S11S4_202607262153",
+      "start": 0.0,
+      "end": 9.69,
+      "beat": "S11S4_202607262153",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S12S1_202607262035",
+      "start": 0.0,
+      "end": 10.005,
+      "beat": "S12S1_202607262035",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    },
+    {
+      "source": "S12S2_202607262035",
+      "start": 0.0,
+      "end": 9.11,
+      "beat": "S12S2_202607262035",
+      "quote": "",
+      "reason": "trimmed dead air (lead 50ms / tail 150ms pad)"
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitles": null,
+  "total_duration_s": 377.09
+}

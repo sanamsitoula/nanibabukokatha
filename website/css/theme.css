@@ -1,0 +1,81 @@
+/* नानीबाबुको कथा — tokens from brand_guidelines.md §5–6 */
+:root {
+  --terracotta: #E8722C;
+  --maroon: #8C2F39;
+  --gold: #F2B705;
+  --forest: #2F5233;
+  --cream: #FFF6E9;
+  --ink: #2B1B12;
+  --bg: var(--cream);
+  --surface: #FFFFFF;
+  --text: var(--ink);
+  --muted: #6B5345;
+  --line: rgba(140, 47, 57, .16);
+  --accent: var(--terracotta);
+  --accent-ink: #FFFFFF;
+  --header-bg: rgba(255, 246, 233, .94);
+  --head: "Baloo 2", "Mukta", sans-serif;
+  --body: "Mukta", system-ui, sans-serif;
+  --radius: 20px;
+}
+
+body { line-height: 1.75; }
+h1, h2, h3 { font-weight: 800; color: var(--maroon); }
+.brand span { color: var(--maroon); font-weight: 800; font-size: 1.3rem; }
+.btn { box-shadow: 0 4px 0 #b9541b; }
+.btn-ghost { box-shadow: inset 0 0 0 2px var(--maroon); color: var(--maroon); }
+.eyebrow { color: var(--terracotta); letter-spacing: .04em; text-transform: none; font-size: 1rem; }
+
+/* Hero: hills at golden hour */
+.hero { position: relative; overflow: hidden; padding: clamp(40px, 6vw, 80px) 0 clamp(90px, 12vw, 150px);
+  background: radial-gradient(circle at 80% 20%, #FFE3A3 0, transparent 40%), linear-gradient(180deg, #FFF0D6, var(--cream)); }
+.hero::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 110px;
+  background: radial-gradient(120% 140px at 20% 140px, var(--forest) 60%, transparent 61%),
+              radial-gradient(120% 160px at 85% 170px, #3E6B44 60%, transparent 61%); }
+.hero-badge { width: 120px; height: 120px; margin-bottom: 12px; filter: drop-shadow(0 8px 16px rgba(140, 47, 57, .25)); }
+.hero h1 { font-size: clamp(2.4rem, 6vw, 4rem); }
+.hl { color: var(--terracotta); }
+.lead { font-size: 1.2rem; color: var(--ink); }
+.lead-en { color: var(--muted); font-size: 1rem; }
+.hero-art { width: 100%; border-radius: 28px; border: 6px solid #fff; box-shadow: 0 20px 40px rgba(43, 27, 18, .2); transform: rotate(1.5deg); }
+
+/* Story flow */
+.flow { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; margin-top: 28px; counter-reset: s; }
+.flow li { counter-increment: s; background: var(--surface); border-radius: var(--radius); padding: 22px; border-top: 6px solid var(--gold); }
+.flow li::before { content: counter(s, devanagari); display: grid; place-items: center; width: 44px; height: 44px; border-radius: 50%; background: var(--maroon); color: var(--cream); font: 800 1.3rem/1 var(--head); margin-bottom: 10px; }
+.flow b { display: block; font: 800 1.2rem/1.3 var(--head); color: var(--maroon); }
+.flow span { color: var(--muted); }
+
+.section-warm { background: linear-gradient(180deg, #FCE6CC, #FFF0DF); }
+.section-cream { background: var(--surface); }
+
+/* Season episodes */
+.ep { background: var(--surface); border-radius: var(--radius); padding: 20px; border: 1px solid var(--line); position: relative; }
+.ep-no { display: inline-block; padding: 2px 12px; border-radius: 999px; background: var(--maroon); color: var(--cream); font-weight: 700; font-size: .9rem; }
+.ep h3 { margin-top: 10px; font-size: 1.15rem; }
+.ep .moral { color: var(--forest); font-weight: 700; margin-bottom: 6px; }
+.ep p { color: var(--muted); margin: 0; }
+
+/* Characters */
+.chars { display: grid; grid-template-columns: repeat(6, 1fr); gap: 18px; margin-top: 28px; }
+.char { margin: 0; text-align: center; }
+.char img { width: 100%; aspect-ratio: 1; object-fit: cover; object-position: top; border-radius: 50%; border: 5px solid var(--gold); background: #EFE6DA; }
+.char b { display: block; font: 800 1.2rem/1.3 var(--head); color: var(--maroon); margin-top: 10px; }
+.char span { color: var(--muted); font-size: .95rem; }
+
+/* Story list */
+.story-list { columns: 3 260px; column-gap: 28px; margin-top: 26px; }
+.story-list li { break-inside: avoid; display: flex; gap: 10px; align-items: baseline; padding: 8px 0; border-bottom: 1px dashed var(--line); font-weight: 600; }
+.story-list span { flex: none; color: var(--terracotta); font-weight: 700; font-size: .9rem; }
+
+.form { background: var(--surface); box-shadow: 0 12px 30px rgba(140, 47, 57, .12); }
+.site-footer { background: var(--maroon); color: var(--cream); border: 0; }
+.site-footer .fine { color: #F6D9C7; }
+.site-footer .brand span { color: var(--cream); font-weight: 600; font-size: 1rem; }
+
+@media (max-width: 900px) {
+  .flow { grid-template-columns: repeat(2, 1fr); }
+  .chars { grid-template-columns: repeat(3, 1fr); }
+  .hero-art { transform: none; }
+}
+@media (max-width: 520px) { .flow { grid-template-columns: 1fr; } .chars { grid-template-columns: repeat(2, 1fr); } }

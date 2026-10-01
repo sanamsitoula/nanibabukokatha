@@ -202,7 +202,20 @@
 
 ### SCENE 4 — SEGMENT 2
  
+SCENE 4 — SEGMENT 2
 
+Duration: 10 seconds Video Prompt: [STYLE] Bench two-shot. [GOPAL] hands over the theki but holds its handle a second too long, studying his friend. [KRISHNA] avoids eye contact, busy with money. Camera: slow push into Gopal's suspicious eyes, then Krishna's evasive side profile. Lighting: sun flickering through the tea-shop thatch. Atmosphere: first crack in trust. 
+
+Character Consistency: Both per master sheet. 
+Dialogue:
+ गोपाल: "कृष्ण... यो दूध शहरकै बजारमा जान्छ नि, हैन? अनि यसपालि दाम पनि किन घटाइस्?" 
+ कृष्ण: (आँखा नजुधाई) "बजार सस्तो भयो साथी! तँ किन टाउको दुखाउँछस्? पैसा पाइस्, कुरा सकियो!" 
+ 
+ Voice Direction: Gopal — probing, slow, hurt. Krishna — fast, oily, dismissive laugh at the end. 
+ 
+ Sound Effects: पैसाको खसखस, चियाको गिलास बजेको आवाज
+ 
+  Music: Suspicion motif — low plucked strings Ending Hook: Gopal's eyes drop to the shiny motorcycle... "बजार सस्तो" तर मोटरसाइकल नयाँ?
 ---
 
 ### SCENE 4 — SEGMENT 3
@@ -364,13 +377,31 @@
 **Video Prompt:** [[High-quality cinematic 2D Nepali cartoon animation, clean bold outlines, soft hand-painted village backgrounds, warm natural color palette, expressive large eyes, smooth frame-by-frame motion, cinematic camera movements, detailed Nepali hill-village environment (stone-and-mud houses, slate/tin roofs, terraced fields, chautari with old peepal tree), consistent character models, rich atmospheric lighting, film-grade composition.]] Dramatic wide shot: dozens of pointing fingers converge from the crowd toward [NIRMALA MISS] standing at the chautari edge. Her attendance register slips from her hands and hits the stone. Camera: slow-motion circular dolly around her as the pointing arms surround the frame like spears. Lighting: her figure suddenly in cold shadow, crowd in harsh light. Atmosphere: injustice closing in.
 **Character Consistency:** NIRMALA MISS per master sheet — glasses, braid, sky-blue kurta, white shawl slipping off one shoulder.
 **Dialogue:**
-**गाउँले २:** "उनैले पो पानी मिसाएर बाँकी दूध बेच्छिन् कि?!"
+**गाउँले २:** "निर्मला मिसले पो पानी मिसाएर बाँकी दूध बेच्छिन् कि?!"
 **निर्मला मिस:** *(आँसु झार्दै)* "मैले यस्तो कहिल्यै गरिनँ! यी बच्चाहरू त... मेरा आफ्नै सन्तानजस्ता हुन्!"
 **Voice Direction:** Villager — venomous suspicion. Nirmala — shattering, voice breaking mid-sentence.
 **Sound Effects:** कापी भुइँमा खसेको आवाज, भीडको आरोपको हल्ला, हावा
 **Music:** Tragic strings over accusation drums
 **Ending Hook:** Camera finds the back row of the crowd — one man is drenched in sweat though the day is cool.
 
+High-quality cinematic 2D Nepali cartoon animation, clean bold outlines, soft hand-painted village backgrounds, warm natural color palette, expressive large eyes, smooth frame-by-frame motion, cinematic camera movements, detailed Nepali hill village (stone-and-mud houses, slate and tin roofs, terraced fields, chautari beneath an old peepal tree), consistent character models, rich atmospheric lighting, film-grade composition.
+
+Scene: Wide cinematic shot of villagers gathered around the chautari, many looking toward Nirmala Miss with expressions of doubt and concern. Her attendance register slips from her hands onto the stone path. The camera slowly circles around her, emphasizing her isolation as the crowd fills the background. Soft wind moves through the trees while tension hangs in the air.
+
+Lighting: Nirmala stands in cool, subdued light while warm afternoon sunlight illuminates the surrounding villagers, creating visual contrast.
+
+Atmosphere: A moment of misunderstanding and emotional tension.
+
+Dialogue (subtitle):
+गाउँले २: "निर्मला मिसले पो पानी मिसाएर बाँकी दूध बेच्छिन् कि?!"
+
+निर्मला मिस: "मैले यस्तो कहिल्यै गरिनँ! यी बच्चाहरू त... मेरा आफ्नै सन्तानजस्ता हुन्!"
+
+Sound Effects: Attendance register falling onto stone, quiet murmurs among villagers, gentle wind through leaves.
+
+Music: Emotional orchestral strings with soft percussion.
+
+Ending: The camera slowly reveals a man standing quietly at the back of the crowd, visibly nervous, beads of sweat on his forehead despite the cool weather, hinting that he may know more than he is revealing.
 ---
 
 ### SCENE 7 — SEGMENT 4
@@ -627,7 +658,7 @@
 
 ---
 
-### SCENE 12 — SEGMENT 1
+### SCENE 12 — SEGMENT 1 ==done
 **Duration:** 10 seconds
 **Video Prompt:** [[High-quality cinematic 2D Nepali cartoon animation, clean bold outlines, soft hand-painted village backgrounds, warm natural color palette, expressive large eyes, smooth frame-by-frame motion, cinematic camera movements, detailed Nepali hill-village environment (stone-and-mud houses, slate/tin roofs, terraced fields, chautari with old peepal tree), consistent character models, rich atmospheric lighting, film-grade composition.]] Sunset over Sunkhola village — the chautari silhouetted, smoke curling from kitchen roofs, the khola glittering below. Soft-focus memory frames float across the sky like clouds: the night pouring, the school glass, the confession, the winning ribbon. Camera: slow godlike pull-back from the chautari to the whole valley. Lighting: deep orange-purple sunset. Atmosphere: reflective, timeless.
 **Character Consistency:** Montage frames reuse exact earlier visuals.
@@ -639,7 +670,7 @@
 
 ---
 
-### SCENE 12 — SEGMENT 2
+### SCENE 12 — SEGMENT 2 === done
 **Duration:** 10 seconds
 **Video Prompt:** [[High-quality cinematic 2D Nepali cartoon animation, clean bold outlines, soft hand-painted village backgrounds, warm natural color palette, expressive large eyes, smooth frame-by-frame motion, cinematic camera movements, detailed Nepali hill-village environment (stone-and-mud houses, slate/tin roofs, terraced fields, chautari with old peepal tree), consistent character models, rich atmospheric lighting, film-grade composition.]] Final image: a single brass glass of pure white milk on the chautari stone, glowing softly in dusk light, a marigold petal landing beside it. The moral text fades in above in elegant Devanagari lettering. Hold, then slow fade to black with a soft chime. Camera: locked-off close-up, milk surface calm as a mirror reflecting the peepal leaves. Lighting: last light of day. Atmosphere: sacred stillness.
 **Character Consistency:** The same brass glass motif from Scenes 5 and 11.
@@ -658,3 +689,271 @@
 - **Sanctioned appearance changes (story-driven only):** Bimal's cheeks pale → pink (Scene 11); Krishna loses ring & watch (Scene 11 Seg 4).
 - **Voice casting stays fixed:** 1 narrator + 7 character voices; never swap mid-story.
 - **Mirrored shots for emotional payoff:** Scene 1 Seg 2 ↔ Scene 11 Seg 3 (same framing, opposite outcome).
+
+---
+
+# 🎬 EPISODE OPENING SEQUENCE (8–10 sec YouTube Intro) — नानीबाबुको कथा
+
+> Reusable brand opening. Scenes 1–2 are the SAME every episode; only Scene 3 (episode number + title + tagline) and Scene 4 (montage + narration hook) change per story.
+
+**Style:** Premium cinematic 2D animation with hand-painted backgrounds, warm natural color palette, expressive lighting, and smooth film-quality camera movement.
+
+### Scene 1 (0–2 sec)
+A peaceful sunrise over a traditional Nepali hill village with terraced fields, an old peepal tree, stone-and-mud houses, birds flying, and soft morning mist. The camera slowly glides toward the village.
+
+### Scene 2 (2–5 sec)
+A beautifully illustrated old storybook opens on a wooden table. Warm golden light emerges from the pages. Elegant Nepali calligraphy appears:
+
+📖 नानीबाबुको कथा
+
+Below it:
+
+"नेपाली गाउँका हृदय छुने कथाहरू"
+
+### Scene 3 (5–8 sec)
+The page turns to reveal:
+
+**Episode 01**
+
+**दूधमा पानी, मनमा ढुङ्गा**
+
+Below the title:
+
+"एक निर्णय... जसले सबै कुरा बदलिदियो।"
+
+Use elegant Nepali typography with subtle glow and cinematic transitions.
+
+### Scene 4 (8–10 sec)
+Show a fast montage of key story moments without revealing the ending:
+• Gopal carrying a brass milk container (theki) at dawn.
+• Bimal happily walking to school with his bag.
+• Gopal looking worried, alone in the cowshed at night.
+• A mysterious red plastic jerrycan tied to Krishna's bicycle.
+• Warm village scenery — the chautari peepal tree at golden hour.
+
+Finish with a fade to black and the narration:
+
+"कहिलेकाहीँ...
+एउटा सानो निर्णयले...
+सारा जीवन बदलिदिन्छ।
+सुरु गरौँ आजको कथा..."
+
+**Music:** Traditional Nepali flute and sarangi blended with cinematic orchestral strings.
+**Sound Design:** Morning birds, temple bell, gentle breeze, page-turn sound, soft cinematic impact.
+
+> Maintain the same character designs, environments, and visual style as the main story. The intro should feel timeless, emotional, family-friendly, and suitable as the opening sequence for every episode of the "नानीबाबुको कथा" YouTube series.
+
+---
+
+# PLATFORM PLAYBOOK — Cross-Platform Hook & Funnel System (Story: दूधमा पानी, मनमा ढुङ्गा)
+
+> **Core principle:** ONE story, FIVE cuts. Every short-form post is a curiosity trap that funnels to the full YouTube story. Never upload the whole story to TikTok/Reels/Shorts — only the twist. The ending always says: **"पूरा कथा YouTube मा"** + channel handle.
+
+---
+
+## 🎬 STORY ONE-LINER (use in every bio/pitch)
+
+**Devanagari:** "जुन दूध बेचेर गोपालले सिंगो गाउँको विश्वास जित्यो... त्यही दूधले उसकै छोराको खुट्टा ढलायो।"
+**Romanized:** "Jun dudh becher Gopal-le singo gaau-ko vishwas jityo... tyahi dudh-le uskai chora-ko khutta dhalayo."
+**English gist:** The milk that won a village's trust... crippled the milkman's own son.
+
+---
+
+## 11.1 YouTube (MAIN HUB — long-form full story)
+
+### Cadence & timing
+- **Full story upload:** 1 per week (you have 50 ideas banked ≈ 1 year of weekly drops).
+- **Best posting time (Nepal/NPT):** **Friday or Saturday, 6:00–8:00 PM NPT** — catches after-school / after-work family screen time and weekend viewing.
+- **Teaser logic:** Drop a **YouTube Short (60s)** of the single strongest twist scene **1–2 days BEFORE** the full story (Wed/Thu). End-screen + pinned comment link the Short → full video.
+- **Series naming convention:** `EPISODE 01 — दूधमा पानी, मनमा ढुङ्गा | नेपाली नैतिक कथा (Nepali Moral Story)`
+
+### Thumbnail rules
+- **Palette:** terracotta + cream (matches village warmth).
+- **One shocking character-expression close-up** (Gopal's guilty eyes / Bimal collapsing / Krishna's sly grin).
+- **3–5 word Devanagari hook text only.** Examples:
+  - `आफ्नै छोराको खुट्टा ढलायो?`
+  - `दूधमा पानी... मनमा ढुङ्गा`
+  - `साथीले गर्‍यो धोका!`
+- No clutter, no English, max 2 text lines.
+
+### YouTube video description template
+```
+जुन दूधले सिंगो गाउँको विश्वास जित्यो... त्यही दूधले गोपालकै छोराको खुट्टा ढलायो। 😢
+के गोपालले समयमै सत्य पत्ता लगाउँछ? कि ढिला भइसक्यो?
+
+🔥 पूरा कथा हेर्नुहोस् — अनि अन्तिम सत्य कसले खुल्यो पत्ता लगाउनुहोस्।
+
+👍 मन परे LIKE • 💬 कमेन्टमा लेख्नुहोस् "अर्को कथा चाँडै" • 🔔 Subscribe गर्न नबिर्सनुहोस्।
+
+#नेपालीकथा #NepaliStory #MoralStory #NepaliAnimation #नैतिककथा
+```
+
+### Pinned comment (on the Short that teases the full story)
+> यो दृश्य मात्र हो! 😱 पूरा रहस्य र सत्य कसले खुल्यो — यो लिंकमा हेर्नुहोस् 👉 [FULL VIDEO LINK]
+
+---
+
+## 11.2 YouTube Shorts (60-second teaser — DROP BEFORE full story)
+
+**Pick the single strongest twist:** **Scene 5 Seg 4** (Gopal's flash-realisation that his own son drinks his own watered milk) — it is the gut-punch that forces a viewer to watch the full story.
+
+### SHORT SCRIPT (60s) — "मेरो दूध... स्कूलमा?!"
+**Visual sequence (cut from full episode):**
+| Time | Visual (reuse exact frames) | On-screen text |
+|------|------------------------------|----------------|
+| 0–5s | Bimal collapsing on race track (Scene 1 Seg 3) | `एक गिलास दूधले...` |
+| 5–12s | Krishna handing theki to Nirmala Miss at school gate (Scene 5 Seg 3) | `स्कूलका बच्चाहरूलाई "शुद्ध दूध"` |
+| 12–22s | Gopal pouring water into milk at night (Scene 3 Seg 2) | `तर रातभरि...` |
+| 22–35s | Gopal sneaking behind tree, Krishna turning toward school (Scene 5 Seg 1–2) | `साथीको पछि लाग्यो गोपाल...` |
+| 35–48s | Gopal's flash-cuts: water→Bimal drinking→Bimal collapsing (Scene 5 Seg 4) | `मेरो दूध... मेरै छोराको गिलासमा?!` |
+| 48–55s | Freeze on Gopal's devastated face, stick dropping | `अब गोपाल के गर्ला?` |
+| 55–60s | End card: terracotta/cream, milk glass + handle | `पूरा कथा YouTube मा ▶` |
+
+**Voiceover (compress narration):**
+"जुन दूध बेचेर गोपालले गाउँको विश्वास जित्यो... त्यही दूधले उसकै छोराको खुट्टा ढलायो। गोपालले थाहा पाए — तर आधा सत्य मात्र। बाँकी... पूरा कथा YouTube मा।"
+**Sound:** keep baked-in narration + sarangi sting; cut to silence on the freeze-frame.
+
+---
+
+## 11.3 TikTok (Discovery engine — 3–4 posts/week)
+
+**Ideal length:** 21–34 seconds for completion rate. **Never the whole story** — only the loopable cliffhanger.
+
+### Best posting times (NPT)
+- **Primary:** 7:00–9:00 PM NPT
+- **Secondary:** 12:00–1:00 PM NPT (lunch scroll)
+
+### Caption formula
+`[one-line hook] + [moral hashtag]`
+> "दूधमा पानी मिसाउनुको यस्तो नतिजा हुन्छ थाहा थिएन 😢 पूरा कथा YouTube मा ▶ #नेपालीकथा #moralstory"
+
+### Sound rule
+- Use **trending Nepali/Hindi folk-adjacent audio** when it fits a village-life clip.
+- For story/cliffhanger clips, **keep your own baked-in dialogue audio** — real narration outperforms generic trending sound for story content. This is a competitive edge.
+
+### TikTok clip bank — 5 ready cuts (rotate across the week)
+
+**CLIP A — "तेस्रो पटक" collapse (21s)** — from Scene 1 Seg 4
+- Hook text 0–3s: `यो हप्ता तेस्रो पटक ढल्यो बिमल...`
+- End card: `किन? पूरा कथा YouTube मा ▶`
+- Voiceover: "एक हप्तामा तेस्रो पटक... गाउँको सबैभन्दा 'इमानदार' दूध खाने बच्चा कमजोर भइरहेको छ। किन?"
+
+**CLIP B — "एक अम्खोरा... चार" guilt spiral (26s)** — from Scene 3 Seg 2 + Seg 4
+- Hook text 0–3s: `एक अम्खोरा पानीले के फरक पर्छ र...?`
+- Build: water pouring → "दुई भयो... चार" → moon swallowed by clouds
+- End card: `त्यो दूध कहाँ गयो? YouTube मा ▶`
+- Voiceover: "एक अम्खोरा पानीले के नै फरक पर्छ र... गोपालले सोच्यो। तर उसलाई थाहा थिएन — त्यो दूध शहर होइन, अरू कतै जान लागेको थियो।"
+
+**CLIP C — "मेरो दूध... स्कूलमा?!" reveal (30s)** — from Scene 5 Seg 2–4
+- Hook text 0–3s: `साथीले दूध बेच्यो... तर कहाँ?`
+- Twist beat: Krishna turns bicycle LEFT toward school → Gopal's eyes go wide
+- Freeze on flash-cuts
+- End card: `अब गोपाल के गर्ला? YouTube मा ▶`
+
+**CLIP D — "रातो जर्किन" bridge catch (24s)** — from Scene 8 Seg 4 + Scene 9 Seg 2–3
+- Hook text 0–3s: `रातो जर्किनमा लुकेको रहस्य...`
+- Strobe zooms on the red jerrycan (planted in Scenes 4–5)
+- Cut to Krishna kneeling under bridge, caught red-handed
+- End card: `कृष्णले के गर्‍यो? पूरा देख्नुहोस् ▶`
+
+**CLIP E — "बूवाको शुद्ध दूधले जित्यो!!" redemption (21s)** — from Scene 11 Seg 4
+- Hook text 0–3s: `जुन खुट्टा ढलेका थिए...`
+- Bimal breaking finish ribbon, lifted by Gopal
+- Moral line overlay: `इमानले कमाएको विश्वास जीवनभर शक्ति दिन्छ।`
+- End card: `पूरा कथा YouTube मा ▶`
+- This is the **feel-good payoff clip** — drops the weekend AFTER the full story to re-engage and pull new viewers into the archive.
+
+### TikTok hashtag set (mix broad + niche, 6–9)
+`#नेपालीकथा #NepaliStory #MoralStory #NepaliCartoon #KidsStoryNepal #नैतिककथा #StoryTime #NepaliContent`
+
+---
+
+## 11.4 Instagram Reels (mirror TikTok + add carousels & Stories)
+
+**Format:** same vertical cuts as TikTok, **re-exported clean** — never repost with TikTok watermark (the algorithm punishes watermarked uploads). Upload native to IG.
+**Cadence:** 3×/week, mirror TikTok's calendar exactly (Clips A/C/D one week, B/E the next).
+
+### Reels extras (where IG beats TikTok)
+
+**Carousels — 1× every 1–2 weeks** (4–6 slides, `character/` folder art)
+Slide template: character portrait + one moral quote in Devanagari.
+- Carousel idea for THIS story — **"गोपालको पाप vs कृष्णको चाल" (6 slides):**
+  1. Gopal art + `ढुङ्गा मैले दूधमा होइन, मनमा राखेछु।`
+  2. Krishna art + `साथीको रूपमा सबैभन्दा ठूलो धोका।`
+  3. Bimal art + `बुवाको दूधमा त गाउँभरको विश्वास छ नि।`
+  4. Nirmala Miss art + `निर्दोषमाथि लागेको आरोप।`
+  5. Sita art + `आमाको माया र शुद्ध दूधले फर्कायो रगत।`
+  6. Moral close-out + `इमानले कमाएको विश्वास — दूधजस्तै जीवनभर शक्ति दिन्छ।`
+- Caption: `कुन चरित्रको कथा सबैभन्दा धेरै असर गर्‍यो? कमेन्टमा लेख्नुहोस् 👇 पूरा कथा bio link मा ▶`
+
+**Instagram Stories — DAILY, 2–4 frames**
+- **Pre-drop (2 days before full story):** poll Story → `अब गोपालले के गर्ला? 🤔` options: `(a) सत्य खोल्ला` / `(b) लुकाउँला`
+- **Drop day:** countdown sticker + `आज 6 बजे YouTube मा ▶`
+- **Post-drop:** Q&A sticker → `कुन दृश्यले रोायो? 😢`
+- **Character teaser:** solo art slide of next story's villain/hero silhouette → `अर्को कथा — यो चरित्र को होला?`
+
+### Bio link
+**Always** link-in-bio to the latest YouTube full story. Update every Friday.
+
+### Instagram hashtag set (8–12)
+`#नेपालीकथा #NepaliStory #MoralStory #NepaliCartoon #NepaliAnimation #KidsStory #StoryTime #नैतिककथा #NepaliContent #Reels #NepaliReels`
+
+---
+
+## 11.5 CROSS-PLATFORM FUNNEL LOGIC (how the hooks link together)
+
+```
+                        ┌─────────────────────────────────────┐
+   DISCOVERY ─────────▶ │  TikTok clip  +  IG Reel  +  YT Short │
+   (curiosity trap)     │   (21–34s cliffhanger, no ending)    │
+                        └──────────────────┬──────────────────┘
+                                           │  every clip ends:
+                                           │  "पूरा कथा YouTube मा ▶"
+                                           ▼
+                        ┌─────────────────────────────────────┐
+   ARCHIVE / MONETIZE ▶ │      YouTube FULL STORY (7.5 min)    │
+   (the home)           │   Friday/Sat 6–8 PM NPT              │
+                        └──────────────────┬──────────────────┘
+                                           │
+                              re-cut into next week's
+                              cliffhanger clips → loop repeats
+```
+
+### The 3 curiosity hooks (use one per post, rotate)
+Every short-form post leans on exactly ONE of these open loops — never resolve it on TikTok/Reels:
+
+1. **"किन?" (WHY?)** — *why is the honest milkman's son the one collapsing?* → CLIP A
+2. **"कहाँ?" (WHERE?)** — *where does the milk really go each morning?* → CLIPS B, C
+3. **"कसले?" (WHO?)** — *who put the other half of the water in?* → CLIP D
+
+The full answer to all three lives **only on YouTube**. That tension is the entire funnel.
+
+### Weekly release calendar (example)
+| Day | Platform | Asset | Hook used |
+|-----|----------|-------|-----------|
+| Mon | TikTok + IG Reel | CLIP B (guilt spiral) | "कहाँ?" |
+| Wed | YouTube Short | 60s teaser (Scene 5 reveal) | "किन?" + "कहाँ?" |
+| Wed | IG Story | poll: "अब गोपालले के गर्ला?" | curiosity |
+| Fri 6PM | YouTube (FULL) | complete story | resolution |
+| Sat | TikTok + IG Reel | CLIP D (jerrycan catch) | "कसले?" |
+| Sun | IG Carousel | character moral quotes | parasocial |
+| Sun/Mon | TikTok + IG Reel | CLIP E (redemption) | payoff, re-pull to archive |
+
+### Mandatory ending line (every short-form post, spoken + on-screen)
+> **"पूरा कथा YouTube मा ▶"** + your channel handle, lower-third, last 3 seconds.
+
+### Consistency across all platforms
+- Same **[STYLE]** block and character master sheet as the animation (terracotta/cream palette, Devanagari hooks) — brand must be instantly recognisable across YouTube, TikTok, IG.
+- Same **narrator voice** on every clip (don't swap to trending-voice TTS on story clips).
+- Same **moral line** as the story's closing truth: `बेइमानीले कमाएको धन खोलाको पानीजस्तै बगेर जान्छ... तर इमानले कमाएको विश्वास — दूधजस्तै जीवनभर शक्ति दिन्छ।`
+
+---
+
+## ✅ PLATFORM PRODUCTION NOTES (Quick Reference)
+
+- **One story = 1 YouTube full + 1 YouTube Short + 5 TikTok/IG clips + 1 IG carousel + daily Stories.** All cut from the same 45 animation segments — no new animation needed for marketing.
+- **Clip length targets:** TikTok/IG Reel 21–34s (completion rate); YouTube Short ≤60s; full story 7.5 min.
+- **Never** upload the full story or its ending to TikTok/Reels — the open loop is the asset.
+- **Always** re-export clean native files per platform (no watermarks, no cross-reposts).
+- **The red jerrycan** is the recurring visual hook across all clips — it plants in Scene 4, pays off in Scene 9. Reuse it as a thumbnail and Short end-card motif.
+- **Posting anchor:** Friday/Saturday 6–8 PM NPT for the full story; everything else orbits around that drop.

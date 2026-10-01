@@ -1,0 +1,196 @@
+{
+  "words": [
+    {
+      "type": "word",
+      "text": "\u0915\u094d\u0930\u093f\u0937\u094d\u0928\u093e",
+      "start": 0.0,
+      "end": 0.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u091c\u0940,",
+      "start": 0.86,
+      "end": 1.08,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 1.08,
+      "end": 1.32
+    },
+    {
+      "type": "word",
+      "text": "\u0906\u091c",
+      "start": 1.32,
+      "end": 1.46,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u0924\u092c",
+      "start": 1.46,
+      "end": 1.66,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u092a\u0930\u093f\u0915",
+      "start": 1.66,
+      "end": 1.92,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u091a\u094d\u092f\u093e",
+      "start": 1.92,
+      "end": 2.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u091a\u094d\u092f\u093e,",
+      "start": 2.1,
+      "end": 2.32,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 2.32,
+      "end": 2.54
+    },
+    {
+      "type": "word",
+      "text": "\u092c\u091a\u094d\u091a\u093e\u0930",
+      "start": 2.54,
+      "end": 2.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u0932\u0917\u0947",
+      "start": 2.96,
+      "end": 3.12,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u0938\u0915\u094d\u0924\u0940",
+      "start": 3.12,
+      "end": 3.46,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u091a\u094d\u092f\u093e\u090f\u0902",
+      "start": 3.46,
+      "end": 3.74,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u091a\u094d\u092f\u093e\u090f\u0902",
+      "start": 3.74,
+      "end": 3.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u091a\u094d\u092f\u093e\u090f\u0902",
+      "start": 3.96,
+      "end": 4.42,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u0932\u0947\u090f",
+      "start": 4.42,
+      "end": 4.72,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u0906\u0932\u0947\u0928\u0940",
+      "start": 4.72,
+      "end": 5.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u092e\u093f\u091c.",
+      "start": 5.1,
+      "end": 5.38,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 5.38,
+      "end": 6.68
+    },
+    {
+      "type": "word",
+      "text": "\u0917\u093e\u0909\u0915\u0947",
+      "start": 6.68,
+      "end": 7.24,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u092f,",
+      "start": 7.24,
+      "end": 7.38,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 7.38,
+      "end": 7.48
+    },
+    {
+      "type": "word",
+      "text": "\u0917\u093e\u0909\u0915\u0947",
+      "start": 7.48,
+      "end": 7.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u0907\u092e\u093e\u0928\u094d\u0926\u093e\u0930",
+      "start": 7.86,
+      "end": 8.48,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u0917\u094b\u092a\u093e\u0932",
+      "start": 8.48,
+      "end": 8.9,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u0915\u094b",
+      "start": 8.9,
+      "end": 9.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u0938\u0941\u0926",
+      "start": 9.06,
+      "end": 9.38,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u0926\u0926\u0942\u0926",
+      "start": 9.38,
+      "end": 9.82,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

@@ -1,0 +1,690 @@
+तपाईंले दिएको ५०-कथा संग्रहमा गाउँले जीवन, बालबालिका र जनावरका पात्रहरू मुख्य आधार छन्; त्यसैको नेपाली घरेलु वातावरणलाई **१०-सेकेन्डको fast comedy + cute animal reaction + Nepali household humor** मा रूपान्तरण गरेको छु।  
+
+मेरो सुझावमा यो series को मुख्य formula यस्तो राख्नु राम्रो हुन्छ:
+
+**Nepali household → एउटा सानो समस्या → unexpected animal/vegetable reaction → 1 funny dialogue → punchline → reaction sound**
+
+सबै भिडियो **9:16 vertical, 10 seconds, realistic Nepali household, natural Nepali voices, no subtitles/watermark**, र एउटै prompt copy-paste गरेर Google Flow मा generate गर्न मिल्ने गरी लेखिएका छन्।
+
+# Series Brand
+
+**Main Channel/Series Name:** `घरकै हाँसो`
+**English:** `Ghar Ko Haso`
+
+**Recurring style:** Real-life Nepal + cute comedy + vegetables/animals + family situations.
+
+**Ideal duration:** 8–10 sec
+**Format:** 9:16
+**Visual:** Photorealistic / cinematic but funny
+**Dialogue:** Natural Nepali
+**Audio:** Nepali household ambience + exaggerated comedy SFX
+**Ending:** Strong reaction in final 1–2 seconds
+
+---
+
+# 20 × 10-Second Google Flow Prompts
+
+## 01. 🥔 आलुले जवाफ दियो
+
+**Hook:** "आलु पनि आज रिसाएछ!"
+
+Create a 10-second vertical 9:16 photorealistic comedy video set inside a typical middle-class Nepali kitchen in Kathmandu. A Nepali mother in her 40s is angrily preparing vegetables while holding a potato. She complains naturally in Nepali: “यो आलु पनि कस्तो बेस्वाद!”
+
+Suddenly the potato slips from her hand, rolls across the kitchen floor, stops perfectly in front of her, and a funny childlike voice says: “मलाई नुनै नहाली दोष नदेऊ!”
+
+The mother freezes in shock. A family cat sitting beside the gas stove slowly looks at the potato, then looks directly into the camera with a completely serious expression.
+
+Use realistic Nepali kitchen details: steel plates, pressure cooker, gas stove, vegetable basket, momo steamer, ordinary Kathmandu home. Natural Nepali female voice, pressure cooker hiss, utensil sounds, tiny comedic drum hit, record-scratch when potato speaks, final cat “meow” punchline. Fast pacing, one continuous shot, no cuts, expressive faces, family-friendly humor, no subtitles, no text, no watermark.
+
+---
+
+## 02. 🐐 बाख्राले तरकारी खायो
+
+**Hook:** "घरको सबैभन्दा ठूलो तरकारी चोर!"
+
+Create a 10-second vertical 9:16 realistic Nepali household comedy scene. Outside a small Kathmandu valley house, a Nepali woman has placed freshly washed cauliflower, coriander and green vegetables in a basket.
+
+She turns around and says: “एकछिन है, म भित्र चिया बनाउँछु।”
+
+A mischievous little Nepali goat immediately walks into frame, grabs the biggest cauliflower and starts chewing it proudly.
+
+The woman returns, shocked: “ए! त्यो त आजको तरकारी हो!”
+
+The goat pauses chewing, looks directly at her, then casually walks away carrying the cauliflower.
+
+Add realistic goat chewing sounds, neighborhood dogs barking faintly, birds, distant Nepali household ambience, funny madal beat and a tiny “boing” sound when the goat looks at camera. Natural Nepali dialogue, realistic acting, cute animal behavior, one continuous shot, no cuts, no subtitles, no watermark.
+
+---
+
+## 03. 🐈 बिरालोको दूध चोरी
+
+**Hook:** "दूध चोर घरभित्रै रहेछ!"
+
+Create a 10-second vertical 9:16 photorealistic Nepali kitchen comedy scene. A Nepali grandmother places a glass of warm milk on the kitchen table and warns her grandson: “यो दूध कसैले नखानू है!”
+
+The grandmother walks two steps away.
+
+A clever fluffy Nepali household cat slowly climbs onto the table and starts drinking the milk.
+
+The grandmother suddenly turns around and says: “ए! चोर!”
+
+The cat immediately freezes, slowly removes its face from the glass, and innocently points one paw toward the sleeping dog as if blaming him.
+
+The grandmother stares at the cat in disbelief.
+
+Use natural Nepali grandmother voice, realistic kitchen ambience, glass clink, cat licking sound, tiny suspense sound, then comedic flute sting at the cat's innocent expression. One continuous camera shot, realistic Nepalese home, warm natural lighting, family-friendly, no subtitles, no watermark.
+
+---
+
+## 04. 🐄 गाईलाई मोबाइल चाहियो
+
+**Hook:** "गाईले पनि TikTok हेर्न थालेपछि!"
+
+Create a 10-second vertical 9:16 realistic rural-urban Nepali household comedy scene. A Nepali farmer is sitting outside his house scrolling on his smartphone while his calm cow stands beside him.
+
+The farmer says: “तँलाई मोबाइल चलाउन आउँदैन होला!”
+
+The cow suddenly stretches its neck toward the phone and taps the screen with its nose.
+
+The phone switches to a funny cow video.
+
+The cow stares at the screen, then looks proudly at the farmer.
+
+The farmer says: “ओहो! तेरो त आफ्नै content रहेछ!”
+
+The cow gives one loud “Moooo!” like a proud answer.
+
+Natural Nepal outdoor ambience, cow bell, birds, distant motorcycle, authentic Nepali male voice, funny flute sting and exaggerated cow moo at the punchline. Photorealistic animals, one continuous shot, no subtitles, no watermark.
+
+---
+
+## 05. 🥒 काँक्रोको बदला
+
+**Hook:** "काँक्रो काट्न खोज्दा यस्तो भयो!"
+
+Create a 10-second vertical 9:16 photorealistic Nepali kitchen comedy. A Nepali mother holds a large cucumber and says jokingly: “आज तँलाई काटेर सलाद बनाउँछु।”
+
+She places the cucumber on a wooden cutting board.
+
+A curious family cat suddenly jumps onto the counter and pushes the cucumber away with its paw.
+
+The cucumber rolls across the counter and drops directly into the mother's lap.
+
+She looks at the cucumber and says: “ए! तँलाई पनि बाँच्न मन रहेछ?”
+
+The cat immediately meows proudly.
+
+Use realistic Nepali kitchen sounds, chopping-board sound, cat meow, utensil clinks and a funny tabla-comedy sting. Natural Nepali female dialogue, expressive reaction, realistic vegetables and cat, one continuous shot, family-friendly, no subtitles, no text, no watermark.
+
+---
+
+## 06. 🐔 कुखुराको बिहानको अलार्म
+
+**Hook:** "मोबाइलको alarm होइन, कुखुराको revenge!"
+
+Create a 10-second vertical 9:16 realistic Nepali bedroom-to-yard comedy scene. A sleepy Nepali young man is lying in bed and says: “आज alarm बन्द गरेर ढिला सुत्छु।”
+
+He switches off his smartphone alarm.
+
+Immediately outside the window, a very loud rooster starts crowing: “कुकुरुकुँ!”
+
+The man covers his ears and shouts: “तेरो alarm पनि बन्द गर न!”
+
+The rooster walks closer to the window, looks directly at him and crows even louder.
+
+The man pulls the blanket over his head.
+
+Natural Nepal morning ambience, rooster crow, distant temple bell, birds, subtle comedic madal beat and exaggerated final rooster sound. Photorealistic Nepali home, one continuous shot, humorous facial expressions, no subtitles, no watermark.
+
+---
+
+## 07. 🧅 प्याजले सबै रुवायो
+
+**Hook:** "आज भान्सामा को रोयो?"
+
+Create a 10-second vertical 9:16 photorealistic Nepali kitchen comedy. A Nepali father is cutting onions and tears are running down his face.
+
+His wife asks: “प्याजले रुवायो?”
+
+The father dramatically says: “होइन, घरको खर्च सम्झेर रोएको!”
+
+Suddenly the family cat sits beside him and starts staring at the onion.
+
+The father wipes his tears and says: “तँ चाहिँ किन रोइस्?”
+
+The cat sneezes loudly.
+
+Both father and wife burst into laughter.
+
+Natural Nepali household dialogue, realistic onion cutting, cat sneeze, pressure cooker ambience, utensils, subtle comedy percussion. Warm realistic lighting, one continuous shot, no cuts, no subtitles, no watermark.
+
+---
+
+## 08. 🐕 कुकुरले पाहुना चिनेछ
+
+**Hook:** "कुकुरले पाहुनाको असली हालत बुझ्यो!"
+
+Create a 10-second vertical 9:16 photorealistic Nepali living-room comedy scene. A Nepali family has a male guest sitting proudly on a sofa.
+
+The host says: “उहाँ त धेरै शान्त मान्छे हुनुहुन्छ।”
+
+The family dog walks toward the guest, sniffs him carefully, then immediately grabs the guest's slipper and runs away.
+
+Everyone becomes silent.
+
+The guest says awkwardly: “कुकुरलाई म मन परेन जस्तो छ।”
+
+The dog stops, looks back and barks once.
+
+The family bursts into laughter.
+
+Realistic Kathmandu household interior, sofa, tea glasses, slippers, natural Nepali voices, dog barking, light madal comedy sound, subtle audience-like family laughter. One continuous camera movement, no subtitles, no watermark.
+
+---
+
+## 09. 🍅 गोलभेँडाको पारिवारिक झगडा
+
+**Hook:** "भान्सामा आज गोलभेँडा पनि रिसायो!"
+
+Create a 10-second vertical 9:16 realistic Nepali kitchen comedy scene. A Nepali mother places tomatoes on the table and says: “तिमीहरू सबैलाई आज तरकारीमा हाल्छु।”
+
+One tomato rolls away.
+
+She picks it up and puts it back.
+
+The tomato rolls away again.
+
+She angrily says: “किन भाग्छस्?”
+
+A second tomato rolls away too.
+
+The family cat watches both tomatoes escaping and looks completely confused.
+
+The mother sighs: “आज त तरकारीले पनि काम गर्न मान्दैन!”
+
+Add realistic rolling vegetable sounds, cat meow, kitchen ambience, funny Nepali madal beat and flute punchline. Natural Nepali dialogue, photorealistic vegetables, realistic household, one continuous shot, no subtitles, no watermark.
+
+---
+
+## 10. 🐃 भैंसीको VIP व्यवहार
+
+**Hook:** "घरमा सबैभन्दा VIP को?"
+
+Create a 10-second vertical 9:16 photorealistic Nepali village household comedy. A Nepali farmer brings fresh grass for his buffalo.
+
+He says: “आज सबैभन्दा राम्रो घाँस तेरो लागि!”
+
+His young son asks: “बुबा, मेरो लागि?”
+
+Father replies: “तँ त दालभात खा!”
+
+The buffalo immediately looks at the boy, then slowly eats the biggest bundle of grass.
+
+The boy crosses his arms and says: “यसको त VIP सुविधा रहेछ!”
+
+The buffalo gives a proud moo.
+
+Natural Nepali voices, buffalo bell, grass chewing, rural Nepal ambience, distant children, funny flute and madal ending. One continuous shot, cute expressive buffalo, family-friendly, no subtitles, no watermark.
+
+---
+
+## 11. 🥕 गाजरको भविष्यवाणी
+
+**Hook:** "यो गाजरले भविष्य देख्यो!"
+
+Create a 10-second vertical 9:16 realistic Nepali kitchen comedy. A Nepali grandmother holds a carrot and jokes to her grandson: “यो गाजर खायो भने आँखाले सबै देखिन्छ।”
+
+The grandson looks at the carrot suspiciously.
+
+A rabbit suddenly appears from behind the vegetable basket and grabs the carrot.
+
+The grandmother says: “हेर्! यसलाई त भविष्य पनि देखिँदो रहेछ!”
+
+The grandson and grandmother stare at the rabbit as it runs away with the carrot.
+
+Use realistic Nepali household ambience, rabbit movement, vegetable basket sounds, grandmother's playful Nepali voice, funny flute and soft madal hit. One continuous shot, photorealistic, cute rabbit, no subtitles, no watermark.
+
+---
+
+## 12. 🐒 सेलरोटीको डाँका
+
+यो तपाईंको मूल कथामा रहेको सेलरोटी चोर बाँदरको idea लाई short-form comedy मा रूपान्तरण गरिएको हो। 
+
+Create a 10-second vertical 9:16 photorealistic Nepali festival comedy. A Nepali grandmother has just fried a fresh golden sel roti and places it on a plate.
+
+She turns around and says: “कसैले नछुनू है!”
+
+A mischievous monkey instantly reaches through the window, steals the biggest sel roti and runs.
+
+Grandmother shouts: “ए चोर!”
+
+The monkey stops, takes one bite, looks back proudly and says with a funny human-like voice: “पहिले taste त गर्नुपर्‍यो नि!”
+
+Grandmother stares in disbelief.
+
+Use authentic Nepali Dashain/Tihar household atmosphere, sizzling oil, sel roti frying sound, monkey chatter, grandmother voice, funny madal and flute punchline. One continuous shot, photorealistic monkey, family-friendly comedy, no subtitles, no watermark.
+
+---
+
+## 13. 🐐 बाख्राले चिया पियो
+
+**Hook:** "घरमा नयाँ चिया ग्राहक!"
+
+Create a 10-second vertical 9:16 realistic Nepali courtyard comedy. A Nepali grandmother sits outside drinking morning milk tea.
+
+A curious goat walks toward her and stares at the tea cup.
+
+Grandmother says: “के हेरिस्? चिया खान्छस्?”
+
+She jokingly brings the cup closer.
+
+The goat immediately dips its nose into the cup.
+
+Grandmother screams: “ए! यो त साँच्चै खान पो आयो!”
+
+The goat licks its nose and proudly bleats.
+
+Use realistic Nepal courtyard, stone floor, metal tea cup, morning sunlight, birds, goat bell, natural Nepali grandmother voice, funny flute sting and goat bleat. One continuous shot, realistic animal behavior, no subtitles, no watermark.
+
+---
+
+## 14. 🐱 बिरालोले भाँडा माझ्यो
+
+**Hook:** "घरको नयाँ कामदार भेटियो!"
+
+Create a 10-second vertical 9:16 photorealistic Nepali kitchen comedy. A Nepali mother looks at a pile of dirty steel dishes and says: “आज त घरमा काम गर्ने कोही छैन!”
+
+Her fluffy cat jumps onto the kitchen counter.
+
+The cat pushes one small spoon toward the sink.
+
+Mother stares at it.
+
+The cat pushes another spoon.
+
+Mother laughs and says: “ए बाबा, काम गर्न थालेछस्?”
+
+The cat immediately knocks a steel bowl onto the floor with a loud CLANG and walks away proudly.
+
+Natural Nepali female voice, realistic steel utensil sounds, cat meow, kitchen ambience, exaggerated comedy percussion after the bowl falls. One continuous shot, realistic cat, family-friendly, no subtitles, no watermark.
+
+---
+
+## 15. 🐄 गाईको Facebook Live
+
+**Hook:** "गाईको पहिलो Live!"
+
+Create a 10-second vertical 9:16 photorealistic Nepali courtyard comedy. A young Nepali man holds his smartphone vertically and says: “आज गाईसँग live जाऔँ।”
+
+He turns the camera toward the cow.
+
+The cow walks directly toward the phone until its giant nose completely fills the frame.
+
+The man laughs: “ए! camera त खान नखोज!”
+
+The cow gives a loud “MOOOO!”
+
+The phone camera shakes from laughter.
+
+Use authentic Nepali courtyard, cow bell, birds, distant neighborhood sounds, natural young Nepali male voice, realistic cow movement, funny zoom sound, comedic flute ending. One continuous shot, no subtitles, no watermark.
+
+---
+
+## 16. 🐕 कुकुरको खाना समीक्षा
+
+**Hook:** "घरको असली food reviewer!"
+
+Create a 10-second vertical 9:16 realistic Nepali dining-room comedy. A Nepali mother gives her son a plate of dal bhat and says: “आज खाना कस्तो छ?”
+
+Before the boy answers, the family dog approaches and sniffs the plate.
+
+The dog looks at the mother.
+
+The mother asks: “के भयो?”
+
+The dog slowly shakes its head and walks away.
+
+The boy bursts out laughing and says: “आमा, food review त आइसकेछ!”
+
+Mother looks offended.
+
+Use natural Nepali dialogue, realistic dal bhat, steel plate, family dog, dining room ambience, utensils, comedic tabla hit when dog shakes head. One continuous shot, photorealistic, family-friendly, no subtitles, no watermark.
+
+---
+
+## 17. 🧅 प्याज लुकाउने बिरालो
+
+**Hook:** "बिरालोले प्याज किन लुकायो?"
+
+Create a 10-second vertical 9:16 photorealistic Nepali kitchen comedy. A Nepali mother searches for an onion and says: “अरे, प्याज कहाँ गयो?”
+
+The family cat is sitting beside a cupboard looking suspicious.
+
+Mother notices the cat and asks: “तँलाई थाहा छ?”
+
+The cat slowly turns away.
+
+Mother opens the cupboard and discovers three onions hidden behind the cat's food bowl.
+
+She says: “तँले stock राखेको?”
+
+The cat meows proudly.
+
+Use realistic kitchen, onions, steel containers, cat behavior, natural Nepali female voice, subtle suspense music, cat meow and funny madal ending. One continuous shot, no subtitles, no watermark.
+
+---
+
+## 18. 🐓 कुखुराको घरधनी
+
+**Hook:** "यो घर कसको हो?"
+
+Create a 10-second vertical 9:16 photorealistic Nepali courtyard comedy. A Nepali man tries to sit on a plastic chair in his courtyard.
+
+A large rooster is already sitting on the chair.
+
+The man says: “ए भाइ, उठ न। यो मेरो कुर्सी हो।”
+
+The rooster stares at him.
+
+The man tries to move it gently.
+
+The rooster spreads its wings aggressively and says “कुकुरुकुँ!”
+
+The man immediately steps back and says: “ठीक छ, घर तेरै रहेछ!”
+
+The rooster proudly remains on the chair.
+
+Natural Nepali male voice, rooster crow, courtyard ambience, distant dog barking, comedic drum sting. Realistic rooster, one continuous shot, no subtitles, no watermark.
+
+---
+
+## 19. 🥬 बन्दाकोपीको सुरक्षा
+
+**Hook:** "बन्दाकोपीको security guard!"
+
+Create a 10-second vertical 9:16 realistic Nepali kitchen comedy. A Nepali woman places a fresh cabbage on the floor beside a vegetable basket.
+
+A small goat enters and moves toward the cabbage.
+
+Suddenly the household cat jumps between the goat and the cabbage like a security guard.
+
+The woman laughs: “तँ बन्दाकोपीको security guard हो?”
+
+The cat stares seriously at the goat.
+
+The goat looks at the cat, gives up and walks away.
+
+The woman says: “वाह! आजको salary दूध!”
+
+The cat meows proudly.
+
+Natural Nepali female dialogue, goat sounds, cat meow, kitchen ambience, comedic action music and tiny victory drum hit. Photorealistic animals, one continuous shot, cute family comedy, no subtitles, no watermark.
+
+---
+
+## 20. 🐃 भैंसी र मोबाइलको प्रेम
+
+**Hook:** "भैंसीलाई पनि Reel मन पर्छ!"
+
+Create a 10-second vertical 9:16 photorealistic Nepali village courtyard comedy. A Nepali teenager sits beside his buffalo scrolling Instagram Reels on a smartphone.
+
+A funny dance video plays with music.
+
+The buffalo suddenly starts moving its head rhythmically to the beat.
+
+The teenager looks shocked and says: “ए! तँलाई पनि Reel मन पर्छ?”
+
+The buffalo continues nodding perfectly to the music.
+
+The teenager laughs and says: “अब तेरो account खोल्नुपर्‍यो!”
+
+The buffalo gives a proud “MOO!”
+
+Use authentic Nepali courtyard, buffalo bell, natural teenage Nepali voice, realistic animal movement, phone audio, funny beat, exaggerated final moo, one continuous shot, highly shareable family-friendly comedy, no subtitles, no watermark.
+
+---
+
+# 🔥 Viral Hook Bank
+
+यी hooks लाई video को पहिलो **0–1.5 seconds** मा voice/dialogue वा visual actionको रूपमा प्रयोग गर्न सकिन्छ:
+
+1. **“ए! यो के गर्दैछ?”**
+2. **“घरको असली चोर भेटियो!”**
+3. **“यो त मैले सोचेको पनि थिइनँ!”**
+4. **“गाईले यस्तो पनि गर्छ?”**
+5. **“आलु पनि रिसाउँदो रहेछ!”**
+6. **“आज भान्सामा ठूलो काण्ड भयो!”**
+7. **“यो बिरालो धेरै चलाख छ!”**
+8. **“घरको VIP को हो थाहा छ?”**
+9. **“कुकुरले सबै कुरा देखिसकेछ!”**
+10. **“यो बाख्राको confidence हेर!”**
+11. **“आमाले देख्नुअघि भाग!”**
+12. **“आजको तरकारीले विद्रोह गर्‍यो!”**
+13. **“यो चोर घरभित्रै छ!”**
+14. **“कसैले यो जनावरलाई रोक!”**
+15. **“१० सेकेन्डमै सबै कुरा उल्टियो!”**
+
+---
+
+# 🎯 Best Short-Form Structure
+
+हरेक भिडियोमा यो timing राख्दा राम्रो हुन्छ:
+
+| Time         | Content                                    |
+| ------------ | ------------------------------------------ |
+| **0–1 sec**  | Crazy visual / hook                        |
+| **1–3 sec**  | Nepali household setup                     |
+| **3–6 sec**  | Animal/vegetable does something unexpected |
+| **6–8 sec**  | Human reaction/dialogue                    |
+| **8–10 sec** | Funny punchline + sound                    |
+
+सबैभन्दा महत्वपूर्ण कुरा: **१० सेकेन्डमा moral explain नगर्नुहोस्।** तपाईंको original source moral-story formatमा छ, तर Shorts/Reels versionमा moral लाई **comedy situationभित्र लुकाउनुहोस्**। जस्तै original storyको “दूध चोर को रहेछ?” मा कुकुरमाथि गलत आरोपको idea छ; short versionमा त्यसलाई “दूध चोर्ने बिरालो र निर्दोष कुकुर” जस्तो visual joke बनाउन सकिन्छ। 
+
+---
+
+# 🎬 Google Flow — Common Negative Prompt
+
+हरेक promptको अन्त्यमा यो पनि जोड्न सक्नुहुन्छ:
+
+```text
+Avoid cartoon style, avoid anime, avoid fantasy appearance, avoid deformed animals, avoid extra limbs, avoid unnatural faces, avoid robotic movements, avoid American or Indian-looking household, avoid western kitchen, avoid English dialogue, avoid subtitles, avoid text overlays, avoid watermark, avoid logos, avoid dramatic violence, avoid scary animals, avoid horror, avoid excessive camera movement, avoid multiple scene changes. Keep authentic Nepali household architecture, Nepali clothing, Nepali accents, natural animal behavior, realistic lighting and believable physical motion.
+```
+
+---
+
+# 📱 एउटै Video लाई 4 Platforms मा प्रयोग गर्ने Format
+
+**Master export**
+
+* Resolution: **1080 × 1920**
+* Aspect ratio: **9:16**
+* Duration: **8–10 sec**
+* FPS: **30**
+* No platform logo
+* No watermark
+* No baked-in captions
+* Keep important action in center 70% of frame
+
+त्यसपछि एउटै master video:
+
+**TikTok →** upload
+**Instagram Reels →** upload
+**Facebook Reels →** upload
+**YouTube Shorts →** upload
+
+---
+
+# 🚀 Channel / Series Naming
+
+मेरो हिसाबले एउटै नामबाट series बनाउँदा brand बनाउन सजिलो हुन्छ:
+
+### Option A — नेपाली
+
+**घरकै हाँसो**
+
+### Option B — Cute
+
+**हाँस्ने घर**
+
+### Option C — Animal-focused
+
+**जनावरको झमेला**
+
+### Option D — Viral-style
+
+**के भयो घरमा?**
+
+### Option E — Short & Brandable
+
+**Haso Nepal**
+
+यदि तपाईं **real Nepal household + animal comedy** लाई मुख्य brand बनाउन चाहनुहुन्छ भने **“घरकै हाँसो”** वरिपरि पूरा series बनाउनु राम्रो structure हुन्छ।
+
+---
+
+# 🔎 SEO Title Templates
+
+### YouTube Shorts
+
+* `आलु पनि रिसाएछ 😂 | Nepali Comedy #Shorts`
+* `घरको असली चोर भेटियो 😂🐱 | Nepali Funny Video`
+* `बाख्राले तरकारी चोर्यो 😂 | Nepali Village Comedy`
+* `गाईलाई पनि Reel मन पर्छ 😂🐄 | Nepali Shorts`
+* `कुकुरले पाहुना चिनेछ 😂 | Nepali Comedy Shorts`
+
+### TikTok
+
+* `यो बिरालो धेरै चलाख छ 😂🐱`
+* `घरको असली चोर 😂`
+* `नेपाली घरमा यस्तो पनि हुन्छ 😂`
+* `बाख्राको confidence हेर 😂`
+* `कसले गर्यो यस्तो? 😂`
+
+### Instagram
+
+* `Nepali household problems 😂`
+* `When your goat becomes the thief 😂🐐`
+* `Typical Nepali ghar ko comedy 😂`
+* `This cat knows everything 😂🐱`
+
+### Facebook
+
+* `नेपाली घरमा यस्तो घटना भयो 😂`
+* `यो बिरालोको दिमाग त मान्छेको भन्दा तेज रहेछ 😂`
+* `बाख्राले घरकै तरकारी खाइदियो 😂`
+
+---
+
+# 🏷️ Core Hashtag Set
+
+सबै भिडियोमा एउटै 20 वटा hashtag नराखेर **5–8 relevant hashtags** rotate गर्नु राम्रो हुन्छ।
+
+### General
+
+`#NepaliComedy #NepaliFunny #NepaliShorts #Nepal #NepaliVideo #Comedy #FunnyVideo #Shorts`
+
+### Animal
+
+`#NepaliComedy #FunnyAnimals #CuteAnimals #NepaliAnimals #AnimalComedy #Nepal #Shorts`
+
+### Village
+
+`#NepaliVillage #GaunKoJeevan #NepaliComedy #Nepal #NepaliShorts #VillageLife`
+
+### Household
+
+`#NepaliFamily #NepaliGhar #NepaliComedy #GharKoHaso #FunnyNepali #Nepal`
+
+### YouTube
+
+`#Shorts #YouTubeShorts #NepaliShorts #NepaliComedy #FunnyShorts`
+
+---
+
+# 🔑 YouTube SEO Keywords
+
+```text
+nepali comedy
+nepali funny video
+nepali shorts
+nepali comedy shorts
+nepali funny shorts
+nepal viral shorts
+nepali village comedy
+nepali household comedy
+nepali family comedy
+nepali animal comedy
+funny animals nepal
+cute animal comedy
+nepali gaun ko comedy
+nepali funny video 2026
+nepali reels
+nepali tiktok
+nepali facebook reels
+nepali instagram reels
+ghar ko haso
+nepali entertainment
+```
+
+---
+
+# 🎵 Sound Formula
+
+तपाईंले AI video generate गर्दा **dialogue मात्र** नराख्नुहोस्। Viral comedyमा sound reaction निकै महत्वपूर्ण हुन्छ।
+
+**0–2 sec:**
+`घरको natural ambience + quick comedic hit`
+
+**2–5 sec:**
+`realistic animal / kitchen sounds`
+
+**5–7 sec:**
+`short silence / pause`
+
+**7–9 sec:**
+`dialogue punchline`
+
+**9–10 sec:**
+`MOO / MEOW / BOING / MADAL HIT / funny flute`
+
+### Nepali sound palette
+
+* छोटो **मादल hit**
+* बाँसुरीको funny note
+* काँस/steel plate sound
+* pressure cooker whistle
+* cat meow
+* goat bleat
+* cow moo
+* buffalo bell
+* rooster crow
+* dog bark
+* utensil **clang**
+* exaggerated **“टिङ!”**
+* छोटो silence before punchline
+
+---
+
+# 💡 सबैभन्दा महत्वपूर्ण Viral Rule
+
+**पहिलो 1 second मा कहानी सुरु भइसकेको हुनुपर्छ।**
+
+❌ यस्तो नगर्नु:
+
+> मानिस भान्सामा आउँछ → बस्छ → कुरा गर्छ → समस्या सुरु हुन्छ।
+
+१० sec मा ढिलो हुन्छ।
+
+✅ यस्तो:
+
+> **पहिलो frameमै बाख्राले ठूलो cauliflower टोकेको छ।**
+> महिला frameमा छिरेर: **“ए! त्यो आजको तरकारी हो!”**
+> बाख्रा cameraतिर हेर्छ → भाग्छ → punchline.
+
+त्यसैले तपाईंका सबै videos को **“thumbnail moment” नै पहिलो frame** हुनुपर्छ।
+
+### Recommended production pipeline
+
+**Story idea → 1-scene Flow prompt → 10 sec generation → natural Nepali voice → SFX → 9:16 master → clean export → TikTok + Reels + Facebook + Shorts.**
+
+यसरी 20 वटा मात्र होइन, यही format बाट **सयौं “घरकै हाँसो” episodes** बनाउन सकिन्छ—तर प्रत्येक episodeमा **नयाँ human character + नयाँ animal + नयाँ household object + नयाँ punchline** राख्दा repetitive देखिँदैन।

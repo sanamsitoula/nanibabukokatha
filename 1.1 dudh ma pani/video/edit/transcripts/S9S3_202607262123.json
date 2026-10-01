@@ -1,0 +1,59 @@
+{
+  "words": [
+    {
+      "type": "word",
+      "text": "\u0915\u094d\u0930\u093f\u0937\u094d\u0928\u093e",
+      "start": 0.0,
+      "end": 1.2,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "spacing",
+      "text": " ",
+      "start": 1.2,
+      "end": 3.960000000000001
+    },
+    {
+      "type": "word",
+      "text": "\u0917\u094b...",
+      "start": 3.960000000000001,
+      "end": 5.08,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u0917\u094b...",
+      "start": 5.08,
+      "end": 5.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u0917\u094b\u092a\u093e\u0932",
+      "start": 5.62,
+      "end": 6.18,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u0924\u094b...",
+      "start": 6.18,
+      "end": 7.42,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u0924\u094b",
+      "start": 7.42,
+      "end": 7.72,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "\u092f\u0939\u093e",
+      "start": 7.72,
+      "end": 8.02,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}
