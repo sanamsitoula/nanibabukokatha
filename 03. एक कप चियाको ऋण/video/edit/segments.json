@@ -1,0 +1,598 @@
+[
+ {
+  "id": "S1S1",
+  "refs": [
+   "BAZ"
+  ],
+  "kf": "Morning in the narrow stone-paved Phoolbari bazaar street from the reference. A shiny black SUV rolls slowly down the street toward the small tea shop, dust rising, shopkeepers and villagers along the street stop and stare.",
+  "act": "The black SUV rolls slowly down the narrow street, dust rising; villagers turn to stare. Camera: slow tracking shot following the car.",
+  "sfx": "car engine, bazaar chatter dying down",
+  "narration": "त्यो बिहान, सरिताको सानो चियापसल अगाडि एउटा चम्किलो कालो गाडी आएर रोकियो। सिंगो बजार अवाक् भयो — फूलबारी गाउँको इतिहासमा यस्तो गाडी कहिल्यै आएको थिएन।"
+ },
+ {
+  "id": "S1S2",
+  "refs": [
+   "BAZ"
+  ],
+  "kf": "Close group shot in the bazaar street in bright morning sun: shocked village onlookers in simple Nepali clothes whisper and point toward a shiny black SUV parked out of focus. In front, a middle-aged villager man in a brown topi and vest points with wide eyes.",
+  "act": "Villagers whisper and point at the car; the man in the brown topi turns to his neighbour. Camera: quick pans across shocked faces.",
+  "sfx": "crowd whispering, footsteps",
+  "lines": [
+   [
+    "गाउँले",
+    "यो त... ठूलो साहुको गाडी जस्तो देखिन्छ! सरिताको पसलमा किन आयो होला?"
+   ]
+  ]
+ },
+ {
+  "id": "S1S3",
+  "refs": [
+   "SAR",
+   "MB"
+  ],
+  "kf": "Inside a small worn tea shop with a wooden bench, clay stove and soot-blackened roof. MOHAN (grey cloth cap, dirty brown shirt) grips the trembling hand of SARITA (faded green-brown sari, low bun); both look fearfully toward the bright doorway. Harsh outside light shaft through the door.",
+  "act": "The man grips the woman's trembling hand; both stare at the doorway. Camera: close two-shot, slow push-in.",
+  "sfx": "tense silence, a car engine outside",
+  "lines": [
+   [
+    "मोहन",
+    "सरिता... तिम्रो ऋणको कुरा त होइन नि यो?"
+   ],
+   [
+    "सरिता",
+    "मलाई... मलाई थाहा छैन मोहन। मेरो मुटु ढुकढुक भइरहेको छ।"
+   ]
+  ]
+ },
+ {
+  "id": "S1S4",
+  "refs": [
+   "SAR",
+   "SETH"
+  ],
+  "kf": "Over-the-shoulder shot from behind SARITA (faded green-brown sari, low bun) standing in the tea shop doorway: the rear door of a shiny black SUV is open, bright light spilling out, and a dignified elderly man in a clean white daura-suruwal is stepping out, his face still in shadow. Her eyes wide with dawning recognition.",
+  "act": "The car door opens slowly, light spilling out, the elderly man steps out, face in shadow. Camera: slow reveal, rack focus from the woman to the figure.",
+  "sfx": "car door opening, crowd gasp",
+  "narration": "गाडीको ढोका खुल्यो। भित्रबाट निस्किएको मान्छे देखेर सरिता अवाक् भइन् — यो त उही बूढा हो, जसलाई उनले महिनौंअघि एक कप चिया खुवाएकी थिइन्! तर आज ऊ यसरी किन फर्किएको थियो?"
+ },
+ {
+  "id": "S2S1",
+  "refs": [
+   "BAZ"
+  ],
+  "card": "आठ महिनाअघि...",
+  "kf": "The same tiny tea shop in the bazaar on a dull overcast day, looking even more worn: cracked walls, a single dim lamp, an empty bench, a lonely kettle on the clay stove. Muted cool colours.",
+  "act": "Slow push toward the shop front; steam curls weakly from the kettle; a dog wanders past.",
+  "sfx": "quiet bazaar, light wind",
+  "narration": "यो कथा सुरु हुन्छ आठ महिनाअघि। जब सरिताको सानो चियापसल घाटामा डुबिरहेको थियो, र मोहनको दिनको ज्यालाले घर धान्न मुश्किल हुँदै थियो।"
+ },
+ {
+  "id": "S2S2",
+  "refs": [
+   "SL",
+   "SAR"
+  ],
+  "kf": "Inside a big grocery shop full of rice and sugar sacks. SAHUJI (fat, bald, small moustache, black coat over white shirt, red ledger) (the left man of the first reference only) stands behind the counter writing in his red ledger, scowling. In front of the counter SARITA (faded green-brown sari, low bun) stands with folded hands, pleading.",
+  "act": "The shopkeeper writes angrily in the ledger and taps it; the woman pleads with folded hands. Camera: counter-level shot, push-in.",
+  "sfx": "ledger pages turning, scale clinking",
+  "lines": [
+   [
+    "साहुजी",
+    "सरिता, यो महिनाको चिनी-चिया पातिको पैसा फेरि बाँकी छ है! अब त सहन सक्दिनँ म।"
+   ],
+   [
+    "सरिता",
+    "साहुजी, अर्को हप्तासम्म दिनुस् न..."
+   ]
+  ]
+ },
+ {
+  "id": "S2S3",
+  "refs": [
+   "MB"
+  ],
+  "kf": "Close-up: BABITA (small girl, pink torn frock, two braids) (the right child of the reference only) sits in the corner of a dim tea shop, clutching her empty stomach, big sad eyes looking up.",
+  "act": "The little girl holds her stomach and looks up sadly. Camera: slow push-in on her small face.",
+  "sfx": "soft sigh, distant bazaar",
+  "lines": [
+   [
+    "बबिता",
+    "आमा... भोक लाग्यो।"
+   ]
+  ]
+ },
+ {
+  "id": "S3S1",
+  "refs": [
+   "SETH",
+   "BAZ"
+  ],
+  "kf": "Dusk in the bazaar street, orange light. the OLD MAN in his beggar look (long white beard, dusty torn brown kurta, barefoot, torn shoulder bag) (left look of the reference) stumbles with a slight limp toward the small tea shop, thin, exhausted, hollow eyes.",
+  "act": "The frail old man limps slowly along the street toward the tea shop. Camera: slow tracking shot following his unsteady walk.",
+  "sfx": "tired footsteps, bazaar winding down",
+  "narration": "साँझ ढल्दै गर्दा, फाटेको लुगा लगाएको, हड्डी टेकिएको एउटा बूढो मान्छे लत्रिँदै सरिताको पसलतिर आयो।"
+ },
+ {
+  "id": "S3S2",
+  "refs": [
+   "SETH",
+   "SAR"
+  ],
+  "kf": "Close-up at the tea shop doorway at dusk: the OLD MAN in his beggar look (long white beard, dusty torn brown kurta, barefoot, torn shoulder bag) leans on the wooden doorframe with trembling hands, pleading eyes meeting SARITA (faded green-brown sari, low bun) inside. Warm lamp glow inside, cold blue dusk outside.",
+  "act": "The old man leans on the doorframe and pleads, hands trembling. Camera: intimate eye-level close-up.",
+  "sfx": "weak breathing, oil lamp flicker",
+  "lines": [
+   [
+    "बूढा पाहुना",
+    "बहिनी... म तीन दिनदेखि केही खाएको छैन। एक कचौरा पानी... वा जे भए पनि दिनसक्नुहुन्छ?"
+   ]
+  ]
+ },
+ {
+  "id": "S3S3",
+  "refs": [
+   "SAR",
+   "MB"
+  ],
+  "kf": "Inside the lamp-lit tea shop: MOHAN (grey cloth cap, dirty brown shirt) whispers urgently to SARITA (faded green-brown sari, low bun), gesturing at their empty cooking pot; she looks past him toward the doorway with a softening, determined face.",
+  "act": "The man whispers urgently pointing at the empty pot; the woman looks past him and decides. Camera: close two-shot, push-in to her eyes.",
+  "sfx": "pot clinking",
+  "lines": [
+   [
+    "मोहन",
+    "सरिता, हामीसँग आफैंलाई खान पुग्दैन, यसलाई कहाँबाट खुवाउने?"
+   ],
+   [
+    "सरिता",
+    "बस्नुहोस् बाबा। म अहिल्यै ल्याउँछु।"
+   ]
+  ]
+ },
+ {
+  "id": "S3S4",
+  "refs": [
+   "SETH",
+   "SAR"
+  ],
+  "kf": "Warm close-up: SARITA (faded green-brown sari, low bun) places a small clay cup of steaming tea and a ring of sel roti into the trembling hands of the OLD MAN in his beggar look (long white beard, dusty torn brown kurta, barefoot, torn shoulder bag), who sits on the bench looking up at her with tear-filled grateful eyes.",
+  "act": "She places the tea and sel roti in his hands; he looks up with grateful tears. Camera: slow overhead then rack focus to his face.",
+  "sfx": "cup set down, gentle wind",
+  "narration": "सरिताले आफ्नै भोक थाती राखेर बूढालाई सेलरोटी र चिया थमाइन्। त्यो सानो कचौराभित्र लुकेको थियो — भविष्यको एउटा ठूलो रहस्यको बीउ।"
+ },
+ {
+  "id": "S4S1",
+  "refs": [
+   "SETH",
+   "SAR"
+  ],
+  "kf": "Weeks later, soft afternoon light: the OLD MAN in his beggar look (long white beard, dusty torn brown kurta, barefoot, torn shoulder bag) sits on the tea shop bench with a steaming cup while SARITA (faded green-brown sari, low bun) pours him more tea from a kettle, smiling warmly.",
+  "act": "She pours more tea, smiling; he sips contentedly. Camera: warm medium two-shot, gentle handheld.",
+  "sfx": "tea pouring, light bazaar chatter",
+  "narration": "त्यो दिनदेखि बूढा पाहुना बेला-बेला सरिताको पसलमा आउन थाले। हरेक पटक सरिताले उनलाई निःशुल्क चिया खुवाइन् — पैसा नमागी, प्रश्न नसोधी।"
+ },
+ {
+  "id": "S4S2",
+  "refs": [
+   "SETH",
+   "SAR"
+  ],
+  "kf": "Close two-shot on the tea shop bench in warm dappled afternoon light: the OLD MAN in his beggar look (long white beard, dusty torn brown kurta, barefoot, torn shoulder bag) holds his tea cup and speaks softly; SARITA (faded green-brown sari, low bun) sits beside him listening.",
+  "act": "The old man speaks gently, then she answers with a smile. Camera: slow alternating close-ups.",
+  "sfx": "light wind, birds",
+  "lines": [
+   [
+    "बूढा पाहुना",
+    "बहिनी, तिमी आफैं यति गरिब भएर पनि... मलाई किन दिन्छ्यौ?"
+   ],
+   [
+    "सरिता",
+    "बाबा, भोकाएको मान्छे देखेर म कसरी बस्न सक्छु?"
+   ]
+  ]
+ },
+ {
+  "id": "S4S3",
+  "refs": [
+   "SETH"
+  ],
+  "kf": "Close-up of the OLD MAN in his beggar look (long white beard, dusty torn brown kurta, barefoot, torn shoulder bag): his eyes well up with tears as he looks away into the distance, remembering, weathered sorrowful face in warm fading afternoon light.",
+  "act": "His eyes fill with tears as he looks away and speaks. Camera: slow push-in.",
+  "sfx": "light wind, distant bazaar",
+  "lines": [
+   [
+    "बूढा पाहुना",
+    "मैले पनि एक जना छोरी पालेको थिएँ... ऊ पनि तिमीजस्तै दिलैदार थिई।"
+   ]
+  ]
+ },
+ {
+  "id": "S5S1",
+  "refs": [
+   "SL"
+  ],
+  "kf": "Grocery shop counter at harsh midday: SAHUJI (fat, bald, small moustache, black coat over white shirt, red ledger) (left man of the reference only) slams his red ledger on the counter, face red with anger, shouting.",
+  "act": "The shopkeeper slams the ledger down and shouts angrily. Camera: low counter-level shot, punch-in on the slam.",
+  "sfx": "ledger slam, crowd murmur",
+  "lines": [
+   [
+    "साहुजी",
+    "सरिता! अब यो पसल नै लिलाम गर्नुपर्ला! महिनौंदेखि पैसा तिरेकी छैनौ, अनि भोका-नाङ्गालाई खुवाउँछ्यौ!"
+   ]
+  ]
+ },
+ {
+  "id": "S5S2",
+  "refs": [
+   "MB",
+   "SAR"
+  ],
+  "kf": "Close shot at the grocery shop doorway in harsh midday sun: MOHAN (grey cloth cap, dirty brown shirt) pleads with folded hands, while BABITA (small girl, pink torn frock, two braids) clings to the sari of SARITA (faded green-brown sari, low bun), frightened.",
+  "act": "The man pleads with folded hands; the frightened girl tugs her mother's sari and asks. Camera: close two-shot shifting between them.",
+  "sfx": "outside bustle",
+  "lines": [
+   [
+    "मोहन",
+    "साहुजी, अलिकति समय दिनुस्... म दोब्बर काम गर्छु।"
+   ],
+   [
+    "बबिता",
+    "आमा, हामी घरबाट निकालिन्छौं त?"
+   ]
+  ]
+ },
+ {
+  "id": "S5S3",
+  "refs": [
+   "SAR",
+   "BAZ"
+  ],
+  "kf": "Evening at the tea shop: SARITA (faded green-brown sari, low bun) stands at the doorway looking at the empty wooden bench where the old man usually sits, worried face, dim dusk light and one lamp.",
+  "act": "Slow pan across the empty bench to her worried face; the lamp flickers.",
+  "sfx": "light wind, lamp flicker",
+  "narration": "साहुजीले अन्तिम मिति दिए — एक हप्ता। तर त्यही साँझ, बूढा पाहुना अचानक बेपत्ता भए, जस्तो कि ऊ कहिल्यै आएकै थिएनन्।"
+ },
+ {
+  "id": "S6S1",
+  "refs": [
+   "SAR",
+   "BAZ"
+  ],
+  "kf": "Dusty bazaar street at midday: SARITA (faded green-brown sari, low bun) anxiously asks a middle-aged woman shopkeeper in a red sari at her vegetable stall, describing a long beard with her hands.",
+  "act": "She asks the stall woman, gesturing a long beard; the woman shakes her head. Camera: tracking shot through the busy street.",
+  "sfx": "bazaar bustle",
+  "lines": [
+   [
+    "सरिता",
+    "त्यो बूढा बाबालाई देख्नुभयो? सेतो दारी, फाटेको खैरो कुर्ता?"
+   ],
+   [
+    "गाउँले",
+    "देखेका छैनौं बहिनी। किन, के भयो?"
+   ]
+  ]
+ },
+ {
+  "id": "S6S2",
+  "refs": [
+   "MB",
+   "SAR"
+  ],
+  "kf": "Inside the tea shop at dusk, one dim lamp: MOHAN (grey cloth cap, dirty brown shirt) sits heavily on a stool rubbing his tired face; SARITA (faded green-brown sari, low bun) stands in the doorway, shoulders slumped.",
+  "act": "He rubs his face and speaks wearily; she lowers her head. Camera: static medium shot, soft push-in.",
+  "sfx": "stool creak, light wind",
+  "lines": [
+   [
+    "मोहन",
+    "सरिता, अब त हामीलाई आफ्नै समस्या ठूलो छ। साहुजीको मिति नजिकिँदैछ।"
+   ]
+  ]
+ },
+ {
+  "id": "S6S3",
+  "refs": [
+   "BAZ"
+  ],
+  "kf": "Night in the bazaar street from the reference: the same shiny black SUV pulls up outside the small tea shop, its headlights cutting bright beams through the dark street, lamp glow from the shop.",
+  "act": "The SUV pulls up, headlights glaring; the engine stops. Camera: slow dolly toward the headlights.",
+  "sfx": "car engine, night silence",
+  "narration": "त्यही रात, सरिताको पसल अगाडि फेरि त्यही कालो गाडी आइपुग्यो — जुन दृश्यबाट यो कथा सुरु भएको थियो।"
+ },
+ {
+  "id": "S7S1",
+  "refs": [
+   "SL",
+   "SAR"
+  ],
+  "kf": "Night outside the tea shop: the LAWYER (right man of the first reference only: slim, glasses, black coat, file folder) and two assistants in black coats approach SARITA (faded green-brown sari, low bun), who stands nervously in her lamp-lit doorway.",
+  "act": "The lawyer approaches and speaks politely, holding his file. Camera: medium tracking shot following his approach.",
+  "sfx": "footsteps, paper rustle",
+  "lines": [
+   [
+    "वकिल",
+    "तपाईं नै सरिता जी? बीस वर्षदेखि हराउनुभएका हरिनारायण सेठज्यू... तपाईंकै पसलमा भेटिनुभयो।"
+   ]
+  ]
+ },
+ {
+  "id": "S7S2",
+  "refs": [
+   "SETH",
+   "SAR"
+  ],
+  "kf": "Night, lamp-lit doorway: HARINARAYAN SETH in his rich look (long white beard, clean white daura-suruwal, black dhaka topi, gold chain, silver walking stick) (right look of the reference) stands smiling warmly in front of the black SUV; facing him, SARITA (faded green-brown sari, low bun) stares in shock, hand over her mouth.",
+  "act": "She gasps in disbelief; the old man smiles and answers warmly. Camera: slow reveal rising from his feet to his face.",
+  "sfx": "crowd gasp, light wind",
+  "lines": [
+   [
+    "सरिता",
+    "हरिनारायण... सेठ? तर... यो त..."
+   ],
+   [
+    "हरिनारायण सेठ",
+    "हो बहिनी, म नै हुँ। त्यही भोकाएको बूढो, जसलाई तिमीले चिया खुवायौ।"
+   ]
+  ]
+ },
+ {
+  "id": "S7S3",
+  "refs": [
+   "SETH",
+   "BAZ"
+  ],
+  "kf": "Wide night shot of the bazaar street: a crowd of villagers surrounds the black SUV and the humble lamp-lit tea shop, whispering and pointing; HARINARAYAN SETH in his rich look (long white beard, clean white daura-suruwal, black dhaka topi, gold chain, silver walking stick) stands in the middle.",
+  "act": "The crowd murmurs and points; lamps glow. Camera: slow crane pull-back revealing the whole gathering.",
+  "sfx": "crowd murmur, light wind",
+  "narration": "गाउँको सबैभन्दा गरिब मानिएकी सरिताले, बिना जानी, गाउँकै सबैभन्दा धनी — तर बीस वर्षदेखि हराएका मान्छेलाई सेवा गरेकी रहिछन्। तर उनी किन फाटेको लुगा लगाएर भौंतारिँदै थिए?"
+ },
+ {
+  "id": "S8S1",
+  "refs": [
+   "SETH",
+   "BAZ"
+  ],
+  "kf": "Golden dusk at the stone chautari with the peepal tree at the bazaar entrance: the whole village sits and stands around; HARINARAYAN SETH in his rich look (long white beard, clean white daura-suruwal, black dhaka topi, gold chain, silver walking stick) stands on the stone platform, solemn, beginning his story.",
+  "act": "He speaks solemnly to the hushed crowd; leaves sway. Camera: crane down toward his face.",
+  "sfx": "hushed crowd, leaves rustling",
+  "lines": [
+   [
+    "हरिनारायण सेठ",
+    "बीस वर्षअघि, एउटै दुर्घटनामा मैले मेरी श्रीमती र एक्लो छोरी गुमाएँ।"
+   ]
+  ]
+ },
+ {
+  "id": "S8S1b",
+  "refs": [
+   "SETH"
+  ],
+  "kf": "Close-up of HARINARAYAN SETH in his rich look (long white beard, clean white daura-suruwal, black dhaka topi, gold chain, silver walking stick) at golden dusk under the peepal tree, eyes lowered with old grief, one hand on his silver walking stick.",
+  "act": "He lowers his eyes and speaks with deep sorrow. Camera: slow push-in.",
+  "sfx": "soft wind",
+  "lines": [
+   [
+    "हरिनारायण सेठ",
+    "त्यसपछि पैसा, घर, सम्पत्ति — कुनैले पनि मलाई सुख दिन सकेन।"
+   ]
+  ]
+ },
+ {
+  "id": "S8S2",
+  "refs": [
+   "SETH",
+   "SAR"
+  ],
+  "kf": "Dusk at the chautari, gold fading to blue: HARINARAYAN SETH in his rich look (long white beard, clean white daura-suruwal, black dhaka topi, gold chain, silver walking stick) explains, a hand on his chest; in the foreground SARITA (faded green-brown sari, low bun) listens with tears welling.",
+  "act": "He explains his choice; she listens with welling tears. Camera: intimate alternating close-ups.",
+  "sfx": "soft wind, subtle sighs",
+  "lines": [
+   [
+    "हरिनारायण सेठ",
+    "म सोचें — गरिब भएर हिँडें भने, संसारले मलाई कस्तो व्यवहार गर्छ, थाहा पाउनेछु।"
+   ]
+  ]
+ },
+ {
+  "id": "S8S3",
+  "refs": [
+   "SAR",
+   "SETH"
+  ],
+  "kf": "Close two-shot at the chautari at dusk: SARITA (faded green-brown sari, low bun) with tears on her cheeks looks up at HARINARAYAN SETH in his rich look (long white beard, clean white daura-suruwal, black dhaka topi, gold chain, silver walking stick), who nods sadly.",
+  "act": "She speaks through tears; he nods and answers. Camera: slow push-in alternating faces.",
+  "sfx": "hushed crowd",
+  "lines": [
+   [
+    "सरिता",
+    "त्यसैले तपाईं फाटेको लुगा लगाएर..."
+   ],
+   [
+    "हरिनारायण सेठ",
+    "हो। धेरै ठाउँमा मलाई धपाइयो, गाली गरियो, ढुङ्गा हानियो।"
+   ]
+  ]
+ },
+ {
+  "id": "S8S3b",
+  "refs": [
+   "SETH",
+   "SAR"
+  ],
+  "kf": "Close-up of HARINARAYAN SETH in his rich look (long white beard, clean white daura-suruwal, black dhaka topi, gold chain, silver walking stick) looking directly at SARITA (faded green-brown sari, low bun) with deep gratitude, last golden light of dusk on his face.",
+  "act": "He speaks to her with deep gratitude, voice warm. Camera: slow push-in.",
+  "sfx": "soft wind",
+  "lines": [
+   [
+    "हरिनारायण सेठ",
+    "तर तिमी आफैं भोकभोकै हुँदा पनि मलाई खुवायौ। तिमीले मलाई फेरि मान्छेमाथि विश्वास गर्न सिकायौ, बहिनी।"
+   ]
+  ]
+ },
+ {
+  "id": "S9S1",
+  "refs": [
+   "SETH",
+   "SL"
+  ],
+  "kf": "Dusk at the chautari: HARINARAYAN SETH in his rich look (long white beard, clean white daura-suruwal, black dhaka topi, gold chain, silver walking stick) turns to SAHUJI (fat, bald, small moustache, black coat over white shirt, red ledger) (left man of the second reference only) and speaks firmly, holding a folded paper; Sahuji clutches his ledger nervously.",
+  "act": "The old man speaks firmly to the shopkeeper, raising the paper. Camera: medium two-shot, push-in.",
+  "sfx": "crowd murmur",
+  "lines": [
+   [
+    "हरिनारायण सेठ",
+    "साहुजी, सरिताको सम्पूर्ण ऋण मैले तिरिदिएँ। र यो पसलको जग्गा पनि... वास्तवमा मेरै हो।"
+   ]
+  ]
+ },
+ {
+  "id": "S9S1b",
+  "refs": [
+   "SETH",
+   "SAR"
+  ],
+  "kf": "Overhead close-up at warm dusk: the hand of HARINARAYAN SETH in his rich look (long white beard, clean white daura-suruwal, black dhaka topi, gold chain, silver walking stick) gives a folded paper with a round red stamp to the trembling hands of SARITA (faded green-brown sari, low bun).",
+  "act": "The paper passes from his hand to hers as he speaks. Camera: overhead close-up, then tilt up to his face.",
+  "sfx": "paper handed over, crowd cheer",
+  "lines": [
+   [
+    "हरिनारायण सेठ",
+    "आजदेखि यो पसल सरिताकै नाममा — सधैंको लागि, कुनै भाडा बिना।"
+   ]
+  ]
+ },
+ {
+  "id": "S9S2",
+  "refs": [
+   "SL"
+  ],
+  "kf": "Close-up of SAHUJI (fat, bald, small moustache, black coat over white shirt, red ledger) (left man of the reference only) at dusk, ashamed, lowering his red ledger, eyes down.",
+  "act": "He stammers, ashamed, lowering the ledger. Camera: slow push-in.",
+  "sfx": "light wind, crowd murmur",
+  "lines": [
+   [
+    "साहुजी",
+    "सेठज्यू... म... म त सरितालाई निर्दयी व्यवहार गरिरहेको थिएँ, थाहै पाइनँ..."
+   ]
+  ]
+ },
+ {
+  "id": "S9S3",
+  "refs": [
+   "SAR",
+   "MB"
+  ],
+  "kf": "Warm family close-up at golden dusk: SARITA (faded green-brown sari, low bun) weeps with joy holding the paper to her chest, MOHAN (grey cloth cap, dirty brown shirt) has his hand on her shoulder, BABITA (small girl, pink torn frock, two braids) hugs her leg.",
+  "act": "She weeps with joy and speaks; her husband squeezes her shoulder. Camera: warm intimate close-up.",
+  "sfx": "soft sobs, warm crowd laughter",
+  "lines": [
+   [
+    "सरिता",
+    "यति ठूलो गुन... म कसरी तिर्न सक्छु, सेठज्यू?"
+   ]
+  ]
+ },
+ {
+  "id": "S10S1",
+  "refs": [
+   "SETH",
+   "MB"
+  ],
+  "kf": "Cosy evening at the tea shop, warm lamp glow: HARINARAYAN SETH in his rich look (long white beard, clean white daura-suruwal, black dhaka topi, gold chain, silver walking stick) sits on the bench with BABITA (small girl, pink torn frock, two braids) on his lap, both laughing.",
+  "act": "He holds the little girl on his lap and asks; she laughs and answers. Camera: warm medium shot, gentle handheld.",
+  "sfx": "child laughter, tea cups",
+  "lines": [
+   [
+    "हरिनारायण सेठ",
+    "बबिता, तिमी ठ्याक्कै मेरी छोरीजस्तै हाँस्छ्यौ। म तिम्रो हजुरबुवा बनूँ?"
+   ],
+   [
+    "बबिता",
+    "हुन्छ हजुरबुवा! तर फेरि नहराउनुहोला है!"
+   ]
+  ]
+ },
+ {
+  "id": "S10S2",
+  "refs": [
+   "SAR"
+  ],
+  "kf": "Close-up of SARITA (faded green-brown sari, low bun) in warm golden lamp light, wiping a tear and smiling radiantly, looking toward her daughter and the old man.",
+  "act": "She wipes a tear, smiles and speaks softly. Camera: slow push-in.",
+  "sfx": "lamp crackle, light wind",
+  "lines": [
+   [
+    "सरिता",
+    "बाबा, तपाईंले हामीलाई पैसा दिनुभएन... तपाईंले हामीलाई परिवार दिनुभयो।"
+   ]
+  ]
+ },
+ {
+  "id": "S11S1",
+  "refs": [
+   "BAZ",
+   "SAR"
+  ],
+  "card": "महिनौंपछि...",
+  "kf": "Bright cheerful daylight: the tea shop transformed — freshly painted cream and blue walls, new wooden benches, hanging marigold garlands, bustling with happy customers drinking tea; SARITA (faded green-brown sari, low bun) serves tea smiling.",
+  "act": "Customers laugh and sip tea; she serves cheerfully. Camera: wide shot, slow push-in through the lively crowd.",
+  "sfx": "lively bazaar, laughter",
+  "narration": "महिनौं बित्दै गए। सरिताको सानो पसल अब नयाँ रूपमा उभियो — सफा, फराकिलो, र गाउँभरिकै रौनकिलो चियापसल।"
+ },
+ {
+  "id": "S11S2",
+  "refs": [
+   "SAR"
+  ],
+  "kf": "Medium two-shot in the bright new tea shop: a cheerful middle-aged villager man in a dhaka topi holds a tea cup and chats with SARITA (faded green-brown sari, low bun), both smiling.",
+  "act": "The customer compliments the tea; she laughs and answers. Camera: relaxed handheld two-shot.",
+  "sfx": "tea pouring, laughter",
+  "lines": [
+   [
+    "गाउँले",
+    "सरिता बहिनी, चिया उस्तै मीठो, तर पसल त एकदम फेरिएछ!"
+   ],
+   [
+    "सरिता",
+    "चिया त उही हो दाइ — मायाले बनाएको।"
+   ]
+  ]
+ },
+ {
+  "id": "S11S3",
+  "refs": [
+   "SETH",
+   "MB"
+  ],
+  "kf": "Warm golden afternoon in front of the renovated tea shop: HARINARAYAN SETH in his rich look (long white beard, clean white daura-suruwal, black dhaka topi, gold chain, silver walking stick) sits comfortably on the bench, BABITA (small girl, pink torn frock, two braids) playing beside him, customers around.",
+  "act": "He smiles contentedly and speaks, the girl playing beside him. Camera: slow pull-back revealing the joyful scene.",
+  "sfx": "children laughing, bazaar",
+  "lines": [
+   [
+    "हरिनारायण सेठ",
+    "र यो त मेरो घर हो — जहाँ मैले फेरि मान्छे बन्न सिकेँ।"
+   ]
+  ]
+ },
+ {
+  "id": "S12S1",
+  "refs": [
+   "SAR",
+   "MB",
+   "SETH",
+   "BAZ"
+  ],
+  "kf": "Wide high golden-hour shot of the renovated tea shop in the bazaar at sunset: SARITA (faded green-brown sari, low bun), MOHAN (grey cloth cap, dirty brown shirt), BABITA (small girl, pink torn frock, two braids) and HARINARAYAN SETH in his rich look (long white beard, clean white daura-suruwal, black dhaka topi, gold chain, silver walking stick) gathered together on the bench, smiling, the bazaar alive behind them.",
+  "act": "The family sits together peacefully; birds fly over at sunset. Camera: slow crane rising up and back.",
+  "sfx": "gentle breeze, distant bazaar",
+  "narration": "साथीहरू... सरितालाई थाहा थिएन कि उनले चिया खुवाएको मान्छे गाउँकै सबैभन्दा धनी व्यक्ति थियो। उनले त्यो बूढालाई त्यसैले खुवाइन्, किनकि उनी भोकाएका थिए — धनी वा गरिब भनेर हेरिनन्। कहिलेकाहीं सबैभन्दा फाटेको लुगामुनि नै सबैभन्दा गहिरो कथा लुकेको हुन्छ।"
+ },
+ {
+  "id": "S12S2",
+  "refs": [
+   "BAZ"
+  ],
+  "still": true,
+  "moral": true,
+  "kf": "Calm final frame at warm golden hour turning to dusk: the empty wooden tea shop bench in the lower part of the frame with two steaming brass tea cups on it, the bazaar softly out of focus. The upper two-thirds is open warm golden-orange sky with soft clouds, deliberately empty. No people. No text.",
+  "narration": "सानो दया कहिल्यै खेर जाँदैन; मान्छेलाई लुगाले होइन, मनले चिन्नुपर्छ। जुन हातले भोकाएकालाई खुवाउँछ, त्यही हातमा एक दिन आशीर्वाद फर्केर आउँछ।"
+ }
+]

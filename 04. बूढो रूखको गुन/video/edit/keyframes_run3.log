@@ -1,0 +1,27 @@
+S8S2 ok 1300322 bytes 147s
+S8S3 ok 1205455 bytes 96s
+S9S1 ok 1895826 bytes 91s
+S9S2 ok 1564556 bytes 106s
+S11S1 ok 1457039 bytes 111s
+S11S2 FAILED BrowserType.connect_over_cdp: Timeout 180000ms exceeded.
+Call log:
+  - <ws preparing> retrieving websocket url from http://127.0.0.1:9222
+  - <ws connecting> ws://127.0.0.1:9222/devtools/browser/c1328a1c-3ca8-4f54-9a2e-e023940a96cb
+  - <ws connected> ws://127.0.0.1:9222/devtools/browser/c1328a1c-3ca
+S11S3 FAILED BrowserType.connect_over_cdp: Timeout 180000ms exceeded.
+Call log:
+  - <ws preparing> retrieving websocket url from http://127.0.0.1:9222
+  - <ws connecting> ws://127.0.0.1:9222/devtools/browser/c1328a1c-3ca8-4f54-9a2e-e023940a96cb
+  - <ws connected> ws://127.0.0.1:9222/devtools/browser/c1328a1c-3ca
+S11S4 FAILED BrowserType.connect_over_cdp: Timeout 180000ms exceeded.
+Call log:
+  - <ws preparing> retrieving websocket url from http://127.0.0.1:9222
+  - <ws connecting> ws://127.0.0.1:9222/devtools/browser/c1328a1c-3ca8-4f54-9a2e-e023940a96cb
+  - <ws connected> ws://127.0.0.1:9222/devtools/browser/c1328a1c-3ca
+S12S1 FAILED BrowserType.connect_over_cdp: Timeout 180000ms exceeded.
+Call log:
+  - <ws preparing> retrieving websocket url from http://127.0.0.1:9222
+  - <ws connecting> ws://127.0.0.1:9222/devtools/browser/c1328a1c-3ca8-4f54-9a2e-e023940a96cb
+  - <ws connected> ws://127.0.0.1:9222/devtools/browser/c1328a1c-3ca
+S12S2 ok 1790169 bytes 301s
+done 6/10

@@ -1,0 +1,31 @@
+S3S2b ok 4037837 bytes 2s
+S3S3 ok 10349333 bytes 63s
+S4S1 FAILED Page.evaluate: Target page, context or browser has been closed
+Traceback (most recent call last):
+  File "C:\claude_projects\nanibabukokatha\04. \u092c\u0942\u0922\u094b \u0930\u0942\u0916\u0915\u094b \u0917\u0941\u0928\video\edit\gen_toonbee.py", line 161, in <module>
+    main(sys.argv[1:])
+  File "C:\claude_projects\nanibabukokatha\04. \u092c\u0942\u0922\u094b \u0930\u0942\u0916\u0915\u094b \u0917\u0941\u0928\video\edit\gen_toonbee.py", line 156, in main
+    print(f"credits before {balance}, after {tb.status(page)['credit_balance']}", flush=True)
+                                             ^^^^^^^^^^^^^^^
+  File "C:\claude_projects\nanibabukokatha\04. \u092c\u0942\u0922\u094b \u0930\u0942\u0916\u0915\u094b \u0917\u0941\u0928\video\edit\toonbee_client.py", line 57, in status
+    return call(page, "GET", f"/projects/{PROJECT_ID}/status")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\claude_projects\nanibabukokatha\04. \u092c\u0942\u0922\u094b \u0930\u0942\u0916\u0915\u094b \u0917\u0941\u0928\video\edit\toonbee_client.py", line 36, in call
+    result = page.evaluate(CALL_JS, {"path": path, "method": method, "body": body, "image": image})
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\sync_api\_generated.py", line 9413, in evaluate
+    self._sync(
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_page.py", line 474, in evaluate
+    return await self._main_frame.evaluate(expression, arg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_frame.py", line 346, in evaluate
+    await self._channel.send(
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: Page.evaluate: Target page, context or browser has been closed

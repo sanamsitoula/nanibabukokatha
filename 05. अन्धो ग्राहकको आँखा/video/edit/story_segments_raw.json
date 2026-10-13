@@ -1,0 +1,464 @@
+[
+ {
+  "id": "S1S1",
+  "prompt": "[STYLE] Interior of Manoj's small kirana shop at midday, sacks of grain, a hanging brass scale. [कृष्ण] (pale-brown daura-suruwal, black dhaka topi, wooden cane, cloudy calm eyes) stands at the counter, his weathered hand resting gently on the scale. [मनोज] (checkered white-brown shirt, round face) stands frozen behind the counter. Camera: slow push-in on Krishna's hand on the scale, then rack focus to Manoj's shocked face. Lighting: harsh midday sun through the shop window. Atmosphere: quiet devastating tension.",
+  "narration": "",
+  "lines": [
+   [
+    "कृष्ण",
+    "मनोज बाबु... म आँखाले देख्दिनँ, तर हातले तौल छाम्न सक्छु। र म वर्षौंदेखि... तिम्रो इमान जाँचिरहेको थिएँ।"
+   ]
+  ],
+  "voice": "Krishna — calm, deliberate, devastating in its gentleness. Manoj — breathless disbelief.",
+  "sfx": "पसलको सन्नाटा, तराजुको सानो झन्कार",
+  "music": "Heavy emotional suspense sting"
+ },
+ {
+  "id": "S1S2",
+  "prompt": "[STYLE] Extreme close-up: Manoj's face drains of color, eyes wide with shock. Camera: slow push-in on his face, capturing the full weight of the moment. Lighting: harsh midday shop light. Atmosphere: collapse of years of denial.",
+  "narration": "",
+  "lines": [
+   [
+    "मनोज",
+    "क... कृष्ण दाइ... तपाईं... तपाईंलाई कसरी थाहा भयो?"
+   ]
+  ],
+  "voice": "Shaky, disbelieving, voice barely above a whisper.",
+  "sfx": "मुटुको ढुकढुक, पसलको सन्नाटा",
+  "music": "Sustained emotional tension"
+ },
+ {
+  "id": "S1S3",
+  "prompt": "[STYLE] Slow dissolve transition: the scale in extreme close-up spins backward in time visually (subtle rewind effect via blur), the shop around it aging backward slightly in tone. Camera: slow spiral zoom on the swinging scale. Lighting: shifting from harsh midday to a softer past-toned light. Atmosphere: time slipping backward.",
+  "narration": "वर्षौंको भरोसा एकैछिनमा चकनाचूर हुनेवाला थियो। तर यो कथा त्यहाँबाट सुरु भएको थिएन — यो सुरु भएको थियो पाँच वर्षअघि, एउटा सामान्य बिहानदेखि।",
+  "lines": [],
+  "voice": "Narrator — grave, then softening into reflective storytelling.",
+  "sfx": "तराजुको हल्का झन्कार, समय बित्ने जस्तो आवाज",
+  "music": "Transition into melancholic flashback strings"
+ },
+ {
+  "id": "S2S1",
+  "prompt": "[STYLE] Five years earlier. Manoj's shop looks slightly barer, fewer customers. Manoj stands alone at the counter, staring at the scale with a troubled, calculating expression. Camera: slow push-in on his conflicted face. Lighting: dim early morning light. Atmosphere: quiet moral erosion beginning.",
+  "narration": "पाँच वर्षअघि, मनोजको पसल घाटामा चलिरहेको थियो। एक दिन उनले एउटा सानो, 'हानिरहित' निर्णय गरे — जुन बिस्तारै बानी बन्दै गयो।",
+  "lines": [],
+  "voice": "Narrator — neutral but foreboding.",
+  "sfx": "तराजुको हल्का झन्कार, पसलको सन्नाटा",
+  "music": "Subtle mysterious undertone"
+ },
+ {
+  "id": "S2S2",
+  "prompt": "[STYLE] Close-up: Manoj's fingers subtly nudge the scale's balance while weighing grain, a small guilty smirk crossing his face. Camera: extreme close-up on the scale's needle shifting slightly. Lighting: dim shop interior. Atmosphere: the moment of the first small sin.",
+  "narration": "",
+  "lines": [
+   [
+    "मनोज",
+    "एक-दुई पाथी कम तौलेर के फरक पर्छ र? कसैलाई थाहै हुँदैन।"
+   ]
+  ],
+  "voice": "Whispered self-justification, quietly rationalizing.",
+  "sfx": "तराजुको सानो झन्कार, अन्न खसेको आवाज",
+  "music": "Mysterious low undertone continuing"
+ },
+ {
+  "id": "S2S3",
+  "prompt": "[STYLE] Manoj glances toward the house behind the shop where [राधा] (green-red gunyu-cholo, hair in bun) calls out cheerfully from the kitchen doorway. Camera: medium two-shot across the shop-to-house threshold. Lighting: warm domestic light contrasting the dim shop. Atmosphere: domestic normalcy masking hidden guilt.",
+  "narration": "",
+  "lines": [
+   [
+    "राधा",
+    "आज बिक्री कस्तो भयो त?"
+   ],
+   [
+    "मनोज",
+    "राम्रै भयो राधा। अलि... चलाखीले।"
+   ]
+  ],
+  "voice": "Radha — cheerful, unsuspecting. Manoj — forced casualness hiding guilt.",
+  "sfx": "भान्छाको भाँडाको आवाज, हल्का हावा",
+  "music": "Light domestic melody with a subtle dark undertone"
+ },
+ {
+  "id": "S3S1",
+  "prompt": "[STYLE] Establishing shot: [कृष्ण] walks slowly down the narrow bazaar street with his wooden cane, tapping rhythmically, villagers nodding respectfully as he passes. Camera: slow tracking shot following his dignified walk. Lighting: soft warm morning light. Atmosphere: respected presence.",
+  "narration": "कृष्ण गाउँका सबैभन्दा आदरणीय मानिसमध्ये एक थिए — दस वर्षअघि दुर्घटनामा आँखा गुमाएका, तर मन र स्वभावले सबैभन्दा उज्यालो।",
+  "lines": [],
+  "voice": "Narrator — warm, respectful, admiring.",
+  "sfx": "लौरो जमिनमा ठोक्किएको लयबद्ध आवाज, बजारको हलचल",
+  "music": "Warm gentle theme for Krishna"
+ },
+ {
+  "id": "S3S2",
+  "prompt": "[STYLE] Krishna enters the shop, a small bell jingling above the door. Manoj greets him warmly but his hand instinctively drifts toward the scale a bit too quickly. Camera: medium two-shot, subtle focus shift to Manoj's hand. Lighting: warm interior shop light. Atmosphere: friendly surface, hidden deceit.",
+  "narration": "",
+  "lines": [
+   [
+    "कृष्ण",
+    "नमस्ते मनोज बाबु! आज एक पाथी चामल र अलिकति दाल चाहियो।"
+   ],
+   [
+    "मनोज",
+    "आउनुस् कृष्ण दाइ! अहिल्यै दिन्छु।"
+   ]
+  ],
+  "voice": "Krishna — warm, familiar. Manoj — friendly but subtly tense.",
+  "sfx": "ढोकाको घण्टी, तराजुको झन्कार",
+  "music": "Warm melody with an uneasy undertone"
+ },
+ {
+  "id": "S3S3",
+  "prompt": "[STYLE] Close-up: Krishna smiles warmly, speaking with quiet conviction. Manoj's smile falters for a split second. Camera: intimate alternating close-ups. Lighting: warm shop light. Atmosphere: an uncomfortable truth brushing past unnoticed.",
+  "narration": "",
+  "lines": [
+   [
+    "कृष्ण",
+    "तिमी नै त हौ मनोज, जसको पसलमा म सबैभन्दा भरोसा राख्छु। आँखा त छैनन् मसँग, तर मान्छेको स्वर सुनेर मन चिन्न सक्छु।"
+   ]
+  ],
+  "voice": "Krishna — warm, sincere, slightly probing without malice.",
+  "sfx": "तराजुको हल्का झन्कार",
+  "music": "Uneasy tension beneath warmth"
+ },
+ {
+  "id": "S4S1",
+  "prompt": "[STYLE] Months later. Manoj weighs grain for Krishna with increasingly practiced, subtle dishonesty — his hand movements smoother, more confident in the deceit. Camera: close-up on his skilled, deceptive hand movements. Lighting: dim afternoon shop light. Atmosphere: normalized wrongdoing.",
+  "narration": "",
+  "lines": [
+   [
+    "मनोज",
+    "यसले त देख्दैन, थाहै पाउँदैन। बरु अरू ग्राहकसँग पुरा तौलौं, यसैबाट अलि बढी कमाऊँ।"
+   ]
+  ],
+  "voice": "Whispered, matter-of-fact, disturbingly casual.",
+  "sfx": "तराजुको झन्कार, अन्न खन्याएको आवाज",
+  "music": "Uneasy repeating motif"
+ },
+ {
+  "id": "S4S2",
+  "prompt": "[STYLE] [विश्वास साहु] (white hair, glasses, brown coat) watches suspiciously from his neighboring shop counter, brow furrowed. Camera: medium shot from his POV across the bazaar street into Manoj's shop. Lighting: bright bazaar daylight. Atmosphere: growing suspicion.",
+  "narration": "",
+  "lines": [
+   [
+    "विश्वास साहु",
+    "मनोज, त्यो तराजुको काँटा अलि बेठिक देखियो जस्तो लाग्यो मलाई। ख्याल गर्नू है।"
+   ]
+  ],
+  "voice": "Concerned, watchful, gently warning.",
+  "sfx": "बजारको हलचल, तराजुको झन्कार",
+  "music": "Suspicion motif rising"
+ },
+ {
+  "id": "S4S3",
+  "prompt": "[STYLE] Close-up: Manoj stammers a nervous excuse, wiping sweat from his brow. Camera: tight close-up on his flustered face. Lighting: harsh midday shop light. Atmosphere: guilt barely concealed.",
+  "narration": "",
+  "lines": [
+   [
+    "मनोज",
+    "क... केही होइन साहु! पुरानो तराजु भएर होला।"
+   ]
+  ],
+  "voice": "Nervous, rushed, unconvincing.",
+  "sfx": "पसलको हलचल, हल्का हावा",
+  "music": "Suspicion motif lingering"
+ },
+ {
+  "id": "S5S1",
+  "prompt": "[STYLE] Warm scene: Krishna sits on the shop bench sipping tea, [सुरज] (blue school shirt, curious face) runs in excitedly and climbs into his lap. Camera: warm medium shot, gentle handheld motion. Lighting: soft afternoon light through the shop doorway. Atmosphere: deepening family-like bond.",
+  "narration": "",
+  "lines": [
+   [
+    "कृष्ण",
+    "मनोज बाबु, तिम्रो सुरजलाई मैले पढाइको लागि केही सघाउन मन छ। ऊ त मेरो नातिजस्तै हो।"
+   ],
+   [
+    "सुरज",
+    "कृष्ण हजुरबुवा! आज मलाई कथा सुनाउनुहोस् न!"
+   ]
+  ],
+  "voice": "Krishna — warm, generous, grandfatherly. Suraj — excited, affectionate.",
+  "sfx": "चिया कचौराको आवाज, सुरजको हाँसो",
+  "music": "Warm tender family theme"
+ },
+ {
+  "id": "S5S2",
+  "prompt": "[STYLE] Close-up: Manoj's face — warm smile fighting against visible inner guilt as he watches Krishna and Suraj bond. Camera: slow push-in on his conflicted expression. Lighting: warm afternoon glow. Atmosphere: love and guilt intertwined.",
+  "narration": "",
+  "lines": [
+   [
+    "मनोज",
+    "धन्यवाद कृष्ण दाइ... तपाईं त साँच्चै हाम्रो परिवारकै एक हुनुहुन्छ।"
+   ]
+  ],
+  "voice": "Warm on the surface, cracking slightly with guilt underneath.",
+  "sfx": "हल्का हावा, बजारको दुरीको हलचल",
+  "music": "Bittersweet melody"
+ },
+ {
+  "id": "S5S3",
+  "prompt": "[STYLE] Wide shot: the shop bathed in golden late-afternoon light, Krishna, Suraj, and Manoj together forming a warm tableau — undercut by the shadow of the scale looming in the foreground. Camera: slow pull-back revealing the scale in sharp foreground focus against the soft warm background. Lighting: golden hour contrast. Atmosphere: dramatic irony.",
+  "narration": "यति ठूलो मायाको बदलामा मनोज कृष्णलाई ठगिरहेका थिए। तर के कृष्णलाई साँच्चै थाहा थिएन, कि उनी अरू नै कारणले चुप थिए?",
+  "lines": [],
+  "voice": "Narrator — tender, then shifting to unsettling curiosity.",
+  "sfx": "हल्का हावा, बच्चाको हाँसो टाढाबाट",
+  "music": "Warm theme dissolving into unease"
+ },
+ {
+  "id": "S6S1",
+  "prompt": "[STYLE] Dusk, outside the shops. [विश्वास साहु] pulls Manoj aside privately, speaking with grave seriousness. Camera: intimate two-shot in a quiet bazaar corner. Lighting: dim dusk light. Atmosphere: private confrontation.",
+  "narration": "",
+  "lines": [
+   [
+    "विश्वास साहु",
+    "मनोज, म धेरै पटक देखेको छु — तिमी कृष्णलाई तौलमा छल्छौ। ऊ त हेर्दैन भन्दैमा भगवान् पनि देख्दैन भन्ने ठान्छौ?"
+   ]
+  ],
+  "voice": "Serious, direct, morally weighty.",
+  "sfx": "बजारको हलचल टाढाबाट, हल्का हावा",
+  "music": "Grave warning underscore"
+ },
+ {
+  "id": "S6S2",
+  "prompt": "[STYLE] Close-up: Manoj defends himself weakly, eyes darting away. Vishwas Sahu's expression remains grave and unconvinced. Camera: tight alternating close-ups. Lighting: dim dusk light. Atmosphere: uncomfortable confrontation.",
+  "narration": "",
+  "lines": [
+   [
+    "मनोज",
+    "साहु, यो त... व्यापार हो। सबैले अलिअलि गर्छन्।"
+   ],
+   [
+    "विश्वास साहु",
+    "तर कृष्ण त सामान्य ग्राहक होइन मनोज। ऊ तिमीलाई छोराजस्तै मान्छ।"
+   ]
+  ],
+  "voice": "Manoj — defensive, weak. Vishwas — firm, pointed.",
+  "sfx": "हल्का हावा, टाढा बजारको हलचल",
+  "music": "Tense warning underscore continuing"
+ },
+ {
+  "id": "S6S3",
+  "prompt": "[STYLE] Night, Manoj lying awake in bed, staring at the ceiling, restless. Camera: slow overhead shot of him tossing in bed. Lighting: dim moonlight through a small window. Atmosphere: gnawing conscience.",
+  "narration": "मनोजले त्यो रात निदाउन सकेनन्। तर भोलिपल्ट बिहान, उनी फेरि उही तराजुतिर हात बढाए। के उनले साँच्चै रोक्ने थिए?",
+  "lines": [],
+  "voice": "Narrator — quiet, questioning, tinged with sorrow.",
+  "sfx": "रातको झ्याउँकिरी, ओछ्यान कुर्किएको आवाज",
+  "music": "Restless quiet strings"
+ },
+ {
+  "id": "S7S1",
+  "prompt": "[STYLE] Morning. Krishna enters the shop as usual, cane tapping. But today his expression carries unusual quiet resolve. Camera: medium shot following his entrance, slow push-in on his composed face. Lighting: soft morning light. Atmosphere: quiet gravity building.",
+  "narration": "त्यो बिहान, कृष्ण सधैंझैं पसलमा आए। तर आज उनले अनौठो कुरा गरे — तराजुमा राखिएको सामानमा आफ्नै हात राखे।",
+  "lines": [],
+  "voice": "Narrator — quiet, building tension.",
+  "sfx": "ढोकाको घण्टी, लौरो जमिनमा ठोक्किएको आवाज",
+  "music": "Suspense building slowly"
+ },
+ {
+  "id": "S7S2",
+  "prompt": "[STYLE] Close-up: Krishna's weathered hand rests on the scale, fingers gently tracing the needle and the weight. Manoj freezes behind the counter, eyes widening. Camera: extreme close-up on Krishna's sensitive fingers reading the scale. Lighting: harsh clear morning light. Atmosphere: the moment of truth.",
+  "narration": "",
+  "lines": [
+   [
+    "कृष्ण",
+    "मनोज बाबु, एक छिन। मलाई यो तौल आफैं छाम्न देऊ त।"
+   ],
+   [
+    "मनोज",
+    "क... किन कृष्ण दाइ? म त ठीक्कै तौलेको छु!"
+   ]
+  ],
+  "voice": "Krishna — calm, deliberate. Manoj — panicked, defensive.",
+  "sfx": "तराजुको सानो झन्कार, मुटुको ढुकढुक",
+  "music": "Suspense peaking"
+ },
+ {
+  "id": "S7S3",
+  "prompt": "[STYLE] Close-up: Krishna speaks the devastating truth calmly, his cloudy eyes somehow steady and knowing. Manoj's face crumbles in shock. Camera: intimate alternating close-ups, slow and deliberate pacing. Lighting: harsh clear morning light, unflinching. Atmosphere: the confrontation lands fully.",
+  "narration": "",
+  "lines": [
+   [
+    "कृष्ण",
+    "म आँखाले देख्दिनँ मनोज बाबु... तर हातले तौल छाम्न सक्छु। र म वर्षौंदेखि... तिम्रो इमान जाँचिरहेको थिएँ।"
+   ]
+  ],
+  "voice": "Calm, devastating, weighted with years of patience.",
+  "sfx": "पूर्ण सन्नाटा",
+  "music": "Emotional suspense sting held"
+ },
+ {
+  "id": "S8S1",
+  "prompt": "[STYLE] Krishna continues speaking, voice steady but eyes glistening. Camera: slow push-in on his composed yet pained face. Lighting: harsh morning light softening. Atmosphere: painful honesty.",
+  "narration": "",
+  "lines": [
+   [
+    "कृष्ण",
+    "पहिलो दिनदेखि नै मलाई थाहा थियो मनोज बाबु। तराजुको काँटा जति सूक्ष्म भए पनि, मेरा औंलाहरूले महसुस गर्छन्। म हरेक पटक आशा गर्थें — भोलि त सही तौल गर्ला भनेर।"
+   ]
+  ],
+  "voice": "Steady but tinged with quiet sorrow.",
+  "sfx": "पूर्ण सन्नाटा, हल्का हावा",
+  "music": "Deep emotional strings"
+ },
+ {
+  "id": "S8S2",
+  "prompt": "[STYLE] Close-up: Manoj drops to his knees on the shop floor, hands clasped, sobbing openly. Camera: low angle looking up at his devastated, weeping face. Lighting: harsh clear light. Atmosphere: total collapse of pretense.",
+  "narration": "",
+  "lines": [
+   [
+    "मनोज",
+    "कृष्ण दाइ... मलाई माफ गर्नुस्... म... मलाई थाहै भएन मैले के गरिरहेको थिएँ!"
+   ]
+  ],
+  "voice": "Broken, sobbing, genuine anguish.",
+  "sfx": "घुँडा भुइँमा ठोक्किएको आवाज, रुवाइ",
+  "music": "Emotional peak, strings swelling"
+ },
+ {
+  "id": "S8S3",
+  "prompt": "[STYLE] Close-up: Krishna's cloudy eyes well with quiet tears, his composure unbroken but visibly moved. Camera: slow intimate close-up. Lighting: soft morning light. Atmosphere: dignified grief.",
+  "narration": "",
+  "lines": [
+   [
+    "कृष्ण",
+    "मलाई तौलको पैसाको फिक्री थिएन मनोज। मलाई त... तिम्रो साँच्चैको स्वरूप देख्न मन थियो।"
+   ]
+  ],
+  "voice": "Calm, tender, tinged with heartbreak.",
+  "sfx": "हल्का हावा, तराजुको सूक्ष्म हल्लिने आवाज",
+  "music": "Sustained deep emotional strings"
+ },
+ {
+  "id": "S9S1",
+  "prompt": "[STYLE] Night, Manoj sits alone in his darkened shop before the scale, head in his hands. Camera: static wide shot of his isolated figure lit by a single dim lamp. Lighting: dim tuki lamp glow, deep shadows. Atmosphere: total solitude and guilt.",
+  "narration": "त्यो रात मनोज एक्लै पसलको तराजुसामु बसे — जुन तराजुले वर्षौंदेखि उनको बेइमानीको साक्षी दिइरहेको थियो।",
+  "lines": [],
+  "voice": "Narrator — somber, heavy.",
+  "sfx": "झ्याउँकिरीको आवाज, टुकीको हल्का जलेको आवाज",
+  "music": "Sorrowful solo instrument"
+ },
+ {
+  "id": "S9S2",
+  "prompt": "[STYLE] Close two-shot: [राधा] sits beside Manoj, placing a comforting hand on his shoulder as he breaks down and confesses. Camera: intimate close two-shot. Lighting: warm dim lamp glow against dark shop. Atmosphere: vulnerable confession.",
+  "narration": "",
+  "lines": [
+   [
+    "राधा",
+    "के भयो तपाईंलाई? खाना पनि खानुभएन।"
+   ],
+   [
+    "मनोज",
+    "राधा... मैले कृष्ण दाइलाई वर्षौंदेखि ठगेको रहेछु। र उनलाई सबै थाहा थियो... सुरुदेखि नै।"
+   ]
+  ],
+  "voice": "Radha — gentle concern. Manoj — broken, ashamed confession.",
+  "sfx": "रातको झ्याउँकिरी, हल्का सुस्केरा",
+  "music": "Tender sorrowful strings"
+ },
+ {
+  "id": "S9S3",
+  "prompt": "[STYLE] Close-up: Manoj weeping quietly, Radha's hand still on his shoulder, both facing the darkened scale in the shop. Camera: slow push-in on both their reflective, sorrowful faces. Lighting: dim lamp glow. Atmosphere: quiet resolve forming in the darkness.",
+  "narration": "",
+  "lines": [
+   [
+    "मनोज",
+    "उहाँले मलाई सुधार्ने मौका दिइरहनुभएको थियो राधा। तर मैले... मैले त्यो मौका गुमाएँ।"
+   ]
+  ],
+  "voice": "Broken, regretful, quiet determination emerging.",
+  "sfx": "हल्का सुस्केरा, टुकीको आवाज",
+  "music": "Sorrowful strings resolving toward hope"
+ },
+ {
+  "id": "S10S1",
+  "prompt": "[STYLE] Morning. Manoj walks purposefully toward Krishna's modest house, carrying a brand-new precise scale in his hands. Camera: tracking shot following his determined walk through the bazaar. Lighting: fresh golden morning light. Atmosphere: resolve and hope.",
+  "narration": "भोलिपल्ट बिहान, मनोज कृष्णको घरतिर हिँडे — हातमा नयाँ, ठीक तौल गर्ने तराजु र मनभरि पश्चात्ताप लिएर।",
+  "lines": [],
+  "voice": "Narrator — hopeful, steady.",
+  "sfx": "पाइलाको आवाज, बिहानी चराको चिरबिर",
+  "music": "Gentle hopeful strings rising"
+ },
+ {
+  "id": "S10S2",
+  "prompt": "[STYLE] Close-up: Manoj stands at Krishna's door, hands folded in humble apology as the door opens to reveal Krishna's warm, forgiving smile. Camera: intimate two-shot at the doorway. Lighting: soft golden morning light. Atmosphere: vulnerable reconciliation.",
+  "narration": "",
+  "lines": [
+   [
+    "मनोज",
+    "कृष्ण दाइ... मलाई माफी माग्न आएको हुँ। मैले तपाईंलाई मात्र होइन, आफ्नै इमानलाई पनि ठगेको रहेछु।"
+   ],
+   [
+    "कृष्ण",
+    "आऊ मनोज बाबु। म त कुरै गरिरहेको थिएँ — तिमी कहिले आउँछौ भनेर।"
+   ]
+  ],
+  "voice": "Manoj — humble, sincere. Krishna — warm, gently welcoming.",
+  "sfx": "ढोका खोलेको आवाज, हल्का चराको चिरबिर",
+  "music": "Warm emotional resolution theme"
+ },
+ {
+  "id": "S10S3",
+  "prompt": "[STYLE] Close-up: Krishna places a reassuring hand on Manoj's shoulder, speaking with quiet wisdom. Camera: warm intimate close-up. Lighting: golden morning light. Atmosphere: grace and forgiveness.",
+  "narration": "",
+  "lines": [
+   [
+    "मनोज",
+    "तपाईं... तपाईं मसँग अझै रिसाउनुभएको छैन?"
+   ],
+   [
+    "कृष्ण",
+    "मान्छे गल्ती गर्छ — तर गल्ती स्वीकार्ने साहस सबैसँग हुँदैन।"
+   ]
+  ],
+  "voice": "Manoj — humbled disbelief. Krishna — wise, warm, forgiving.",
+  "sfx": "हल्का हावा, चराको चिरबिर",
+  "music": "Warm resolving strings"
+ },
+ {
+  "id": "S11S1",
+  "prompt": "[STYLE] Months later. Manoj's shop is bustling, customers of all kinds being served with visibly careful, precise weighing. Camera: warm wide shot of the lively shop. Lighting: bright cheerful daylight. Atmosphere: renewed trust and prosperity.",
+  "narration": "",
+  "lines": [
+   [
+    "मनोज",
+    "लिनुस् दिदी, पूरा एक पाथी। हाम्रो पसलमा तौलमा कहिल्यै कमी हुँदैन।"
+   ]
+  ],
+  "voice": "Confident, proud, sincere.",
+  "sfx": "बजारको जीवन्त हलचल, तराजुको झन्कार",
+  "music": "Uplifting warm folk theme"
+ },
+ {
+  "id": "S11S2",
+  "prompt": "[STYLE] Close-up: Krishna sits contentedly on the shop bench, tea in hand, [सुरज] proudly standing beside his father. Camera: warm medium two-shot. Lighting: bright cheerful daylight. Atmosphere: familial pride and joy.",
+  "narration": "",
+  "lines": [
+   [
+    "कृष्ण",
+    "अब त मनोजको तराजु गाउँकै सबैभन्दा भरोसायोग्य तराजु भइसक्यो!"
+   ],
+   [
+    "सुरज",
+    "बुवा, तपाईं त अब गाउँकै सबैभन्दा असल पसले हुनुहुन्छ!"
+   ]
+  ],
+  "voice": "Krishna — warm, proud. Suraj — beaming, admiring.",
+  "sfx": "चिया कचौराको आवाज, हाँसो",
+  "music": "Warm joyful theme"
+ },
+ {
+  "id": "S12S1",
+  "prompt": "[STYLE] Slow wide shot of the thriving bazaar shop at golden sunset, Krishna, Manoj, Radha, and Suraj gathered together on the bench, warm laughter filling the scene. Camera: slow crane pull-up revealing the whole warm scene from above. Lighting: rich golden-orange sunset. Atmosphere: reflective, warm closure.",
+  "narration": "साथीहरू... मनोजले सोचेका थिए, अन्धो मान्छेले कहिल्यै थाहा पाउँदैन। तर सत्य त्यो होइन — कृष्णले आँखाले होइन, मनले देखे। र वर्षौंसम्म उनले मनोजलाई सुध्रिने मौका दिइरहे।",
+  "lines": [],
+  "voice": "Narrator — warm, wise, slow and deliberate.",
+  "sfx": "हल्का बतास, टाढा घण्टीको आवाज",
+  "music": "Gentle reflective closing theme"
+ },
+ {
+  "id": "S12S2",
+  "prompt": "[STYLE] Final composed frame: the scale sitting perfectly balanced on the counter, soft focus behind bold Devanagari moral text appearing on screen. Camera: static final hold. Lighting: warm golden-hour glow settling into dusk. Atmosphere: peaceful finality.",
+  "narration": "",
+  "lines": [],
+  "voice": "Narrator — deep, warm, final, resonant pause after each sentence.",
+  "sfx": "हल्का सुसेली, तराजुको सूक्ष्म झन्कार",
+  "music": "Full warm closing orchestral theme, fading gently"
+ }
+]

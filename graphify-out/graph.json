@@ -1,0 +1,317 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {
+    "hyperedges": [
+      {
+        "id": "hyper_five_categories",
+        "label": "Five story categories (50 ideas)",
+        "nodes": [
+          "category_village_life",
+          "category_childrens_moral",
+          "category_animal",
+          "category_family_emotional",
+          "category_magical_moral"
+        ],
+        "confidence": "EXTRACTED",
+        "source_file": "nepali_story_ideas.md",
+        "note": "The complete category breakdown of all 50 catalog story ideas"
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "type": "document",
+      "label": "project_description.md",
+      "summary": "Nepali-language animated moral-story content production project; not application code",
+      "source_file": "project_description.md",
+      "confidence": "EXTRACTED",
+      "file_type": "concept",
+      "id": "doc_project_description",
+      "community": 2,
+      "norm_label": "project_description.md"
+    },
+    {
+      "type": "document",
+      "label": "nepali_story_ideas.md",
+      "summary": "Catalog of 50 original Nepali moral story ideas across 5 categories, each with title/summary/moral, explicitly copyright-free and 2D-animation-friendly",
+      "source_file": "nepali_story_ideas.md",
+      "confidence": "EXTRACTED",
+      "file_type": "concept",
+      "id": "doc_story_catalog",
+      "community": 0,
+      "norm_label": "nepali_story_ideas.md"
+    },
+    {
+      "type": "concept",
+      "label": "\u0926\u0942\u0927\u092e\u093e \u092a\u093e\u0928\u0940, \u092e\u0928\u092e\u093e \u0922\u0941\u0919\u094d\u0917\u093e (Water in the Milk)",
+      "summary": "Story #1 (flagship, fully developed): a milkman who waters down milk for profit unknowingly harms his own sick son, who is fed that same milk at school",
+      "source_file": "nepali_story_ideas.md",
+      "confidence": "EXTRACTED",
+      "file_type": "concept",
+      "id": "story_milk_water",
+      "community": 2,
+      "norm_label": "\u0926\u0942\u0927\u092e\u093e \u092a\u093e\u0928\u0940, \u092e\u0928\u092e\u093e \u0922\u0941\u0919\u0917\u093e (water in the milk)"
+    },
+    {
+      "type": "document",
+      "label": "prompt2-dudhma_pani_full_script.md",
+      "summary": "45-segment (~10s each), scene-by-scene AI video production script for the flagship story: video prompts, dialogue, voice direction, sound effects, music cues",
+      "source_file": "1.1 \u0926\u0942\u0927\u092e\u093e \u092a\u093e\u0928\u0940, \u092e\u0928\u092e\u093e \u0922\u0941\u0919\u094d\u0917\u093e/prompt2-dudhma_pani_full_script.md",
+      "confidence": "EXTRACTED",
+      "file_type": "concept",
+      "id": "doc_full_script",
+      "community": 1,
+      "norm_label": "prompt2-dudhma_pani_full_script.md"
+    },
+    {
+      "type": "document",
+      "label": "prompt3-character.md",
+      "summary": "Master character reference sheet enforcing strict visual/voice consistency across all 45 segments for each named character",
+      "source_file": "1.1 \u0926\u0942\u0927\u092e\u093e \u092a\u093e\u0928\u0940, \u092e\u0928\u092e\u093e \u0922\u0941\u0919\u094d\u0917\u093e/prompt3-character.md",
+      "confidence": "EXTRACTED",
+      "file_type": "concept",
+      "id": "doc_character_sheet",
+      "community": 1,
+      "norm_label": "prompt3-character.md"
+    },
+    {
+      "type": "document",
+      "label": "prompt4.md",
+      "summary": "Additional prompt iteration for the flagship story",
+      "source_file": "1.1 \u0926\u0942\u0927\u092e\u093e \u092a\u093e\u0928\u0940, \u092e\u0928\u092e\u093e \u0922\u0941\u0919\u094d\u0917\u093e/prompt4.md",
+      "confidence": "EXTRACTED",
+      "file_type": "concept",
+      "id": "doc_prompt4",
+      "community": 3,
+      "norm_label": "prompt4.md"
+    },
+    {
+      "type": "document",
+      "label": "prompt4 copy.md",
+      "summary": "Near-duplicate variant of prompt4.md",
+      "source_file": "1.1 \u0926\u0942\u0927\u092e\u093e \u092a\u093e\u0928\u0940, \u092e\u0928\u092e\u093e \u0922\u0941\u0919\u094d\u0917\u093e/prompt4 copy.md",
+      "confidence": "AMBIGUOUS",
+      "file_type": "concept",
+      "id": "doc_prompt4_copy",
+      "community": 3,
+      "norm_label": "prompt4 copy.md"
+    },
+    {
+      "type": "concept",
+      "label": "Root .docx drafts (prompt1-4)",
+      "summary": "Earlier Word-format drafts of the same prompt-development process, auto-converted to markdown by graphify's office-conversion pass",
+      "source_file": "prompt1.docx",
+      "confidence": "EXTRACTED",
+      "file_type": "concept",
+      "id": "docx_drafts",
+      "community": 1,
+      "norm_label": "root .docx drafts (prompt1-4)"
+    },
+    {
+      "type": "concept",
+      "label": "Category: \u0917\u093e\u0909\u0901\u0932\u0947 \u091c\u0940\u0935\u0928 (Village Life) - 20 stories",
+      "summary": "Largest category (#1-20 in the catalog), including the flagship milk/water story",
+      "source_file": "nepali_story_ideas.md",
+      "confidence": "EXTRACTED",
+      "file_type": "concept",
+      "id": "category_village_life",
+      "community": 2,
+      "norm_label": "category: \u0917\u093e\u0909\u0901\u0932\u0947 \u091c\u0940\u0935\u0928 (village life) - 20 stories"
+    },
+    {
+      "type": "concept",
+      "label": "Category: \u092c\u093e\u0932\u092c\u093e\u0932\u093f\u0915\u093e \u0928\u0948\u0924\u093f\u0915 \u0915\u0925\u093e (Children's Moral) - 13 stories",
+      "source_file": "nepali_story_ideas.md",
+      "confidence": "EXTRACTED",
+      "file_type": "concept",
+      "id": "category_childrens_moral",
+      "community": 0,
+      "norm_label": "category: \u092c\u093e\u0932\u092c\u093e\u0932\u093f\u0915\u093e \u0928\u0948\u0924\u093f\u0915 \u0915\u0925\u093e (children's moral) - 13 stories"
+    },
+    {
+      "type": "concept",
+      "label": "Category: \u091c\u0928\u093e\u0935\u0930 \u0915\u0925\u093e (Animal Stories) - 10 stories",
+      "source_file": "nepali_story_ideas.md",
+      "confidence": "EXTRACTED",
+      "file_type": "concept",
+      "id": "category_animal",
+      "community": 0,
+      "norm_label": "category: \u091c\u0928\u093e\u0935\u0930 \u0915\u0925\u093e (animal stories) - 10 stories"
+    },
+    {
+      "type": "concept",
+      "label": "Category: \u092a\u093e\u0930\u093f\u0935\u093e\u0930\u093f\u0915 \u092d\u093e\u0935\u0928\u093e\u0924\u094d\u092e\u0915 \u0915\u0925\u093e (Family/Emotional) - 5 stories",
+      "source_file": "nepali_story_ideas.md",
+      "confidence": "EXTRACTED",
+      "file_type": "concept",
+      "id": "category_family_emotional",
+      "community": 0,
+      "norm_label": "category: \u092a\u093e\u0930\u093f\u0935\u093e\u0930\u093f\u0915 \u092d\u093e\u0935\u0928\u093e\u0924\u092e\u0915 \u0915\u0925\u093e (family/emotional) - 5 stories"
+    },
+    {
+      "type": "concept",
+      "label": "Category: \u091c\u093e\u0926\u0941\u0908 \u0928\u0948\u0924\u093f\u0915 \u0915\u0925\u093e (Magical Moral) - 2 stories",
+      "source_file": "nepali_story_ideas.md",
+      "confidence": "EXTRACTED",
+      "file_type": "concept",
+      "id": "category_magical_moral",
+      "community": 0,
+      "norm_label": "category: \u091c\u093e\u0926\u0941\u0908 \u0928\u0948\u0924\u093f\u0915 \u0915\u0925\u093e (magical moral) - 2 stories"
+    },
+    {
+      "type": "image",
+      "label": "Character reference art (character/ folder)",
+      "summary": "13 PNG/JPEG character portraits (Gopal the milkman, his son, the cow, doctor, teacher, moneylender, village elder, etc.) for visual consistency across video segments",
+      "source_file": "1.1 \u0926\u0942\u0927\u092e\u093e \u092a\u093e\u0928\u0940, \u092e\u0928\u092e\u093e \u0922\u0941\u0919\u094d\u0917\u093e/character/gopal.png",
+      "confidence": "EXTRACTED",
+      "file_type": "concept",
+      "id": "img_character_refs",
+      "community": 1,
+      "norm_label": "character reference art (character/ folder)"
+    },
+    {
+      "type": "concept",
+      "label": "Test video clips (introduce.mp4, Last_Scene.mp4)",
+      "summary": "Two MP4 test/preview clips generated from the production script - not transcribed (no Whisper/ffmpeg available in this run); treated as production artifacts via the script and character docs as text proxies",
+      "source_file": "1.1 \u0926\u0942\u0927\u092e\u093e \u092a\u093e\u0928\u0940, \u092e\u0928\u092e\u093e \u0922\u0941\u0919\u094d\u0917\u093e/character/introduce.mp4",
+      "confidence": "AMBIGUOUS",
+      "file_type": "concept",
+      "id": "video_test_clips",
+      "community": 1,
+      "norm_label": "test video clips (introduce.mp4, last_scene.mp4)"
+    }
+  ],
+  "links": [
+    {
+      "confidence": "EXTRACTED",
+      "source_file": "project_description.md",
+      "relation": "describes",
+      "source": "doc_project_description",
+      "target": "story_milk_water",
+      "confidence_score": 1.0
+    },
+    {
+      "confidence": "EXTRACTED",
+      "source_file": "nepali_story_ideas.md",
+      "relation": "categorizes",
+      "source": "doc_story_catalog",
+      "target": "category_animal",
+      "confidence_score": 1.0
+    },
+    {
+      "confidence": "EXTRACTED",
+      "source_file": "nepali_story_ideas.md",
+      "relation": "categorizes",
+      "source": "doc_story_catalog",
+      "target": "category_childrens_moral",
+      "confidence_score": 1.0
+    },
+    {
+      "confidence": "EXTRACTED",
+      "source_file": "nepali_story_ideas.md",
+      "relation": "categorizes",
+      "source": "doc_story_catalog",
+      "target": "category_family_emotional",
+      "confidence_score": 1.0
+    },
+    {
+      "confidence": "EXTRACTED",
+      "source_file": "nepali_story_ideas.md",
+      "relation": "categorizes",
+      "source": "doc_story_catalog",
+      "target": "category_magical_moral",
+      "confidence_score": 1.0
+    },
+    {
+      "confidence": "EXTRACTED",
+      "source_file": "nepali_story_ideas.md",
+      "relation": "categorizes",
+      "source": "doc_story_catalog",
+      "target": "category_village_life",
+      "confidence_score": 1.0
+    },
+    {
+      "confidence": "EXTRACTED",
+      "source_file": "nepali_story_ideas.md",
+      "source_location": "story #1",
+      "relation": "contains",
+      "source": "doc_story_catalog",
+      "target": "story_milk_water",
+      "confidence_score": 1.0
+    },
+    {
+      "confidence": "EXTRACTED",
+      "source_file": "nepali_story_ideas.md",
+      "relation": "part_of",
+      "source": "story_milk_water",
+      "target": "category_village_life",
+      "confidence_score": 1.0
+    },
+    {
+      "confidence": "EXTRACTED",
+      "source_file": "1.1 \u0926\u0942\u0927\u092e\u093e \u092a\u093e\u0928\u0940, \u092e\u0928\u092e\u093e \u0922\u0941\u0919\u094d\u0917\u093e/prompt2-dudhma_pani_full_script.md",
+      "relation": "developed_into",
+      "source": "story_milk_water",
+      "target": "doc_full_script",
+      "confidence_score": 1.0
+    },
+    {
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "1.1 \u0926\u0942\u0927\u092e\u093e \u092a\u093e\u0928\u0940, \u092e\u0928\u092e\u093e \u0922\u0941\u0919\u094d\u0917\u093e/prompt2-dudhma_pani_full_script.md",
+      "relation": "requires",
+      "source": "doc_full_script",
+      "target": "doc_character_sheet"
+    },
+    {
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "1.1 \u0926\u0942\u0927\u092e\u093e \u092a\u093e\u0928\u0940, \u092e\u0928\u092e\u093e \u0922\u0941\u0919\u094d\u0917\u093e/character/introduce.mp4",
+      "relation": "produced",
+      "source": "doc_full_script",
+      "target": "video_test_clips"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.8,
+      "source_file": "prompt1.docx",
+      "relation": "earlier_draft_of",
+      "source": "docx_drafts",
+      "target": "doc_full_script"
+    },
+    {
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "1.1 \u0926\u0942\u0927\u092e\u093e \u092a\u093e\u0928\u0940, \u092e\u0928\u092e\u093e \u0922\u0941\u0919\u094d\u0917\u093e/character/gopal.png",
+      "relation": "implements",
+      "source": "doc_character_sheet",
+      "target": "img_character_refs"
+    },
+    {
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.7,
+      "source_file": "1.1 \u0926\u0942\u0927\u092e\u093e \u092a\u093e\u0928\u0940, \u092e\u0928\u092e\u093e \u0922\u0941\u0919\u094d\u0917\u093e/prompt4 copy.md",
+      "note": "filename suggests near-duplicate; not diffed line-by-line",
+      "relation": "semantically_similar_to",
+      "source": "doc_prompt4_copy",
+      "target": "doc_prompt4"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_five_categories",
+      "label": "Five story categories (50 ideas)",
+      "nodes": [
+        "category_village_life",
+        "category_childrens_moral",
+        "category_animal",
+        "category_family_emotional",
+        "category_magical_moral"
+      ],
+      "confidence": "EXTRACTED",
+      "source_file": "nepali_story_ideas.md",
+      "note": "The complete category breakdown of all 50 catalog story ideas"
+    }
+  ]
+}

@@ -8,3 +8,22 @@
 1.1 dudh ma pani/video/edit/stage2_music.mp4
 1.1 dudh ma pani/video/edit/final_before_bookends.mp4
 1.1 dudh ma pani/video/edit/final.mp4
+
+# Episode 02 renders: large, rebuild with video/edit/build_episode.py
+02. चौतारीमुनि गाडिएको चिठ्ठी/final/*.mp4
+02. चौतारीमुनि गाडिएको चिठ्ठी/video/edit/work/
+02. चौतारीमुनि गाडिएको चिठ्ठी/video/edit/work_build.log
+
+# Episode 03 renders: large, rebuild with video/edit/build_episode.py
+03. एक कप चियाको ऋण/final/*.mp4
+03. एक कप चियाको ऋण/video/edit/work/
+
+# Episode 04 ToonBee draft renders: large, rebuild with the scripts in video/edit/
+04. बूढो रूखको गुन/final_toonbee/*.mp4
+04. बूढो रूखको गुन/video/edit/work_toonbee_draft/
+
+# Automation browser profile: holds logged-in session cookies, never commit
+.browser_profile/
+
+# Python bytecode
+__pycache__/

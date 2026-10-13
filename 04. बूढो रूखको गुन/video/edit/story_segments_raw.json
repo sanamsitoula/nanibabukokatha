@@ -1,0 +1,485 @@
+[
+ {
+  "id": "S1S1",
+  "prompt": "[STYLE] Night exterior, torrential monsoon rain lashing the hillside village of \"काफलडाँडा\". Lightning flashes reveal a massive wall of mud and rock roaring down the bare ridge toward a cluster of houses below. Camera: dramatic wide shot from below looking up at the thundering landslide. Lighting: stark lightning flashes against pitch-black night. Weather: violent monsoon storm. Atmosphere: terror, imminent catastrophe.",
+  "narration": "रातको साढे बाह्र बजे, आकाश फाट्लाजस्तो गरी पानी पर्दै थियो। र एक्कासि... डाँडाको माथिल्लो भागबाट एउटा भयानक गर्जन सुनियो।",
+  "lines": [],
+  "voice": "Deep male narrator, urgent, rising dread.",
+  "sfx": "मुसलधारे झरी, गड्याङगुडुङ, पहिरोको टाढाको गर्जन",
+  "music": "Explosive suspense orchestral hit"
+ },
+ {
+  "id": "S1S2",
+  "prompt": "[STYLE] Interior of [अर्जुन]'s small stone house, pitch dark except lightning flashes. [सुनिता] (red-green gunyu-cholo, hair in bun) bolts upright screaming, shaking [अर्जुन] (brown shirt, black trousers, thick moustache) awake. Camera: frantic handheld-style close shot. Lighting: strobing lightning through the window. Atmosphere: sheer panic.",
+  "narration": "",
+  "lines": [
+   [
+    "सुनिता",
+    "अर्जुन! उठ्नुस्! पहिरो आउँदैछ! छोराछोरी...!"
+   ],
+   [
+    "अर्जुन",
+    "रवि! दिपा! छिटो बाहिर निस्कऊ!"
+   ]
+  ],
+  "voice": "Sunita — terrified scream. Arjun — commanding, urgent.",
+  "sfx": "झरीको आवाज छानामा, चिच्याहट, ढोका खोलेको आवाज",
+  "music": "Frantic strings, rising tempo"
+ },
+ {
+  "id": "S1S3",
+  "prompt": "[STYLE] [रवि] (brown school shirt, short pants, barefoot) and [दिपा] (yellow frock, two small braids) huddle in the doorway, eyes wide with fear, rain soaking them instantly. Camera: low child's-eye-level shot looking up at the terrifying sky. Lighting: lightning strobes. Weather: heavy driving rain. Atmosphere: childhood terror.",
+  "narration": "",
+  "lines": [
+   [
+    "रवि",
+    "बुवा! गोठतिरको माटो चिरिन थालेको छ!"
+   ]
+  ],
+  "voice": "Ravi — young, frightened, urgent.",
+  "sfx": "झरीको आवाज, माटो चिरिएको आवाज",
+  "music": "Suspense continuing to build"
+ },
+ {
+  "id": "S1S4",
+  "prompt": "[STYLE] Aerial wide shot: the massive mudslide bearing down on the ridge, and directly in its path — a single ancient towering tree standing above Arjun's house and cowshed. Camera: slow dramatic pull-back revealing the tree's position as the last barrier. Lighting: lightning flash illuminating the whole scene. Atmosphere: fate hanging in the balance.",
+  "narration": "पहिरो सिधै अर्जुनको घर-गोठतिर बढ्दै थियो। तर ठ्याक्कै घरमाथि उभिएको त्यो एउटा बूढो रूखले... के गर्न सक्थ्यो?",
+  "lines": [],
+  "voice": "Narrator — tense, questioning, urgent pause before the question.",
+  "sfx": "पहिरोको गर्जन, हावाको सुसाइँ",
+  "music": "Suspense sting, hard cut to black"
+ },
+ {
+  "id": "S2S1",
+  "prompt": "[STYLE] Flashback title fades in: two years earlier. Wide daylight shot of the same ridge — but now almost entirely bare, rows of tree stumps scattered across the slope, only one massive green tree standing at the very top. Camera: slow panning shot across the deforested slope, settling on the lone tree. Lighting: harsh midday sun exposing the bare earth. Atmosphere: quiet environmental loss.",
+  "narration": "यो कथा सुरु हुन्छ त्यो रातभन्दा दुई वर्षअघि। जब काफलडाँडाको जंगल दिनप्रतिदिन नाङ्गो हुँदै थियो।",
+  "lines": [],
+  "voice": "Narrator — reflective, settling into the past.",
+  "sfx": "टाढा कुल्हाडोको आवाज, हावाको सुसाइँ",
+  "music": "Melancholic soft strings"
+ },
+ {
+  "id": "S2S2",
+  "prompt": "[STYLE] [माइला दाजु] (patched brown tunic, cap, thin beard) walks beside [अर्जुन] (brown shirt, black trousers, doko basket on back, axe at waist), both carrying axes toward the lone tree. Camera: medium tracking shot following them up the bare slope. Lighting: bright midday sun. Atmosphere: casual but foreboding.",
+  "narration": "",
+  "lines": [
+   [
+    "माइला दाजु",
+    "अर्जुन दाइ, आज त डाँडाको त्यो पुरानो रूख मात्र बाँकी छ! त्यो पनि ढालिदिऊँ, ठूलो दाउरा निस्कन्छ!"
+   ],
+   [
+    "अर्जुन",
+    "त्यो रूखलाई नछोऊ माइला। त्यो त... मेरा बाजेले रोपेको रूख हो।"
+   ]
+  ],
+  "voice": "Maila — casual, joking. Arjun — suddenly serious, protective.",
+  "sfx": "पाइलाको आवाज, हावाको सुसाइँ",
+  "music": "Light melody with a subtle serious undertone"
+ },
+ {
+  "id": "S2S3",
+  "prompt": "[STYLE] Close-up on Arjun's thoughtful, distant eyes as he looks up at the towering ancient tree, its leaves rustling against the sky. Camera: slow push-in from Arjun's face tilting up to the canopy. Lighting: dappled sunlight through leaves. Atmosphere: quiet reverence.",
+  "narration": "त्यो बूढो रूखमा के यस्तो विशेष कुरा थियो, जसले अर्जुनलाई त्यसलाई काट्नबाट रोक्दै थियो?",
+  "lines": [],
+  "voice": "Narrator — curious, gentle, inviting the flashback.",
+  "sfx": "पातहरू हल्लिएको आवाज, चराको चिरबिर",
+  "music": "Soft nostalgic strings beginning"
+ },
+ {
+  "id": "S3S1",
+  "prompt": "[STYLE] Warm golden flashback: [हजुरबा गोविन्द] (white beard, white topi, old kurta) sits beneath the same tree, much younger and smaller, with a small child version of Arjun beside him. Camera: nostalgic slow pan across the peaceful scene. Lighting: warm golden afternoon sunlight filtering through leaves. Atmosphere: pure tenderness.",
+  "narration": "",
+  "lines": [
+   [
+    "हजुरबा गोविन्द",
+    "अर्जुन बाबु, यो रूख मैले तिम्रो जन्म भएकै दिन रोपेको हुँ। यसका जरा जति गहिरा जान्छन्, यो रूख उत्तिकै बलियो हुन्छ। रूखले जमिन समात्छ बाबु, र जमिनले हामीलाई।"
+   ]
+  ],
+  "voice": "Baje — calm, wise, warm grandfatherly tone.",
+  "sfx": "पातहरू हल्लिएको आवाज, चराको चिरबिर, बाल्यकालको हाँसो",
+  "music": "Warm nostalgic flute melody"
+ },
+ {
+  "id": "S3S2",
+  "prompt": "[STYLE] Close two-shot: young Arjun asks an innocent question, Baje smiles warmly in response. Camera: gentle alternating close-ups. Lighting: warm golden light. Atmosphere: tender wisdom passed down.",
+  "narration": "",
+  "lines": [
+   [
+    "सानो अर्जुन",
+    "बाजे, म पनि यस्तै ठूलो र बलियो हुन्छु त?"
+   ],
+   [
+    "हजुरबा गोविन्द",
+    "हुन्छौ बाबु, यदि तिमीले पनि आफ्नो जरा गाडेर राख्यौ भने।"
+   ]
+  ],
+  "voice": "Young Arjun — innocent curiosity. Baje — warm, gently profound.",
+  "sfx": "हल्का हावा, पातहरूको सरसराहट",
+  "music": "Tender nostalgic melody continuing"
+ },
+ {
+  "id": "S3S3",
+  "prompt": "[STYLE] Present day, adult Arjun standing alone beneath the same tree, hand resting on its bark, eyes closed in remembrance. Camera: slow push-in on his hand touching the bark. Lighting: overcast present-day light. Atmosphere: quiet resolve born of memory.",
+  "narration": "बाजे स्वर्गीय भइसकेका थिए, तर उनको त्यो कुरा अर्जुनको मुटुमा जरा गाडेर बसेको थियो। तर के यो भावुक सम्झनाले मात्र सिंगो गाउँलाई जोगाउन सक्थ्यो?",
+  "lines": [],
+  "voice": "Narrator — warm then turning serious on the final question.",
+  "sfx": "हावाको सुसाइँ, पातहरूको आवाज",
+  "music": "Emotional strings shifting to tension"
+ },
+ {
+  "id": "S4S1",
+  "prompt": "[STYLE] Village open square. [मुखिया धनबहादुर] (heavyset, thick moustache, brown coat, black topi, cane) stands firmly addressing [अर्जुन]. Villagers gather nearby, visibly divided. Camera: static wide two-shot, slow push-in. Lighting: overcast daylight. Atmosphere: mounting confrontation.",
+  "narration": "",
+  "lines": [
+   [
+    "मुखिया धनबहादुर",
+    "अर्जुन, त्यो रूख बाटोको बीचैमा छ। सडक बनाउन त्यो काट्नैपर्छ। विकासको काम रोक्न मिल्दैन!"
+   ],
+   [
+    "अर्जुन",
+    "मुखिया साप, बाटो त अलिकति घुमाएर पनि बनाउन सकिन्छ नि!"
+   ]
+  ],
+  "voice": "Mukhiya — authoritative, impatient. Arjun — calm but firm.",
+  "sfx": "गाउँलेहरूको गनगन, हावाको आवाज",
+  "music": "Tense rising underscore"
+ },
+ {
+  "id": "S4S2",
+  "prompt": "[STYLE] Close-up: Mukhiya's angry face, pointing his cane at Arjun. Villagers behind him murmur, split between the two men. Camera: low dramatic angle emphasizing Mukhiya's authority. Lighting: overcast, flat daylight. Atmosphere: village divided.",
+  "narration": "",
+  "lines": [
+   [
+    "मुखिया धनबहादुर",
+    "तँलाई त हरेक कुरामा अगाडि आउने बानी परेको छ! गाउँको भलाइभन्दा एउटा रूख ठूलो भयो त?"
+   ]
+  ],
+  "voice": "Furious, condescending, loud.",
+  "sfx": "लौरो जमिनमा ठोक्किएको आवाज, भीडको गनगन",
+  "music": "Tense drums intensifying"
+ },
+ {
+  "id": "S4S3",
+  "prompt": "[STYLE] Wide shot: the crowd disperses slowly, whispering, glancing back at Arjun who stands alone near the village square, resolute but isolated. Camera: slow pull-back isolating Arjun in the frame. Lighting: dimming overcast afternoon. Atmosphere: quiet isolation and resolve.",
+  "narration": "मुखियाले अन्तिम आदेश दिए — तीन दिनभित्र रूख काट्नैपर्छ। अर्जुनले के गर्लान्?",
+  "lines": [],
+  "voice": "Narrator — tense, questioning.",
+  "sfx": "पाइलाको आवाज टाढिँदै, हावाको सुसाइँ",
+  "music": "Suspense motif fading into solitude"
+ },
+ {
+  "id": "S5S1",
+  "prompt": "[STYLE] Village path, [माइला दाजु] walks beside Arjun trying to persuade him to give in. Camera: side tracking shot following their walk. Lighting: fading afternoon light. Atmosphere: friendly pressure.",
+  "narration": "",
+  "lines": [
+   [
+    "माइला दाजु",
+    "अर्जुन दाइ, एक्लै लडेर के हुन्छ? सबैले भन्छन् काट्नुपर्छ भनेर। तिमी पनि मानिहाल।"
+   ],
+   [
+    "अर्जुन",
+    "माइला, म एक्लो भए पनि सही कुराको साथ दिन्छु।"
+   ]
+  ],
+  "voice": "Maila — persuasive, slightly worried for his friend. Arjun — calm, unwavering.",
+  "sfx": "पाइलाको आवाज, हावाको आवाज",
+  "music": "Quiet contemplative underscore"
+ },
+ {
+  "id": "S5S2",
+  "prompt": "[STYLE] Interior of Arjun's house, dim evening light. [सुनिता] stands by the window looking worriedly out toward the ridge. Camera: static medium shot, slow push-in on her worried profile. Lighting: warm dim interior lamp, cool blue dusk outside. Atmosphere: quiet domestic worry.",
+  "narration": "",
+  "lines": [
+   [
+    "सुनिता",
+    "अर्जुन, गाउँभरि तपाईंकै विरुद्धमा भइरहेको छ। हामीलाई एक्लै छोडेर हिँड्न त सक्दैनन् नि तिनीहरू?"
+   ]
+  ],
+  "voice": "Worried, protective, quietly afraid.",
+  "sfx": "झ्यालबाट हावाको आवाज, घरभित्रको सन्नाटा",
+  "music": "Sad quiet strings"
+ },
+ {
+  "id": "S5S3",
+  "prompt": "[STYLE] Exterior wide shot: heavy black monsoon clouds rolling in over the bare ridge and the lone tree, first distant lightning flickering. Camera: slow time-lapse-style cloud movement shot. Lighting: darkening sky, dramatic storm light. Weather: gathering monsoon storm. Atmosphere: ominous foreboding.",
+  "narration": "त्यही रात आकाशमा कालो बादल जम्न थाल्यो। मनसुनको पहिलो ठूलो वर्षा नजिकिँदै थियो — र त्यससँगै आउँदै थियो नियति।",
+  "lines": [],
+  "voice": "Narrator — ominous, slow, foreboding.",
+  "sfx": "हावाको सुसाइँ बढ्दै, टाढा गड्याङगुडुङ",
+  "music": "Rising ominous orchestral tension"
+ },
+ {
+  "id": "S6S1",
+  "prompt": "[STYLE] Daytime, close-up on cracked, eroding soil on the bare ridge slope, small rivulets of loose earth already sliding. [रवि] and [अर्जुन] crouch examining the cracks. Camera: low close-up on the cracked earth, tilting up to their concerned faces. Lighting: overcast grey daylight. Atmosphere: quiet warning ignored.",
+  "narration": "",
+  "lines": [
+   [
+    "रवि",
+    "बुवा, त्यो डाँडाको माटो किन यसरी चर्किएको छ?"
+   ],
+   [
+    "अर्जुन",
+    "जरा नभएको जमिन कमजोर हुन्छ बाबु। रूख नभए माटोले पानी थाम्न सक्दैन।"
+   ]
+  ],
+  "voice": "Ravi — innocent curiosity. Arjun — grave, teaching tone.",
+  "sfx": "हावाको सुसाइँ, माटो चर्किएको सूक्ष्म आवाज",
+  "music": "Quiet ominous undertone"
+ },
+ {
+  "id": "S6S2",
+  "prompt": "[STYLE] Wide shot: a villager dismisses Arjun's warning, continuing his farm work unconcerned, dark clouds gathering ominously behind him. Camera: medium shot with the storm clouds looming large in the background. Lighting: darkening stormy sky. Atmosphere: complacency before disaster.",
+  "narration": "",
+  "lines": [
+   [
+    "गाउँले १",
+    "अर्जुन त सधैं डर देखाउँछ! केही हुँदैन, हामी वर्षौंदेखि यसै गर्दै आएका हौं।"
+   ]
+  ],
+  "voice": "Dismissive, overconfident.",
+  "sfx": "हावाको सुसाइँ बढ्दै, टाढा गड्याङगुडुङ",
+  "music": "Tension building steadily"
+ },
+ {
+  "id": "S6S3",
+  "prompt": "[STYLE] Dusk, Mukhiya's workers gather at the base of the ancient tree, axes raised, ready to cut. Storm clouds now fully cover the sky, first raindrops beginning to fall. Camera: dramatic low angle looking up at the axes against the darkening sky. Lighting: stormy dusk, first raindrops catching dim light. Weather: storm beginning. Atmosphere: the point of no return approaching.",
+  "narration": "त्यही साँझ मुखियाका मजदुरहरू बूढो रूखमुनि कुल्हाडो लिएर उभिए। तर आकाशले फेरि गर्जन गर्न थाल्यो — के प्रकृति आफैं यो निर्णयमा हस्तक्षेप गर्दै थियो?",
+  "lines": [],
+  "voice": "Narrator — tense, portentous, question hanging.",
+  "sfx": "पहिलो वर्षाको थोपा, गड्याङगुडुङ",
+  "music": "Suspense peak"
+ },
+ {
+  "id": "S7S1",
+  "prompt": "[STYLE] [अर्जुन] runs breathlessly up the slope as workers raise their axes at the tree's base. He throws his arms around the trunk, shielding it with his own body. Camera: dramatic wide shot capturing his desperate sprint and embrace. Lighting: darkening storm sky, first heavy rain. Atmosphere: desperate last stand.",
+  "narration": "",
+  "lines": [
+   [
+    "अर्जुन",
+    "रोक्नुहोस्! यो रूख काट्नुभन्दा पहिले मलाई काट्नुपर्छ!"
+   ]
+  ],
+  "voice": "Desperate, commanding, breathless urgency.",
+  "sfx": "वर्षाको आवाज बढ्दै, गाउँलेहरूको सुसेली",
+  "music": "Dramatic climactic swell"
+ },
+ {
+  "id": "S7S2",
+  "prompt": "[STYLE] Close-up: Mukhiya's shocked face, rain streaking down. Arjun, still embracing the tree, pleads urgently. Camera: intimate alternating close-ups amid the rain. Lighting: stormy grey light, rain-soaked. Atmosphere: last chance for reason.",
+  "narration": "",
+  "lines": [
+   [
+    "मुखिया धनबहादुर",
+    "अर्जुन, यो के पागलपन हो? बाटो चाहियो भनेको हो!"
+   ],
+   [
+    "अर्जुन",
+    "मुखिया साप, यो रूखका जराले सिंगो डाँडा समातिराखेको छ। यो काट्यौं भने... गाउँ नै खतरामा पर्छ!"
+   ]
+  ],
+  "voice": "Mukhiya — confused, exasperated. Arjun — urgent, pleading with conviction.",
+  "sfx": "वर्षाको आवाज तीव्र हुँदै, हावाको सुसाइँ",
+  "music": "Rising dramatic tension"
+ },
+ {
+  "id": "S7S3",
+  "prompt": "[STYLE] Wide shot: the storm erupts into full torrential rain, workers scrambling for cover, axes forgotten, Arjun still holding the tree as lightning flashes across the sky. Camera: dramatic wide shot pulling back into the chaos of the storm. Lighting: strobing lightning against near-total darkness. Weather: violent downpour. Atmosphere: nature taking over.",
+  "narration": "आकाशबाट पानीको ठूलो धार खस्न थाल्यो। के मुखियाले अर्जुनको कुरा मान्ने थिए, कि यो निर्णय ढिलो भइसकेको थियो?",
+  "lines": [],
+  "voice": "Narrator — urgent, tense, foreboding.",
+  "sfx": "मुसलधारे वर्षा, गड्याङगुडुङ चर्को",
+  "music": "Suspense climax building toward the disaster"
+ },
+ {
+  "id": "S8S1",
+  "prompt": "[STYLE] Night, hours later. The rain has become a relentless deluge. On the saturated bare ridge, cracks widen and the earth begins to give way with a deep rumble. Camera: dramatic wide shot of the slope beginning to collapse. Lighting: lightning flashes illuminating the collapsing earth. Weather: violent storm at its peak. Atmosphere: the disaster begins.",
+  "narration": "त्यो रात, मनसुनको सबैभन्दा ठूलो वर्षा सुरु भयो। घण्टौंको मुसलधारे पानीले नाङ्गो डाँडाको माटो पूर्ण रूपमा भिजायो — र साढे बाह्र बजे, त्यो डर सत्य भयो।",
+  "lines": [],
+  "voice": "Narrator — dramatic, urgent, building to a peak.",
+  "sfx": "मुसलधारे झरी, माटो चिरिएको ठूलो आवाज",
+  "music": "Explosive orchestral crescendo"
+ },
+ {
+  "id": "S8S2",
+  "prompt": "[STYLE] Repeat and extend Scene 1's imagery: [सुनिता] screaming, waking [अर्जुन], the family fleeing their house into the storm. Camera: frantic handheld shots matching Scene 1's energy. Lighting: strobing lightning. Weather: violent storm. Atmosphere: full-blown terror.",
+  "narration": "",
+  "lines": [
+   [
+    "अर्जुन",
+    "सबै जना दौडऊ! डाँडामाथि जाऊ, छिटो!"
+   ]
+  ],
+  "voice": "Commanding, desperate urgency.",
+  "sfx": "पहिरोको गर्जन नजिकिँदै, चिच्याहट",
+  "music": "Frantic climactic strings"
+ },
+ {
+  "id": "S8S3",
+  "prompt": "[STYLE] Close-up: [दिपा] crying, clutching her father's hand as they run, looking back at their home. Camera: low child's-eye tracking shot amid the chaos. Lighting: lightning strobes. Weather: violent rain. Atmosphere: raw childhood fear.",
+  "narration": "",
+  "lines": [
+   [
+    "दिपा",
+    "बुवा, हाम्रो घर...!"
+   ]
+  ],
+  "voice": "Deepa — crying, terrified.",
+  "sfx": "झरीको आवाज, पहिरोको गर्जन बढ्दै",
+  "music": "Peak suspense orchestral hit"
+ },
+ {
+  "id": "S9S1",
+  "prompt": "[STYLE] Dawn breaking through storm clouds. Wide reveal shot: the massive ancient tree's exposed roots have diverted the mudslide around Arjun's house and cowshed, splitting the flow like a river around a rock. Camera: slow dramatic crane shot revealing the miracle. Lighting: pale dawn light breaking through clearing clouds. Atmosphere: awe and disbelief.",
+  "narration": "र त्यहीबेला भयो — जुन कसैले सोचेको थिएन। बूढो रूखका गहिरा, फैलिएका जराहरूले हिलोको भेललाई छेकेर, बाटो मोडेर, अर्जुनको घर र गोठलाई सुरक्षित राखे।",
+  "lines": [],
+  "voice": "Narrator — awed, triumphant, building warmth.",
+  "sfx": "पानी बग्ने आवाज सुस्ताउँदै, हावाको सुसाइँ",
+  "music": "Triumphant emotional orchestral swell"
+ },
+ {
+  "id": "S9S2",
+  "prompt": "[STYLE] Close-up: [माइला दाजु] and [मुखिया धनबहादुर] stand together staring at the tree, utterly stunned. Mukhiya's knees nearly buckle with realization. Camera: close two-shot, slow push-in on their shocked faces. Lighting: soft dawn light. Atmosphere: humbling revelation.",
+  "narration": "",
+  "lines": [
+   [
+    "माइला दाजु",
+    "हेर्नुस्! त्यो रूखले... त्यो रूखले हिलोको भेल रोकिदियो!"
+   ],
+   [
+    "मुखिया धनबहादुर",
+    "मैले... मैले यही रूख काट्न लगाउन खोजेको थिएँ..."
+   ]
+  ],
+  "voice": "Maila — astonished. Mukhiya — trembling with shame.",
+  "sfx": "हावाको सुसाइँ, पातहरूको सरसराहट",
+  "music": "Emotional swell continuing"
+ },
+ {
+  "id": "S9S3",
+  "prompt": "[STYLE] Close-up: Arjun kneels, pulling Ravi and Deepa into a tight embrace, tears mixing with rain, looking up gratefully at the tree. Camera: intimate close-up, slow push-in. Lighting: soft golden dawn breaking through clouds. Atmosphere: profound relief and gratitude.",
+  "narration": "",
+  "lines": [
+   [
+    "अर्जुन",
+    "बाजे... तपाईंले भन्नुभएकै ठीक थियो। जराले जोगायो।"
+   ]
+  ],
+  "voice": "Arjun — tearful, deeply moved, quiet gratitude.",
+  "sfx": "हल्का हावा, पातहरूको आवाज",
+  "music": "Warm emotional resolution theme"
+ },
+ {
+  "id": "S10S1",
+  "prompt": "[STYLE] Morning light reveals widespread devastation on the bare, deforested parts of the slope — mud-buried fields, collapsed cowsheds, damaged paths. Villagers wade through mud, crying, searching. Camera: slow panning wide shot across the devastation. Lighting: pale grim morning light. Atmosphere: grief and loss.",
+  "narration": "भोलिपल्ट बिहान, गाउँलेहरूले नाङ्गो जमिनमा भएको क्षति देखे — जुन ठाउँमा रूख थिएनन्, त्यहाँका खेत, गोठ, र बाटाहरू हिलोमुनि पुरिएका थिए।",
+  "lines": [],
+  "voice": "Narrator — somber, grave.",
+  "sfx": "हिलोमा खोज्दै गरेको आवाज, गाउँलेहरूको रुवाइ",
+  "music": "Somber mournful strings"
+ },
+ {
+  "id": "S10S2",
+  "prompt": "[STYLE] Close-up: [गाउँले १] weeping beside his mud-buried cowshed, hands covering his face. Camera: slow push-in on his grief. Lighting: grim overcast morning. Atmosphere: raw loss.",
+  "narration": "",
+  "lines": [
+   [
+    "गाउँले १",
+    "मेरो गोठ... मेरा गाईवस्तु... सबै हिलोमुनि पुरियो!"
+   ]
+  ],
+  "voice": "Anguished, broken.",
+  "sfx": "हिलोको आवाज, रुवाइ",
+  "music": "Mournful strings continuing"
+ },
+ {
+  "id": "S10S3",
+  "prompt": "[STYLE] Close-up: [मुखिया धनबहादुर] stands before [अर्जुन], head bowed, hands folded in genuine remorse. Camera: intimate two-shot, slow push-in on Mukhiya's humbled face. Lighting: soft grey morning light. Atmosphere: public accountability and humility.",
+  "narration": "",
+  "lines": [
+   [
+    "मुखिया धनबहादुर",
+    "यो सबै मेरै गल्ती हो। मैले विकासको नाममा प्रकृतिलाई बेवास्ता गरें। अर्जुनले भनेको कुरा सुनेको भए... आज यत्रो क्षति हुने थिएन।"
+   ],
+   [
+    "अर्जुन",
+    "मुखिया साप, अब पछुतो गरेर के हुन्छ र? अब हामीले भोलिको लागि केही गर्नुपर्छ।"
+   ]
+  ],
+  "voice": "Mukhiya — remorseful, broken. Arjun — calm, forward-looking, compassionate.",
+  "sfx": "हल्का हावा, टाढा गाउँलेहरूको आवाज",
+  "music": "Hopeful undertone emerging from grief"
+ },
+ {
+  "id": "S11S1",
+  "prompt": "[STYLE] The next morning, bright clear sky after the storm. Arjun, his children, and the whole village gather on the bare ridge carrying baskets of young saplings. Camera: wide establishing shot of the assembled crowd with baskets. Lighting: fresh clear morning sunlight. Atmosphere: renewed purpose and hope.",
+  "narration": "",
+  "lines": [
+   [
+    "अर्जुन",
+    "हामीले एउटा रूखको गुन देख्यौं। अब हामी हरेकले आफ्नो जरा गाड्ने पालो हो। सयौं बिरुवा रोपौं, ताकि भोलि यो डाँडा फेरि हराभरा होस्!"
+   ]
+  ],
+  "voice": "Arjun — inspiring, hopeful, rallying tone.",
+  "sfx": "भीडको उत्साहपूर्ण हल्ला, हल्का हावा",
+  "music": "Hopeful rising folk theme"
+ },
+ {
+  "id": "S11S2",
+  "prompt": "[STYLE] Close-up: [रवि] digs a small hole and plants a sapling with focused determination, [दिपा] beside him patting down the soil, both smiling. Camera: warm close two-shot, slight overhead angle on their hands in the dirt. Lighting: bright fresh morning sun. Atmosphere: joyful renewal.",
+  "narration": "",
+  "lines": [
+   [
+    "रवि",
+    "बुवा, म पनि आफ्नो एउटा रूख रोप्छु! यो ठ्याक्कै बूढो रूखजस्तै ठूलो हुनेछ भन्ने आशा राख्छु!"
+   ],
+   [
+    "दिपा",
+    "मेरो बिरुवाको नाम त 'बूढो रूखको नाति' राख्छु!"
+   ]
+  ],
+  "voice": "Ravi — determined, hopeful. Deepa — playful, sweet.",
+  "sfx": "फावडाले खनेको आवाज, बच्चाहरूको हाँसो",
+  "music": "Warm playful folk melody"
+ },
+ {
+  "id": "S11S3",
+  "prompt": "[STYLE] Wide shot: [मुखिया धनबहादुर] plants a sapling alongside the villagers, a humble smile on his face. The whole hillside is dotted with villagers planting in long rows. Camera: sweeping wide crane shot across the entire hillside planting effort. Lighting: bright warm morning sun. Atmosphere: collective redemption and hope.",
+  "narration": "",
+  "lines": [
+   [
+    "मुखिया धनबहादुर",
+    "म पनि रोप्छु। यसपालि साँच्चैको विकासको काम गर्छु।"
+   ]
+  ],
+  "voice": "Mukhiya — humble, sincere, new resolve.",
+  "sfx": "फावडाले खनेको आवाज, भीडको उत्साह",
+  "music": "Uplifting communal folk theme"
+ },
+ {
+  "id": "S11S4",
+  "prompt": "[STYLE] Wide final shot of the scene: the whole hillside now dotted with hundreds of tiny new saplings, the ancient tree standing proudly at the ridge above them all. Camera: slow crane pull-back revealing the full transformed hillside. Lighting: bright golden late-morning sun. Atmosphere: hopeful renewal, full circle.",
+  "narration": "*(silence, then the moral begins)*",
+  "lines": [],
+  "voice": "—",
+  "sfx": "हावाको सुसाइँ, पातहरूको आवाज",
+  "music": "Full uplifting theme"
+ },
+ {
+  "id": "S12S1",
+  "prompt": "[STYLE] Slow wide shot of the ancient tree at golden sunset, hundreds of young saplings surrounding it on the once-bare hillside, Arjun's family standing together beneath its branches. Camera: slow crane pull-up revealing the whole scene from above. Lighting: rich golden-orange sunset. Atmosphere: reflective, warm closure.",
+  "narration": "साथीहरू... अर्जुनले काटेनन् एउटा मात्र रूख — तर त्यो एउटा रूखले सिंगो परिवारको ज्यान बचायो। रूखको जरा जति गहिरो जान्छ, रूख उत्तिकै बलियो हुन्छ — र त्यही जराले माटोलाई पनि बलियो बनाउँछ।",
+  "lines": [],
+  "voice": "Narrator — warm, wise, slow and deliberate.",
+  "sfx": "हल्का बतास, पातहरूको आवाज",
+  "music": "Gentle reflective closing theme"
+ },
+ {
+  "id": "S12S2",
+  "prompt": "[STYLE] Final composed frame: the ancient tree silhouetted against the sunset, young saplings in soft focus around it, bold Devanagari moral text appearing on screen. Camera: static final hold. Lighting: warm golden-hour glow settling into dusk. Atmosphere: peaceful finality.",
+  "narration": "",
+  "lines": [],
+  "voice": "Narrator — deep, warm, final, resonant pause after each sentence.",
+  "sfx": "हल्का सुसेली, पातहरूको आवाज",
+  "music": "Full warm closing orchestral theme, fading gently"
+ }
+]
