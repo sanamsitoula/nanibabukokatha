@@ -8,3 +8,6 @@
 1.1 dudh ma pani/video/edit/stage2_music.mp4
 1.1 dudh ma pani/video/edit/final_before_bookends.mp4
 1.1 dudh ma pani/video/edit/final.mp4
+
+# Python bytecode
+__pycache__/
