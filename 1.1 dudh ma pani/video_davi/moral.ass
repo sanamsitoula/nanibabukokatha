@@ -1,0 +1,16 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Moral,Nirmala UI,42,&H00E9F6FF,&H00E9F6FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,130,130,0,1
+Style: Label,Nirmala UI,34,&H0005B7F2,&H0005B7F2,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,100,100,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.00,Label,,0,0,0,,कथाको पाठ
+Dialogue: 0,0:00:00.00,0:00:05.00,Moral,,0,0,0,,बेइमानीले कमाएको धन खोलाको पानीजस्तै बगेर जान्छ, तर इमानले कमाएको विश्वास दूधजस्तै जीवनभर शक्ति दिन्छ।\N\Nजुन हातले अरूलाई धोका दिन्छ, त्यही धोका एक दिन आफ्नै घरको ढोका ढक्ढक्याउन आइपुग्छ।

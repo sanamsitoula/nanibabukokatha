@@ -1,0 +1,16 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Nirmala UI,84,&H00E9F6FF,&H00E9F6FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,100,100,0,1
+Style: Brand,Nirmala UI,34,&H0005B7F2,&H0005B7F2,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,100,100,110,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.50,Title,,0,0,0,,दूधमा पानी, मनमा ढुङ्गा
+Dialogue: 0,0:00:00.00,0:00:02.50,Brand,,0,0,0,,नानीबाबुको कथा

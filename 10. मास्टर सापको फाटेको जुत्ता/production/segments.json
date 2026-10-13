@@ -1,0 +1,772 @@
+[
+ {
+  "id": "s01g01",
+  "scene": 1,
+  "segment": 1,
+  "lines": [
+   {
+    "speaker": "narrator",
+    "text": "फूलबारी गाउँको प्राथमिक विद्यालयमा एउटा कुरा सधैं एउटै हुन्थ्यो — घण्टी बज्थ्यो, बच्चाहरू लाइन बस्थे, अनि... गोपाल सर हाँफ्दै-हाँफ्दै ढोकाबाट भित्र पस्नुहुन्थ्यो।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Establishing aerial shot slowly descending over फूलबारी village school — tin-roofed single-story building, a peepal-tree chautari nearby, terraced fields below, morning golden light. Camera: slow push toward the school gate where children line up. Lighting: warm morning sun. Atmosphere: ordinary village morning, about to be disrupted.",
+  "consistency": "No close characters yet; school exterior must match all future shots.",
+  "voice_direction": "Narrator — light, amused tone that turns curious by the end.",
+  "sfx": "स्कूलको घण्टी, बच्चाहरूको लाइनमा उभिँदाको आवाज, चराहरू",
+  "music": "Light playful morning motif",
+  "hook": "The gate creaks — everyone turns to look at who's late again."
+ },
+ {
+  "id": "s01g02",
+  "scene": 1,
+  "segment": 2,
+  "lines": [
+   {
+    "speaker": "राजु",
+    "text": "आयो! आयो! हाम्रो 'ढिलो मास्टर' आयो!"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "[GOPAL SIR] (exact master reference: white shirt, maroon sweater-vest, glasses sliding down nose, torn black shoe with flapping sole) pushes through the school gate, breathless, sweat on his forehead. Close-up on his shoe — dust and a small pebble fall from the flapping sole. Camera: low tracking shot following his feet, then tilting up to his tired but gentle face. Lighting: harsh morning sun casting long shadow. Atmosphere: comic surface, hidden weariness underneath.",
+  "consistency": "GOPAL SIR exactly per master sheet — torn shoe is the key visual anchor.",
+  "voice_direction": "Raju — loud, mocking, class-clown glee.",
+  "sfx": "जुत्ताको फाटेको फेदी घिस्रिएको आवाज, बच्चाहरूको हाँसो",
+  "music": "Comic pluck strings, slightly off-key",
+  "hook": "Gopal Sir's tired smile doesn't match the joke — something is off."
+ },
+ {
+  "id": "s01g03",
+  "scene": 1,
+  "segment": 3,
+  "lines": [
+   {
+    "speaker": "गोपाल सर",
+    "text": "माफ गर्नुहोस् बाबुहरू... म ढिलो भएँ। आजको पाठ सुरु गरौं है त।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Classroom interior — wooden benches, a blackboard, sunlight through the window. [GOPAL SIR] steps in, catching his breath, offering his usual apology. Behind him, [ARJUN] (sky-blue shirt, red tie, black canvas shoes) sits alone not laughing, studying him with quiet curiosity. Camera: two-shot of Gopal Sir at the door and Arjun in the back row, rack focus between them. Lighting: soft classroom daylight. Atmosphere: everyone laughing except one boy.",
+  "consistency": "GOPAL SIR and ARJUN per master sheet.",
+  "voice_direction": "Gopal Sir — soft, patient, weary but never irritated.",
+  "sfx": "कापी पल्टिएको आवाज, कक्षाको हल्का हल्ला बस्दै",
+  "music": "Gentle motif with a curious undertone",
+  "hook": "Arjun's eyes narrow slightly — a question is forming that no one else is asking."
+ },
+ {
+  "id": "s02g01",
+  "scene": 2,
+  "segment": 1,
+  "lines": [
+   {
+    "speaker": "राजु",
+    "text": "माफ गर्नुहोस्... म ढिलो भएँ!"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Under the old peepal tree at the chautari during lunch break. [RAJU] (stocky, spiky hair, sky-blue shirt untucked, rubber sandals) limps around mimicking Gopal Sir's walk while [SURESH] (thin, slicked hair, slingshot in pocket) laughs. Other children form a circle, giggling. Camera: circular dolly around the mocking performance. Lighting: bright midday sun through leaves. Atmosphere: cruel comedy.",
+  "consistency": "RAJU and SURESH per master sheet.",
+  "voice_direction": "Raju — exaggerated, performative mockery, crowd-pleasing tone.",
+  "sfx": "बच्चाहरूको हाँसो, पातहरू सर्सराउने आवाज",
+  "music": "Playful but slightly mean-spirited pluck theme",
+  "hook": "One boy in the circle isn't laughing at all."
+ },
+ {
+  "id": "s02g02",
+  "scene": 2,
+  "segment": 2,
+  "lines": [
+   {
+    "speaker": "अर्जुन",
+    "text": "तिमीहरूलाई थाहा नभएको कुरा नभन! सरको जुत्ता त हरेक साता माटोले टम्म भरिएको हुन्छ नि — स्कूलसम्म आउँदा माटो कहाँबाट लाग्छ र?"
+   },
+   {
+    "speaker": "राजु",
+    "text": "ए... त्यसो भए तँलाई थाहा छ त?"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "[ARJUN] stands up angrily, defending Gopal Sir, pointing at Raju's muddy-shoe observation. Camera: push-in on Arjun's determined face, then reaction shots of Raju and Suresh smirking. Lighting: dappled sunlight through peepal leaves. Atmosphere: tension rising in the group.",
+  "consistency": "ARJUN, RAJU, SURESH per master sheet.",
+  "voice_direction": "Arjun — defensive, sharp, genuinely puzzled underneath the anger. Raju — challenging, taunting.",
+  "sfx": "भीडको गनगन, हल्का हाँसो बन्द हुँदै",
+  "music": "Suspicion motif, low strings",
+  "hook": "Arjun has no answer — and that silence bothers him more than the mockery does."
+ },
+ {
+  "id": "s02g03",
+  "scene": 2,
+  "segment": 3,
+  "lines": [
+   {
+    "speaker": "प्रधानाध्यापक धनबहादुर सर",
+    "text": "गोपाल सर! आज फेरि नौ बजिसक्यो! यसपालि म बाध्य भएर माथि रिपोर्ट पठाउँछु है!"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "School entrance. [DHAN BAHADUR SIR] (heavyset, brown coat, ledger under arm, cane in hand) scolds [GOPAL SIR] loudly at the doorway while he stands head bowed, offering no defense. Camera: low angle on the headmaster's stern face, then a wide shot of Gopal Sir small against the doorway. Lighting: harsh midday sun. Atmosphere: public humiliation quietly endured.",
+  "consistency": "DHAN BAHADUR SIR and GOPAL SIR per master sheet.",
+  "voice_direction": "Headmaster — booming, formal, genuinely frustrated. Gopal Sir silent, only a small nod.",
+  "sfx": "भारी पाइलाको आवाज, हल्का हावा",
+  "music": "Tense low drum",
+  "hook": "That night, Arjun makes up his mind — tomorrow, he follows."
+ },
+ {
+  "id": "s03g01",
+  "scene": 3,
+  "segment": 1,
+  "lines": [
+   {
+    "speaker": "narrator",
+    "text": "भोलिपल्ट, कुखुरा डाक्नुअघि नै अर्जुन ओछ्यानबाट उठ्यो।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Pre-dawn interior of Arjun's small mud house. [ARJUN] slips quietly out of bed in the dim blue pre-dawn light while [SURYA BAHADUR] (dhaka topi, grey daura-suruwal) and [KAMALA] (braid with red thread, orange-green gunyu-cholo) sleep under a thick blanket nearby. Camera: slow push from the sleeping parents to Arjun's careful footsteps on the cold mud floor. Lighting: near-dark, single blue pre-dawn tone. Atmosphere: hushed anticipation.",
+  "consistency": "ARJUN, SURYA BAHADUR, KAMALA per master sheet.",
+  "voice_direction": "Narrator — hushed, conspiratorial whisper.",
+  "sfx": "कम्बल चलेको हल्का आवाज, टाढा भाले डाकेको आवाज",
+  "music": "Soft sneaking pizzicato",
+  "hook": "His hand reaches for the creaky door."
+ },
+ {
+  "id": "s03g02",
+  "scene": 3,
+  "segment": 2,
+  "lines": [
+   {
+    "speaker": "कमला",
+    "text": "अर्जुन... यति बिहानै कहाँ...?"
+   },
+   {
+    "speaker": "अर्जुन",
+    "text": "आमा... म... म बाथरूम गएको!"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Close-up: the wooden door creaks open, Kamala stirs half-asleep. Arjun freezes, invents an excuse. Camera: tight two-shot between the doorway and the blanket. Lighting: cold blue pre-dawn light spilling in through the crack. Atmosphere: near-discovery tension.",
+  "consistency": "ARJUN and KAMALA per master sheet.",
+  "voice_direction": "Kamala — drowsy, half-conscious. Arjun — quick, nervous whisper.",
+  "sfx": "ढोकाको किर्र आवाज, हल्का बतास",
+  "music": "Suspense pause",
+  "hook": "She believes him and drifts back to sleep — the door swings fully open to the cold dark outside."
+ },
+ {
+  "id": "s03g03",
+  "scene": 3,
+  "segment": 3,
+  "lines": [
+   {
+    "speaker": "narrator",
+    "text": "गाउँ अझै निदाइरहेको थियो। तर एउटा घरको ढोका बिस्तारै खुल्यो।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Exterior village at pre-dawn — mist over rooftops, a single distant tuki lamp glowing in [GOPAL SIR]'s window. Arjun steps outside, breath visible in the cold, watching that light. Camera: wide establishing shot of the sleeping village, then push toward the glowing window. Lighting: pale blue mist, one warm point of light. Atmosphere: the day's real story about to begin.",
+  "consistency": "Village layout and Gopal Sir's house must repeat in later shots.",
+  "voice_direction": "Narrator — quiet, building anticipation.",
+  "sfx": "जाडोको हावा, टाढा कुकुर भुकेको आवाज",
+  "music": "Rising mystery strings",
+  "hook": "Gopal Sir steps out into the dark, torn shoe and all — and Arjun begins to follow."
+ },
+ {
+  "id": "s04g01",
+  "scene": 4,
+  "segment": 1,
+  "lines": [
+   {
+    "speaker": "narrator",
+    "text": "गोपाल सर गाउँको बाटोबाट ओर्लिएर, धानखेत छिचोल्दै, अनि ठाडो उकालोतिर मोडिनुभयो।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "[GOPAL SIR] walks briskly past terraced rice fields then turns onto a steep uphill trail that clearly does NOT lead to the school. Camera: wide tracking shot following him from behind as the path narrows into pine forest. Lighting: early gold light breaking through mist. Atmosphere: a hidden routine revealed.",
+  "consistency": "GOPAL SIR per master sheet, torn shoe visible with each step.",
+  "voice_direction": "Narrator — steady, observational, building curiosity.",
+  "sfx": "पाइलाको आवाज, चराको बिहानी गीत, हावा",
+  "music": "Journey theme begins — steady walking rhythm",
+  "hook": "The trail he takes is not the school road — where is he really going?"
+ },
+ {
+  "id": "s04g02",
+  "scene": 4,
+  "segment": 2,
+  "lines": [
+   {
+    "speaker": "अर्जुन",
+    "text": "यो त... स्कूल जाने बाटो होइन! सर कहाँ जाँदै हुनुहुन्छ यति बिहानै?"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "[ARJUN] follows at a distance, ducking behind rocks and bushes along the same trail, small figure against the vast pine-covered hillside. Camera: long lens shot emphasizing the scale of the mountain versus the small boy. Lighting: thin morning mist filtering gold light. Atmosphere: a child's brave secret mission.",
+  "consistency": "ARJUN per master sheet.",
+  "voice_direction": "Arjun — breathless whisper, growing wonder.",
+  "sfx": "पातहरू सर्सराउने आवाज, टाढा खोलाको हल्का आवाज",
+  "music": "Curious rising strings",
+  "hook": "Arjun's foot slips on loose gravel — he barely catches himself on a rock."
+ },
+ {
+  "id": "s04g03",
+  "scene": 4,
+  "segment": 3,
+  "lines": [
+   {
+    "speaker": "narrator",
+    "text": "गोपाल सर:"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Deep pine forest, trail narrowing to barely a footpath along a ridge. [GOPAL SIR] hums an old folk tune, unaware he's being followed, his flapping shoe sole visible with each stride. Camera: side-tracking shot along the ridge, mist swirling below on both sides. Lighting: cool green-grey forest light. Atmosphere: isolation, distance, endurance.",
+  "consistency": "GOPAL SIR per master sheet.",
+  "voice_direction": "Gopal Sir — soft humming, content despite the hardship.",
+  "sfx": "जुत्ताको फेदी घिस्रिएको आवाज, हावाको सुसाइँ",
+  "music": "Lonely, resolute walking theme",
+  "hook": "An hour has passed and Arjun's legs already ache — how much further can this go?"
+ },
+ {
+  "id": "s04g04",
+  "scene": 4,
+  "segment": 4,
+  "lines": [
+   {
+    "speaker": "narrator",
+    "text": "अचानक जंगल चिरेर बाटो एउटा गड्गडाउँदो खोलामा गएर अड्कियो।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "The forest suddenly opens onto a wide roaring river gorge. [GOPAL SIR] stops at the edge; [ARJUN] hides behind a boulder some distance back, eyes widening at the sight of the water. Camera: dramatic wide reveal shot, sound of rushing water rising. Lighting: bright open sky after the dark forest. Atmosphere: a real obstacle, raising the stakes.",
+  "consistency": "Both per master sheet; river crossing site must repeat identically in Scene 5.",
+  "voice_direction": "Narrator — awe mixed with concern.",
+  "sfx": "खोलाको गड्गडाहट, हावा",
+  "music": "Suspense swell",
+  "hook": "There is no bridge, no easy way across — only slick stones and a fraying rope crossing far downstream."
+ },
+ {
+  "id": "s05g01",
+  "scene": 5,
+  "segment": 1,
+  "lines": [
+   {
+    "speaker": "गोपाल सर",
+    "text": "यी जुत्ताले पनि कति साथ दिए हगि... अब त झन्डै बाटो नै चिन्छन् यिनले।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "[GOPAL SIR] sits on a rock at the river's edge, removing his torn shoes and wrapping a scrap of plastic around the flapping sole to keep water out. Camera: close-up on his hands carefully wrapping the shoe, then his face — small private smile despite the hardship. Lighting: bright reflected river light. Atmosphere: quiet resilience.",
+  "consistency": "GOPAL SIR per master sheet — torn shoe detail exact.",
+  "voice_direction": "Gopal Sir — warm, self-deprecating, fond of his old shoes.",
+  "sfx": "प्लास्टिक बेरेको आवाज, खोलाको बगाव",
+  "music": "Gentle, touching motif",
+  "hook": "He stands, shoes back on, and steps toward the first stone."
+ },
+ {
+  "id": "s05g02",
+  "scene": 5,
+  "segment": 2,
+  "lines": [
+   {
+    "speaker": "narrator",
+    "text": "गोपाल सर सन्तुलन मिलाउँदै, ढुङ्गादेखि ढुङ्गासम्म, खोला तर्न थाल्नुभयो।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Wide dramatic shot: [GOPAL SIR] crosses the river stone by stone, shoes held in one hand for balance, the small fraying wooden suspension bridge visible further downstream. Camera: side-tracking shot matching his careful balanced steps. Lighting: sun sparkling off rushing water. Atmosphere: practiced skill born of necessity.",
+  "consistency": "GOPAL SIR per master sheet; river crossing point identical to Scene 4.",
+  "voice_direction": "Narrator — tense but admiring.",
+  "sfx": "पानीको छ्यापछ्याप, ढुङ्गामा खुट्टा टेकेको आवाज",
+  "music": "Rhythmic tension building with each step",
+  "hook": "He reaches the far bank safely — but behind him, a smaller figure is about to attempt the same crossing."
+ },
+ {
+  "id": "s05g03",
+  "scene": 5,
+  "segment": 3,
+  "lines": [],
+  "duration": "10 seconds",
+  "prompt": "[ARJUN] attempts the same stepping stones after Gopal Sir disappears from view, wobbling dangerously mid-river, arms flailing for balance, his school bag swinging. Camera: low dramatic angle from water level, emphasizing the danger. Lighting: harsh reflected glare off water. Atmosphere: real peril for a small boy.",
+  "consistency": "ARJUN per master sheet.",
+  "sfx": "पानीको गड्गडाहट, खुट्टा चिप्लिएको आवाज, मुटुको ढुकढुक",
+  "voice_direction": "(No dialogue — physical tension carries the segment)",
+  "music": "Sharp suspense sting",
+  "hook": "Arjun's foot slips completely — he grabs the last rock just in time, heart pounding."
+ },
+ {
+  "id": "s05g04",
+  "scene": 5,
+  "segment": 4,
+  "lines": [
+   {
+    "speaker": "narrator",
+    "text": "अर्जुन जसोतसो खोला तरेर पारि पुग्यो। र त्यहाँ जे देख्यो, त्यसले उसको सम्पूर्ण बुझाइ उल्ट्याइदियो।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "[ARJUN] finally scrambles onto the far bank, soaked to the knees, shaking off water, breathless with relief and excitement. Camera: close-up on his relieved grin, then a wide shot revealing what lies just ahead through the trees — a broken tin roof glinting in the sun. Lighting: bright post-danger clarity. Atmosphere: relief turning into astonishment.",
+  "consistency": "ARJUN per master sheet.",
+  "voice_direction": "Narrator — breathless anticipation building to reveal.",
+  "sfx": "पानी चुहिएको आवाज, हल्का हाँफाइ",
+  "music": "Mystery reveal swell",
+  "hook": "Through the trees, a crumbling school building comes into view — and small voices are calling out with joy."
+ },
+ {
+  "id": "s06g01",
+  "scene": 6,
+  "segment": 1,
+  "lines": [
+   {
+    "speaker": "narrator",
+    "text": "एउटा भत्किँदै गएको सानो विद्यालय... र त्यसको अगाडि, तीन जना सानो-सानो बालबालिका पर्खेर बसिरहेका थिए।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Establishing shot of the crumbling तल्लो सिम्ले community school — broken tin roof with holes, cracked mud walls, glassless window openings, a faded blackboard visible inside. [SANU], [MAYA], and [BIRE] (per master sheet: patched pink frock/bare feet, oversized grey sweater/bare feet, torn vest/rope belt/one slipper) wait outside, watching the trail eagerly. Camera: slow pan across the broken building, then push toward the waiting children. Lighting: soft morning light through the broken roof. Atmosphere: poverty made visible, but hope in the children's faces.",
+  "consistency": "SANU, MAYA, BIRE introduced exactly per master sheet — must repeat identically hereafter.",
+  "voice_direction": "Narrator — tender, revealing.",
+  "sfx": "भत्किएको टिनको छानामा हावा चलेको आवाज, बालबालिकाको आवाज टाढैबाट",
+  "music": "Warm but bittersweet strings",
+  "hook": "The children spot Gopal Sir approaching and their whole faces light up."
+ },
+ {
+  "id": "s06g02",
+  "scene": 6,
+  "segment": 2,
+  "lines": [
+   {
+    "speaker": "माया",
+    "text": "सर आउनुभयो! सर आउनुभयो!"
+   },
+   {
+    "speaker": "सानु",
+    "text": "सर, आज पनि कापी ल्याउनुभयो?"
+   },
+   {
+    "speaker": "गोपाल सर",
+    "text": "ल्याएँ नि बाबुहरू! अनि हेर त, आज सबैका लागि एक-एक बिस्कुट पनि ल्याएको छु।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "[MAYA] and [SANU] run to greet [GOPAL SIR], who kneels down to their height, pulling books, exercise copies, and a small biscuit tin from his cloth jhola. Camera: warm eye-level close-up on the exchange. Lighting: golden morning light. Atmosphere: pure, uncomplicated joy.",
+  "consistency": "GOPAL SIR, MAYA, SANU per master sheet.",
+  "voice_direction": "Maya — bubbly excitement. Sanu — shy hope. Gopal Sir — warm, delighted to give.",
+  "sfx": "झोलाको जिप खोलेको आवाज, बालबालिकाको खुसीको चिच्याहट",
+  "music": "Sweet, tender melody",
+  "hook": "Watching from the bushes, Arjun's eyes go wide with disbelief."
+ },
+ {
+  "id": "s06g03",
+  "scene": 6,
+  "segment": 3,
+  "lines": [
+   {
+    "speaker": "बिरे",
+    "text": "हाम्रो गाउँमा त कहिल्यै टिक्ने मास्टर आउँदैनथे। गोपाल सर मात्र... छ महिनादेखि हरेक दिन आउनुहुन्छ।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "[BIRE] stands proudly beside the broken blackboard, explaining to no one in particular how long Gopal Sir has been coming. Camera: medium shot on Bire, then cut to hidden Arjun's stunned face at the edge of the clearing. Lighting: dust motes visible in sunbeam through broken roof. Atmosphere: quiet revelation landing.",
+  "consistency": "BIRE and ARJUN per master sheet.",
+  "voice_direction": "Bire — proud, matter-of-fact, older-sibling protectiveness.",
+  "sfx": "हावाको सुसाइँ, टाढा चराको आवाज",
+  "music": "Emotional realization swell",
+  "hook": "\"छ महिनादेखि हरेक दिन\" — the words echo in Arjun's mind like a bell."
+ },
+ {
+  "id": "s06g04",
+  "scene": 6,
+  "segment": 4,
+  "lines": [
+   {
+    "speaker": "narrator",
+    "text": "अर्जुनले सुनेको एउटा वाक्यले उसको मुटु चिरायो — तर गोपाल सरको तलब त फूलबारी स्कूलबाटै आउँछ, हैन र?"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Close-up on Arjun crouched in the bushes, hand over his own mouth in shock, eyes filling with tears of realization. Quick flash-cut in his mind: classmates mocking Gopal Sir's shoe back at Fulbari. Camera: tight close-up on Arjun's face, intercut with the classroom mockery flash. Lighting: soft forest shade contrasted with the bright memory flash. Atmosphere: guilt and dawning understanding.",
+  "consistency": "ARJUN per master sheet; flashback reuses exact Scene 1-2 visuals.",
+  "voice_direction": "Narrator — soft, aching question.",
+  "sfx": "मुटुको ढुकढुक, हावा",
+  "music": "Reflective, heavy piano note",
+  "hook": "A far bigger question now grips Arjun — if Gopal Sir isn't paid for this, why does he keep coming back every single day?"
+ },
+ {
+  "id": "s07g01",
+  "scene": 7,
+  "segment": 1,
+  "lines": [
+   {
+    "speaker": "गोपाल सर",
+    "text": "ल त, आजको पाठ — 'क' बाट के-के शब्द बन्छन्? माया, तिमीले भन त!"
+   },
+   {
+    "speaker": "माया",
+    "text": "कमल! कापी! कलम!"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Inside the broken classroom, sunbeams pouring through the holed roof, dust motes dancing. [GOPAL SIR] seats [SANU], [MAYA], and [BIRE] on a cracked wooden bench, chalk in hand at the faded blackboard. Camera: wide interior shot capturing the poverty of the room alongside the warmth of the lesson. Lighting: golden shafts through the roof holes. Atmosphere: sacred, humble classroom.",
+  "consistency": "All four per master sheet.",
+  "voice_direction": "Gopal Sir — encouraging, energetic despite exhaustion. Maya — proud, eager child voice.",
+  "sfx": "चकले बोर्डमा कोरेको आवाज, बालबालिकाको हल्का हाँसो",
+  "music": "Warm, hopeful teaching theme",
+  "hook": "Gopal Sir's genuine pride in her answer says everything about why he keeps walking this road."
+ },
+ {
+  "id": "s07g02",
+  "scene": 7,
+  "segment": 2,
+  "lines": [
+   {
+    "speaker": "बिरे",
+    "text": "सर, तपाईं यति टाढाबाट किन आउनुहुन्छ हामीलाई पढाउन? हाम्रो गाउँले त तपाईंलाई एक रुपैयाँ पनि दिन सक्दैन।"
+   },
+   {
+    "speaker": "गोपाल सर",
+    "text": "पैसाले जोखेको पढाइ मात्र पढाइ होइन बाबु। तिमीहरूको आँखामा भोक छ सिक्ने... त्यो भोक नमेटी म कसरी फर्कन सक्छु र?"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Close-up: [GOPAL SIR] quietly takes a coin from his own shirt pocket and presses it into [SANU]'s hand for a new copy, then breaks his own lunch roti in half to share with [BIRE]. Camera: intimate close-ups on the small acts of sacrifice. Lighting: warm intimate light. Atmosphere: quiet generosity, no fanfare.",
+  "consistency": "GOPAL SIR, SANU, BIRE per master sheet.",
+  "voice_direction": "Bire — earnest, slightly guilty. Gopal Sir — calm conviction, deeply felt.",
+  "sfx": "सिक्का ठोक्किएको सानो आवाज, रोटी भाँचिएको आवाज",
+  "music": "Deeply emotional, tender strings",
+  "hook": "Outside the doorway, Arjun silently wipes away tears — he is seeing his teacher for the first time."
+ },
+ {
+  "id": "s07g03",
+  "scene": 7,
+  "segment": 3,
+  "lines": [
+   {
+    "speaker": "narrator",
+    "text": "अर्जुनले पहिलोपल्ट गोपाल सरलाई साँच्चै चिनेको महसुस गर्‍यो।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "[ARJUN] stands frozen at the broken doorway, watching the whole lesson unfold, hand pressed to his chest, eyes wet. Camera: slow push-in on Arjun's transformed expression — from shock to reverence. Lighting: backlit silhouette in the doorway against the bright classroom. Atmosphere: a quiet, private epiphany.",
+  "consistency": "ARJUN per master sheet.",
+  "voice_direction": "Narrator — soft, moved.",
+  "sfx": "कापीमा कलम कोरिएको आवाज, हावा",
+  "music": "Gentle emotional swell",
+  "hook": "But the sun is climbing fast — and Fulbari's own school bell will ring soon."
+ },
+ {
+  "id": "s07g04",
+  "scene": 7,
+  "segment": 4,
+  "lines": [
+   {
+    "speaker": "narrator",
+    "text": "फूलबारी स्कूलको घण्टी झन्डै बज्ने बेला भइसकेको थियो, र फर्कने बाटो अझै दुई घण्टाभन्दा बढी लामो थियो।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "[GOPAL SIR] checks a small pocket watch, his expression shifting to urgency. Outside, the sun is now high overhead. Camera: close-up on the watch face, then wide shot showing the long trail back stretching into the distance. Lighting: harsh midday brightness. Atmosphere: the race against time begins.",
+  "consistency": "GOPAL SIR per master sheet.",
+  "voice_direction": "Narrator — urgent, ticking-clock tension.",
+  "sfx": "घडीको टिकटिक, हावा तीव्र हुँदै",
+  "music": "Rising urgent tempo",
+  "hook": "Gopal Sir says a quick goodbye to the children and breaks into a run."
+ },
+ {
+  "id": "s08g01",
+  "scene": 8,
+  "segment": 1,
+  "lines": [
+   {
+    "speaker": "गोपाल सर",
+    "text": "छिटो... छिटो... बच्चाहरूले फेरि पर्खनु नपरोस्..."
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "[GOPAL SIR] runs back through the river crossing at speed, water splashing to his knees, shoes gripped precariously as he leaps stone to stone. Camera: fast tracking shot low over the water. Lighting: bright harsh midday sun on rushing water. Atmosphere: urgent physical struggle.",
+  "consistency": "GOPAL SIR per master sheet.",
+  "voice_direction": "Gopal Sir — breathless, determined, self-motivating.",
+  "sfx": "पानीको छ्यापछ्याप, हाँफाइ",
+  "music": "Fast urgent rhythm",
+  "hook": "His foot slips on a wet stone — he barely stays upright."
+ },
+ {
+  "id": "s08g02",
+  "scene": 8,
+  "segment": 2,
+  "lines": [],
+  "duration": "10 seconds",
+  "prompt": "Extreme close-up: the flapping sole of [GOPAL SIR]'s shoe finally tears completely off mid-stride on the rocky uphill trail. He doesn't stop, continuing barefoot-on-one-side over rocks and thorns. Camera: close-up on the torn sole falling away, then quick cut to his bare sole striking sharp gravel. Lighting: harsh directional sun. Atmosphere: physical sacrifice made visible.",
+  "consistency": "GOPAL SIR per master sheet — this is the sanctioned story-driven shoe change.",
+  "sfx": "जुत्ता च्यातिएको आवाज, ढुङ्गामा नाङ्गो खुट्टा ठोक्किएको आवाज",
+  "voice_direction": "(No dialogue — physical urgency carries the beat)",
+  "music": "Sharp painful sting, then determined drums",
+  "hook": "A thin line of blood appears on his heel — and still, he does not slow down."
+ },
+ {
+  "id": "s08g03",
+  "scene": 8,
+  "segment": 3,
+  "lines": [],
+  "duration": "10 seconds",
+  "prompt": "[ARJUN] runs some distance behind, no longer hiding, tears streaming openly down his face as he watches his teacher's sacrifice. Camera: emotional tracking shot of Arjun running, intercut with Gopal Sir's determined back ahead. Lighting: bright midday sun, dust kicked up by running feet. Atmosphere: raw, unguarded emotion.",
+  "consistency": "ARJUN per master sheet.",
+  "sfx": "दुबैको दौडिँदाको सास, ढुङ्गा-माटोमा खुट्टा ठोक्किएको आवाज",
+  "voice_direction": "(No dialogue — Arjun's silent crying carries the emotion)",
+  "music": "Intense emotional crescendo",
+  "hook": "Gopal Sir's torn shoe lies abandoned on the trail behind them both — a silent witness to the truth."
+ },
+ {
+  "id": "s08g04",
+  "scene": 8,
+  "segment": 4,
+  "lines": [
+   {
+    "speaker": "narrator",
+    "text": "गोपाल सर ठीक समयमा फूलबारी स्कूल पुग्नुभयो — हाँफ्दै, खुट्टाबाट रगत बगिरहेको, तर अनुहारमा उही शान्त मुस्कान लिएर।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "[GOPAL SIR] arrives at the फूलबारी school gate, breathless, bleeding foot bare, adjusting his glasses and forcing his usual calm smile before entering. Camera: slow push from his bleeding foot up to his composed face. Lighting: warm afternoon sun at the gate. Atmosphere: dignity in exhaustion.",
+  "consistency": "GOPAL SIR per master sheet.",
+  "voice_direction": "Narrator — solemn, deeply respectful.",
+  "sfx": "स्कूलको घण्टी टाढैबाट, हाँफाइ बिस्तारै सुस्ताउँदै",
+  "music": "Emotional resolve theme",
+  "hook": "He straightens his shirt, steps inside, and prepares to say the words no one should ever have made him say: \"माफ गर्नुहोस्।\""
+ },
+ {
+  "id": "s09g01",
+  "scene": 9,
+  "segment": 1,
+  "lines": [
+   {
+    "speaker": "राजु",
+    "text": "हेर त! आज त जुत्तै हराइसक्यो! के भो सर, बाटोमा कसैले चोर्‍यो कि क्या हो?"
+   },
+   {
+    "speaker": "सुरेश",
+    "text": "अथवा साँच्चै रक्सी पसलमै छाडेर आउनुभयो त?"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Classroom interior. [GOPAL SIR] enters barefoot on one side, breathless. [RAJU] and [SURESH] immediately start laughing, pointing at his missing shoe. Camera: two-shot of the mocking boys and the exhausted teacher. Lighting: bright classroom daylight. Atmosphere: casual cruelty about to be interrupted.",
+  "consistency": "GOPAL SIR, RAJU, SURESH per master sheet.",
+  "voice_direction": "Raju — gleeful mockery. Suresh — nasal, sniggering follow-up joke.",
+  "sfx": "कक्षाको हाँसो, बेन्च चिच्याएको आवाज",
+  "music": "Comic theme suddenly cut short",
+  "hook": "Arjun rises from his seat — and the entire room feels the shift."
+ },
+ {
+  "id": "s09g02",
+  "scene": 9,
+  "segment": 2,
+  "lines": [
+   {
+    "speaker": "अर्जुन",
+    "text": "बस्नुस्! अब एक शब्द नबोल्नु! तिमीहरूलाई थाहा छैन सर हरेक बिहान कहाँबाट आउनुहुन्छ भनेर! मलाई थाहा छ... किनकि मैले आफ्नै आँखाले देखेँ।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "[ARJUN] stands, voice trembling but firm, tears already falling. The entire class falls silent, stunned. Camera: tight close-up on Arjun's face, tears on his chin, then a wide shot of the frozen classroom. Lighting: a single beam of light falling on Arjun as if isolating him. Atmosphere: sudden, powerful confrontation.",
+  "consistency": "ARJUN per master sheet.",
+  "voice_direction": "Arjun — trembling but unstoppable, cracking with emotion yet forceful.",
+  "sfx": "पूर्ण सन्नाटा, आँसु खसेको सूक्ष्म आवाज",
+  "music": "Dramatic emotional sting",
+  "hook": "Gopal Sir's composed mask finally breaks — \"अर्जुन... तिमी...?\""
+ },
+ {
+  "id": "s09g03",
+  "scene": 9,
+  "segment": 3,
+  "lines": [
+   {
+    "speaker": "गोपाल सर",
+    "text": "अर्जुन... तिमी...?"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Close-up on [GOPAL SIR]'s stunned face, glasses catching the light, genuine surprise breaking through his usual calm. [RAJU] and [SURESH] shrink back in their seats, their smirks gone. Camera: alternating close-ups between teacher and the now-ashamed boys. Lighting: soft daylight, emotional intimacy. Atmosphere: the mask fully off for the first time.",
+  "consistency": "All per master sheet.",
+  "voice_direction": "Gopal Sir — quiet disbelief, vulnerability showing for the first time.",
+  "sfx": "कक्षाको भारी मौनता, हावा",
+  "music": "Suspended emotional pause",
+  "hook": "All eyes turn to the classroom door, where [DHAN BAHADUR SIR] has been standing, listening, for longer than anyone realized."
+ },
+ {
+  "id": "s09g04",
+  "scene": 9,
+  "segment": 4,
+  "lines": [
+   {
+    "speaker": "narrator",
+    "text": "सिंगो कक्षा मौन भयो। अर्जुनले सास तान्यो र भन्न थाल्यो — खोला, जंगल, भत्किएको स्कूल, र फाटेको जुत्ताको साँचो कथा।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "[ARJUN] takes a deep breath and begins telling the full story — the river, the forest, the broken school, [SANU], [MAYA], [BIRE], the torn shoe. Camera: slow circular dolly around the captivated classroom as he speaks, faces softening one by one. Lighting: warm afternoon light growing softer. Atmosphere: a truth finally being told.",
+  "consistency": "ARJUN and reactive classroom per master sheet.",
+  "voice_direction": "Narrator — quiet, letting the moment breathe.",
+  "sfx": "अर्जुनको स्वर, हल्का सुस्केरा भरिएको कक्षा",
+  "music": "Rising emotional swell",
+  "hook": "Dhan Bahadur Sir's stern face has already begun to change."
+ },
+ {
+  "id": "s10g01",
+  "scene": 10,
+  "segment": 1,
+  "lines": [
+   {
+    "speaker": "रमेश सर",
+    "text": "धनबहादुर सर... मलाई पनि थाहा थियो। उहाँको तलब त छ महिनादेखि रोकिएको छ — सरकारी फाइल अड्किएको भनेर। तर उहाँले न स्कूल छाड्नुभयो, न त्यो अर्को गाउँका बच्चाहरूलाई।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "[RAMESH SIR] (light-yellow shirt, gold-rimmed glasses) steps forward from the doorway, addressing [DHAN BAHADUR SIR] directly, revealing what he has known and kept quiet. Camera: two-shot at the classroom door, Gopal Sir visible in the background lowering his head. Lighting: bright afternoon light. Atmosphere: the full truth surfacing.",
+  "consistency": "RAMESH SIR and DHAN BAHADUR SIR per master sheet.",
+  "voice_direction": "Ramesh Sir — grave, loyal, finally unburdening a secret.",
+  "sfx": "कक्षाको मौनता, हल्का सुस्केरा",
+  "music": "Heavy revelation chord",
+  "hook": "Six months. Unpaid. And still he came every single day — the weight of it lands on everyone at once."
+ },
+ {
+  "id": "s10g02",
+  "scene": 10,
+  "segment": 2,
+  "lines": [
+   {
+    "speaker": "प्रधानाध्यापक धनबहादुर सर",
+    "text": "छ महिना... तलब बिना... र मैले उहाँलाई ढिलो भएकोमा हप्काइरहेँ?"
+   },
+   {
+    "speaker": "गोपाल सर",
+    "text": "प्रधानाध्यापक सर... मलाई माफ गर्नुहोस्। मैले भन्न सक्थेँ, तर भनिनँ... म ती बच्चाहरूको एक मात्र आशा हुँ।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Close-up on [DHAN BAHADUR SIR]'s stern face slowly cracking with remorse, his cane lowering, ledger clutched tighter to his chest. [GOPAL SIR] bows his head apologetically. Camera: slow push into the headmaster's transforming expression. Lighting: soft, forgiving afternoon light. Atmosphere: authority humbled by truth.",
+  "consistency": "DHAN BAHADUR SIR and GOPAL SIR per master sheet.",
+  "voice_direction": "Headmaster — voice breaking with guilt. Gopal Sir — humble, resolute, still protecting the far-village children with his words.",
+  "sfx": "भारी मौनता, हल्का सास",
+  "music": "Deeply moving, slow strings",
+  "hook": "Ramesh Sir places a hand on Gopal Sir's shoulder — the whole room understands what kind of man he really is."
+ },
+ {
+  "id": "s10g03",
+  "scene": 10,
+  "segment": 3,
+  "lines": [
+   {
+    "speaker": "narrator",
+    "text": "त्यही दिन दिउँसो, गाउँभरि यो खबर फैलियो। साँझसम्ममा फूलबारीको हरेक घरमा एउटै कुरा हुन थाल्यो।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Time-lapse montage: the news spreading through फूलबारी village by afternoon — women talking at the water tap, farmers pausing mid-field, elders gathering at the chautari, all repeating the story of Gopal Sir. Camera: series of quick vignette cuts across the village. Lighting: warm golden afternoon fading to evening. Atmosphere: a village united by a shared realization.",
+  "consistency": "Background villagers generic but consistent with hill-village style.",
+  "voice_direction": "Narrator — warm, building toward a communal resolution.",
+  "sfx": "गाउँको साँझको वातावरण, कुरा गरेको हल्का आवाज",
+  "music": "Rising communal, hopeful theme",
+  "hook": "By nightfall, one plan is agreed upon by everyone — tomorrow, the whole class will meet Gopal Sir on the trail itself."
+ },
+ {
+  "id": "s11g01",
+  "scene": 11,
+  "segment": 1,
+  "lines": [
+   {
+    "speaker": "narrator",
+    "text": "भोलिपल्ट, झिसमिसे नउघ्रिँदै, गोपाल सर सधैंझैं आफ्नो झोला बोकेर घरबाट निस्कनुभयो — आज नयाँ जुत्तासहित।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Pre-dawn interior: [SURYA BAHADUR] hands [GOPAL SIR] — visiting briefly the night before — a brand-new pair of sturdy shoes bought from the village shop, wrapped in cloth. Camera: warm close-up on the exchange of the shoe box. Lighting: soft tuki lamp glow. Atmosphere: quiet village solidarity.",
+  "consistency": "SURYA BAHADUR and GOPAL SIR per master sheet.",
+  "voice_direction": "Narrator — tender, anticipatory.",
+  "sfx": "कपडा फुकालेको आवाज, टुकीको हल्का जलेको आवाज",
+  "music": "Gentle hopeful theme",
+  "hook": "He laces the new shoes and steps out onto the familiar trail one more time."
+ },
+ {
+  "id": "s11g02",
+  "scene": 11,
+  "segment": 2,
+  "lines": [],
+  "duration": "10 seconds",
+  "prompt": "Wide golden-sunrise shot: [GOPAL SIR] rounds a bend on the uphill trail and stops short — ahead, the entire class and half the village stand waiting along the path, holding marigold garlands and a steaming kettle of tea. Camera: sweeping reveal shot from Gopal Sir's POV to the full crowd. Lighting: brilliant golden sunrise. Atmosphere: overwhelming, joyful surprise.",
+  "consistency": "GOPAL SIR per master sheet; crowd includes ARJUN, RAJU, SURESH, DHAN BAHADUR SIR, RAMESH SIR, HALDHAR KAKA, villagers.",
+  "sfx": "भीडको हर्षोल्लास, मादलको हल्का आवाज",
+  "voice_direction": "(No dialogue — the visual reveal carries the beat)",
+  "music": "Triumphant emotional swell",
+  "hook": "Gopal Sir freezes mid-step, hand rising to his mouth in disbelief."
+ },
+ {
+  "id": "s11g03",
+  "scene": 11,
+  "segment": 3,
+  "lines": [
+   {
+    "speaker": "हाल्धर काका",
+    "text": "गोपाल सर... तपाईं हामीभन्दा धेरै अगाडि हिँड्नुभएछ, र हामीले थाहै पाएनौं। आजदेखि तपाईंको बाटो एक्लो हुनेछैन।"
+   },
+   {
+    "speaker": "अर्जुन",
+    "text": "सर, हामी पनि तपाईंसँगै तल्लो सिम्ले जान्छौं। माया-सानु-बिरेलाई भेट्न मन लाग्यो।"
+   },
+   {
+    "speaker": "राजु",
+    "text": "सर... मलाई माफ गर्नुहोस्। मैले तपाईंलाई नबुझी गिज्याएँ।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "[HALDHAR KAKA] (white hair, black topi, walking stick, daura-suruwal) steps forward and places a marigold garland around [GOPAL SIR]'s neck. [ARJUN] stands close by, smiling through tears. [RAJU] bows his head apologetically nearby. Camera: warm eye-level close-up on the garlanding, then a wide shot of the full welcoming crowd. Lighting: soft golden morning light. Atmosphere: honor, redemption, community.",
+  "consistency": "HALDHAR KAKA, GOPAL SIR, ARJUN, RAJU per master sheet.",
+  "voice_direction": "Haldhar Kaka — slow, deeply respectful elder tone. Arjun — bright, healed joy. Raju — genuinely remorseful, small voice.",
+  "sfx": "मालाको सुस्केरा, गाउँलेको न्यानो हल्ला",
+  "music": "Warm, uplifting resolution theme",
+  "hook": "Gopal Sir looks down at his new shoes, then at the old torn one someone has carefully placed nearby out of respect."
+ },
+ {
+  "id": "s11g04",
+  "scene": 11,
+  "segment": 4,
+  "lines": [
+   {
+    "speaker": "गोपाल सर",
+    "text": "बाबुहरू हो... म त कहिल्यै ढिलो थिइनँ। म त सधैं... अर्को बाटोमा थिएँ।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Wide joyful shot: the entire crowd walks together up the trail toward the river, crossing over into तल्लो सिम्ले, where [SANU], [MAYA], and [BIRE] run out amazed to see so many new faces. Camera: sweeping crane shot following the joined procession across the river and into the far village. Lighting: full bright morning sun. Atmosphere: two villages united.",
+  "consistency": "All characters per master sheet.",
+  "voice_direction": "Gopal Sir — quiet strength, a lifetime of unspoken sacrifice finally spoken aloud.",
+  "sfx": "खोलाको बगाव, बालबालिकाको खुसीको चिच्याहट, मादल",
+  "music": "Full emotional, triumphant swell",
+  "hook": "*(A brief moment of silence over the joined villages, then the narrator's grave voice begins the final lesson...)*"
+ },
+ {
+  "id": "s12g01",
+  "scene": 12,
+  "segment": 1,
+  "lines": [
+   {
+    "speaker": "narrator",
+    "text": "साथीहरू... गोपाल सरको फाटेको जुत्ता कुनै अल्छीपनको चिन्ह थिएन। त्यो त उहाँले हरेक दिन हिँड्नुभएको त्यो अनदेखा बाटोको प्रमाण थियो। हामी प्रायः मानिसलाई देखिने कुराले मात्र जोख्छौं — तर देखिने कुराको पछाडि प्रायः एउटा नदेखिने बाटो लुकेको हुन्छ।"
+   }
+  ],
+  "duration": "10 seconds",
+  "prompt": "Sweeping golden aerial shot pulling back over the entire trail — from Fulbari school, over the pine forest, across the river and bridge, to the far village school — the whole journey visible as one continuous golden path at sunset. Soft-focus memory frames drift like clouds: the torn shoe, the mocking classroom, the river crossing, the garlanding. Camera: slow godlike pull-back tracing the whole route. Lighting: deep golden-orange sunset. Atmosphere: reflective, timeless wisdom.",
+  "consistency": "Montage frames reuse exact earlier visuals.",
+  "voice_direction": "Narrator — grandfather-by-the-fire warmth, unhurried, deeply wise.",
+  "sfx": "साँझको हावा, टाढा घण्टीको आवाज, चराहरू गुँड फर्किएको आवाज",
+  "music": "Gentle reflective sarangi",
+  "hook": "The screen slowly settles on a single image: a worn old shoe resting beside a brand-new one on a sunlit stone."
+ },
+ {
+  "id": "s12g02",
+  "scene": 12,
+  "segment": 2,
+  "lines": [],
+  "duration": "10 seconds",
+  "prompt": "Final image: the old torn shoe and the new shoe side by side on the chautari stone in soft dusk light, a marigold petal drifting down between them. The moral text fades in above in elegant Devanagari lettering. Camera: locked-off close-up, slow fade. Lighting: last warm light of day. Atmosphere: sacred stillness, quiet resolve.",
+  "consistency": "The shoe motif established across Scenes 1, 8, and 11.",
+  "voice_direction": "Narrator — slow, final, each phrase allowed to breathe; last word almost whispered.",
+  "sfx": "एउटा हल्का घण्टीको चाइम, हावा, मौनता",
+  "music": "Single resolving warm chord, fade out"
+ }
+]
